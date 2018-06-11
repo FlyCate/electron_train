@@ -1,0 +1,782 @@
+<?xml version="1.0" encoding="gb2312"?>
+<root>
+    <cmd priority="1_1_3"> 
+    	    <mainstyle  name="供电方案选择"/> 
+    	   	<question num="0">      
+		          <style  name="供电方式"/>    
+		    	    <anwser index="1"/>       
+		    	    <item   name="供电方式"/>  
+		        	<option name="独立式"  index="0" explain="独立式：独立式供电方案设备成本较高，不建议选用"/>
+		        	<option name="集中式"  index="1" explain="集中式：对于设备安装距离不大的一般的小型项目选择集中式供电方案比较好，这个方案是正确的！"/>
+		        	<option name="混合式"  index="2" explain="混合式：本项目较小，而且设备安装的位置比较集中，混合式方案也是正确的！"/>		        	
+        	</question>    	
+					<question num="1">      
+					    <style  name="电源分配方式"/>    
+					    <anwser index="1"/>       
+					    <item   name="电源分配方式"/>  
+					  	<option name="端子排并联"  index="0" explain="端子排并联：对于这个小项目而言，端子排并联方案使用的端子排数量较多，可作为第二选择方案。"/>
+					  	<option name="端子排串联"  index="1" explain="端子排串联：端子排串联方案相对紧凑，使用端子排数量较少，作为选择方案。"/>
+					  	<option name="端子排混合"  index="2" explain="端子排混合：这种方案往往用于用电设备的电流不大而设备数量较多，建议不作为本项目的方案。"/>		        	
+					</question>
+    </cmd>
+     <cmd priority="1_1_4"> 
+    	    <mainstyle  name="供电设备选型"/> 
+    	   	<question num="0">      
+		          <style  name="供电方式"/>    
+		    	    <anwser index="1"/>       
+		    	    <item   name="供电方式"/>  
+		        	<option name="独立式"  index="0" explain="独立式：独立式供电方案设备成本较高，不建议选用。"/>
+		        	<option name="集中式"  index="1" explain="正确！"/>
+		        	<option name="混合式"  index="2" explain="混合式：本项目较小，而且设备安装的位置比较集中，混合式方案不合适！"/>		        	
+        	</question>    	
+					<question num="1">      
+					    <style  name="电源类型"/>    
+					    <anwser index="2"/>       
+					    <item   name="电源类型"/>  
+					  	<option name="蓄电池"    index="0" explain="蓄电池：蓄电池的电源质量非常好，但无论是项目成本和使用成本都较高，一般情况不选用。"/>
+					  	<option name="线性电源"  index="1" explain="线性电源：线性电源所提供的电源质量较好，但成本高、体积大。电流较大的线性电源成本会按几何倍数增加，没有特殊要求的场合不宜选用。"/>
+					  	<option name="开关电源"  index="2" explain="开关电源：开关电源的电源质量虽不如以上两种电源，但已经完全可以满足绝大多数没有特殊要求的项目要求，而且价格更加合理，可作为本项目的电源设备。"/>		        	
+					</question>
+							<question num="2">      
+					    <style  name="电源电压"/>    
+					    <anwser index="1"/>       
+					    <item   name="电源电压"/>  
+					  	<option name="DC5V"   index="0" explain="DC5V 5V属于比较低的电压，一般只适用于用电器较少且供电距离非常近的情况。工程项目不宜选用，因为多数用电设备的芯片的工作电源本身就是5V，电源到用电器间的导线中的电压降会造成供电电压低于5V。"/>
+					  	<option name="DC12V"  index="1" explain="DC12V：这是工程项目中经常选用的电源电压，尤其适用于民用项目。12V电压到用电器之间也会有一定的电压降，但即使有适当的电压将一般也不会影响用电设备的正常工作。"/>
+					  	<option name="DC24V"  index="2" explain="DC24V：24V也同样是工程项目经常选用的电压，尤其适用于工业项目。"/>		        	
+					</question>
+							<question num="3">      
+					    <style  name="电源电流"/>    
+					    <anwser index="2"/>       
+					    <item   name="电源电流"/>  
+					  	<option name="3A"   index="0" explain="3A：这个项目中的所有用电设备的总电流大约为500mA,选择3A的电源显然太小了。"/>
+					  	<option name="5A"   index="1" explain="5A：这个项目的所有用电设备的总电流大于为500mA,如果选择5A的电源说明没有考虑冗余量，这个选择也不合适。"/>
+					  	<option name="10A"  index="2" explain="10A：这个项目的所有用电设备的总电流大于为500mA,如果选择10A的电源就有一倍的冗余量，这个选择比较合适。"/>		        	
+					</question>
+    </cmd>   
+       <cmd priority="1_2_1"> 
+    	    <mainstyle  name="传感网技术选择"/> 
+    	   	<question num="0">      
+		          <style  name="传感网技术选择"/>    
+		    	    <anwser index="0"/>       
+		    	    <item   name="传感网技术选择"/>  
+		        	<option name="ZigBee无线通信"  index="0" explain="ZigBee无线通信是目前比较流行的短距离无线通信技术，具有比较高的可靠性和自组网功能，可满足本项目的要求。"/>
+		        	<option name="RS485有线通信"   index="1" explain="RS485有线通信：RS485有线通信是非常经典的短距离有线通信技术，被广泛应用于很多自动化项目，用于本项目也是可以的，缺点是需要布线，成本较高。"/>
+		        	<option name="433MHz无线通信"  index="2" explain="433MHz无线通信：433MHz无线通信也是不错的选择，与ZigBee相比同样不需要布线，但没有自组网功能，通信距离也比较长，缺点是保密性较差。"/>		        	
+        			<option name="WiFi无线通信"    index="3" explain="WiFi无线通信：WiFi无线通信也可以满足本项目的要求，但是需要在室内安装一个无线路由器，通过无线路由器组成网络。"/>
+        	</question>    	
+    </cmd> 
+    
+       <cmd priority="1_2_7"> 
+    	    <mainstyle  name="网络通信技术选择"/> 
+    	   	<question num="0">      
+		          <style  name="网络通信技术选择"/>    
+		    	    <anwser index="0"/>       
+		    	    <item   name="网络通信技术选择"/>  
+		        	<option name="互联网"   index="0" explain="互联网：可满足本项目的要求，但是需要网线连接，稍微麻烦一点。"/>
+		        	<option name="移动通信" index="1" explain="移动通信：虽可满足项目的要求，但使用费用较高。"/>
+        	</question>    	
+    	</cmd> 
+			<cmd priority="1_3_2"> 
+				<mainstyle  name="温度传感器选型"/> 
+			 	<question num="0">      
+			      <style  name="工作电压"/>    
+				    <anwser index="2"/>       
+				    <item   name="工作电压"/>  
+			    	<option name="3.3V"   index="0" explain="3.3V是目前许多芯片的工作电压，比较适合在一个电路板上供电的器件，对于一个工程项目则不合适，考虑供电导线的沿途压降，到用电设备时的电压会更低。"/>
+			    	<option name="5V"     index="1" explain="5V电压比较适合近距离供电，作为一个区域内安装的设备的供电则不合适，原因和3.3V电源相同。"/>
+			    	<option name="12V"    index="2" explain="12V电源比较合适，因为电路板级的工作电源一般为3.3V或5V，实际需要的电压大于7V即可正常使用，即使考虑导线沿途压降，一般也不会影响设备的正常工作。"/>
+				</question>   
+				
+				<question num="1">      
+			      <style  name="输出信号"/>    
+				    <anwser index="0"/>       
+				    <item   name="输出信号"/>  
+			    	<option name="0-5V"   index="0" explain="0-5V：当传感器与采集器距离较近时可选用0-5V输出信号，距离较远时则建议选用4-20mA电流信号的传感器，因为电流信号不存在压降问题。本项目建议选用0-5V输出信号。"/>
+			    	<option name="0-10V"  index="1" explain="0-10V：0-10V输出信号的传感器较少，与之配套的采集器也较少，这个电压一般可用于控制信号。不建议选用。"/>
+			    	<option name="4-20mA" index="2" explain="4-20mA：本项目的传感器与采集器的距离很近，运行环境也较好，可以可不选用4-20mA电流输出的传感器。"/>
+				</question>  	
+				
+				<question num="2">      
+			      <style  name="测量范围"/>    
+				    <anwser index="0"/>       
+				    <item   name="测量范围"/>  
+			    	<option name="-20-50℃"   index="0" explain="-20-50℃测量范围的温度传感器的敏感元件一般是半导体器件，这种器件的线性度好，测量范围可以满足多数项目的要求，而且成本较低，建议选用这种测量范围。"/>
+			    	<option name="-200-500℃" index="1" explain="-200-500℃测量范围的温度传感器的敏感元件一般是热电阻，热电阻的线性度并不是十分理想，而且本项目的使用环境是室内，这个测量范围并不合适。"/>
+			    	<option name="100-1200℃" index="2" explain="100-1200℃测量范围的温度传感器的敏感元件一般是热电偶，热电偶的成本较高，不适合低温度范围的温度测量。"/>
+				</question> 
+				
+				<question num="3">      
+			      <style  name="测量精度"/>    
+				    <anwser index="1"/>       
+				    <item   name="测量精度"/>  
+			    	<option name="±0.1℃" index="0" explain="测量精度为±0.1℃的温度传感器的精度太高了，会导致传感器成本大幅度提高，一般项目不需要选择这种精度传感器。"/>
+			    	<option name="±0.5℃" index="1" explain="测量精度为±0.5℃的温度传感器的精度比较适中，既满足精度要求，也满足成本要求，选择这个精度比较合适。"/>
+			    	<option name="±3.0℃" index="2" explain="测量精度为±3.0℃的温度传感器的测量精度太低，不能满足绝大多数项目的精度要求，不建议选用。"/>
+				</question> 
+			</cmd> 
+			
+			<cmd priority="1_3_3"> 
+				<mainstyle  name="湿度传感器选型"/> 
+			 	<question num="0">      
+			      <style  name="工作电压"/>    
+				    <anwser index="2"/>       
+				    <item   name="工作电压"/>  
+			    	<option name="3.3V"   index="0" explain="3.3V是目前许多芯片的工作电压，比较适合在一个电路板上供电的器件，对于一个工程项目则不合适，考虑供电导线的沿途压降，到用电设备时的电压会更低。"/>
+			    	<option name="5V"     index="1" explain="5V电压比较适合近距离供电，作为一个区域内安装的设备的供电则不合适，原因和3.3V电源相同。"/>
+			    	<option name="12V"    index="2" explain="12V电源比较合适，因为电路板级的工作电源一般为3.3V或5V，实际需要的电压大于7V即可正常使用，即使考虑导线沿途压降，一般也不会影响设备的正常工作。"/>
+				</question>   
+				
+				<question num="1">      
+			      <style  name="输出信号"/>    
+				    <anwser index="0"/>       
+				    <item   name="输出信号"/>  
+			    	<option name="0-5V"   index="0" explain="0-5V：当传感器与采集器距离较近时可选用0-5V输出信号，距离较远时则建议选用4-20mA电流信号的传感器，因为电流信号不存在压降问题。本项目建议选用0-5V输出信号。"/>
+			    	<option name="0-10V"  index="1" explain="0-10V：0-10V输出信号的传感器较少，与之配套的采集器也较少，这个电压一般可用于控制信号。不建议选用。"/>
+			    	<option name="4-20mA" index="2" explain="4-20mA：本项目的传感器与采集器的距离很近，运行环境也较好，可以可不选用4-20mA电流输出的传感器。"/>
+				</question>  	
+				
+				<question num="2">      
+			      <style  name="测量范围"/>    
+				    <anwser index="1"/>       
+				    <item   name="测量范围"/>  
+			    	<option name="0-80%RH"   index="0" explain="这个测量范围的上限是80%RH，事实上在比较潮湿的环境中实际湿度会超过这个范围，所以这个测量范围显然不合适。"/>
+			    	<option name="0-100%RH"  index="1" explain="0-100%RH：正确！"/>
+			    	<option name="0-110%RH"  index="2" explain="0-110%RH：这个参数是错误的，因为湿度不可能超过100%RH，所以不可能选用这个测量范围。"/>
+				</question> 
+				
+				<question num="3">      
+			      <style  name="测量精度"/>    
+				    <anwser index="2"/>       
+				    <item   name="测量精度"/>  
+			    	<option name="±0.1%RH℃"  index="0" explain="±0.1%RH的精度显然离谱了，测量湿度的精度一般会比温度低，这个测量精度的产品是找不到的。"/>
+			    	<option name="±1%RH" 			index="1" explain="±0.1%RH的精度仍然太高了，市场上很难找到，而且一般项目也不需要这么高精度的湿度测量，已建议选用。"/>
+			    	<option name="±3%RH" 			index="2" explain="±3%RH的精度是大多数湿度传感器能够达到的测量精度，这个精度可以满足绝大多数项目的测量要求，而且价格也比较合理。"/>
+				</question> 
+			</cmd> 
+			
+		<cmd priority="1_3_4"> 
+				<mainstyle  name="光照度传感器选型"/> 
+			 	<question num="0">      
+			      <style  name="工作电压"/>    
+				    <anwser index="2"/>       
+				    <item   name="工作电压"/>  
+			    	<option name="3.3V"   index="0" explain="3.3V是目前许多芯片的工作电压，比较适合在一个电路板上供电的器件，对于一个工程项目则不合适，考虑供电导线的沿途压降，到用电设备时的电压会更低。"/>
+			    	<option name="5V"     index="1" explain="5V电压比较适合近距离供电，作为一个区域内安装的设备的供电则不合适，原因和3.3V电源相同。"/>
+			    	<option name="12V"    index="2" explain="12V电源比较合适，因为电路板级的工作电源一般为3.3V或5V，实际需要的电压大于7V即可正常使用，即使考虑导线沿途压降，一般也不会影响设备的正常工作。"/>
+				</question>   
+				
+				<question num="1">      
+			      <style  name="输出信号"/>    
+				    <anwser index="0"/>       
+				    <item   name="输出信号"/>  
+			    	<option name="0-5V"   index="0" explain="0-5V：当传感器与采集器距离较近时可选用0-5V输出信号，距离较远时则建议选用4-20mA电流信号的传感器，因为电流信号不存在压降问题。本项目建议选用0-5V输出信号。"/>
+			    	<option name="0-10V"  index="1" explain="0-10V：0-10V输出信号的传感器较少，与之配套的采集器也较少，这个电压一般可用于控制信号。不建议选用。"/>
+			    	<option name="4-20mA" index="2" explain="4-20mA：本项目的传感器与采集器的距离很近，运行环境也较好，可以可不选用4-20mA电流输出的传感器。"/>
+				</question>  	
+				
+				<question num="2">      
+			      <style  name="测量范围"/>    
+				    <anwser index="1"/>       
+				    <item   name="测量范围"/>  
+			    	<option name="0-2000Lux"   index="0" explain="0-2000Lux：测量范围为0-2000Lux的光照度传感器比较适用于室内几乎没有阳光的环境，比如完全不需要阳光的蘑菇房比较合适，对于一般室内测量光照度测量范围有点低。"/>
+			    	<option name="0-5000Lux"   index="1" explain="测量范围为0-5000Lux的光照度传感器可以使用在室内灯光照明和没有阳光直射的室内使用，用于本项目比较合适。"/>
+			    	<option name="0-10000Lux"  index="2" explain="测量范围为0-10000Lux的光照度传感器虽然也可以用于室内，但由于测量范围太宽，对于室内大多数光照度范围为1000-3000 Lux的环境使用则会导致测量精度降低，所以不太合适。"/>
+				</question> 
+				
+				<question num="3">      
+			      <style  name="测量精度"/>    
+				    <anwser index="1"/>       
+				    <item   name="测量精度"/>  
+			    	<option name="±1%"  index="0" explain="测量范围为±1%的光照度传感器的测量精度显然太高了，这个精度的光照度传感器在市面上估计是找不到的，不能选用。"/>
+			    	<option name="±5%" 	index="1" explain="±5%：这个测量精度比较合适，可以满足大多数项目的要求，而且价格也比较合理。建议选用！"/>
+			    	<option name="±10%" index="2" explain="测量范围为±10%的光照度传感器的测量精度显然太低了，不能选用，事实上没有这种产品。"/>
+				</question> 
+			</cmd> 
+			
+			<cmd priority="1_3_5"> 
+				<mainstyle  name="甲醛传感器选型"/> 
+			 	<question num="0">      
+			      <style  name="工作电压"/>    
+				    <anwser index="2"/>       
+				    <item   name="工作电压"/>  
+			    	<option name="3.3V"   index="0" explain="3.3V是目前许多芯片的工作电压，比较适合在一个电路板上供电的器件，对于一个工程项目则不合适，考虑供电导线的沿途压降，到用电设备时的电压会更低。"/>
+			    	<option name="5V"     index="1" explain="5V电压比较适合近距离供电，作为一个区域内安装的设备的供电则不合适，原因和3.3V电源相同。"/>
+			    	<option name="12V"    index="2" explain="12V电源比较合适，因为电路板级的工作电源一般为3.3V或5V，实际需要的电压大于7V即可正常使用，即使考虑导线沿途压降，一般也不会影响设备的正常工作。"/>
+				</question>   
+				
+				<question num="1">      
+			      <style  name="输出信号"/>    
+				    <anwser index="0"/>       
+				    <item   name="输出信号"/>  
+			    	<option name="0-5V"   index="0" explain="0-5V：当传感器与采集器距离较近时可选用0-5V输出信号，距离较远时则建议选用4-20mA电流信号的传感器，因为电流信号不存在压降问题。本项目建议选用0-5V输出信号。"/>
+			    	<option name="0-10V"  index="1" explain="0-10V：0-10V输出信号的传感器较少，与之配套的采集器也较少，这个电压一般可用于控制信号。不建议选用。"/>
+			    	<option name="4-20mA" index="2" explain="4-20mA：本项目的传感器与采集器的距离很近，运行环境也较好，可以可不选用4-20mA电流输出的传感器。"/>
+				</question>  	
+				
+				<question num="2">      
+			      <style  name="测量范围"/>    
+				    <anwser index="1"/>       
+				    <item   name="测量范围"/>  
+			    	<option name="0-1ppm"   index="0" explain="测量范围为0-1ppm的甲醛传感器的测量范围太小，一般有甲醛污染的室内环境的浓度多为2-3ppm，所以这个测量范围没有使用价值。"/>
+			    	<option name="0-5ppm"   index="1" explain="测量范围为0-5ppm的甲醛传感器的测量范围比较合适，因为一般室内甲醛污染的浓度不会超过5ppm。"/>
+			    	<option name="0-10ppm"  index="2" explain="测量范围为0-10ppm的甲醛传感器的测量范围太大了，一般有甲醛污染的室内环境不会还远远达不到这个范围的上限。"/>
+				</question> 
+				
+				<question num="3">      
+			      <style  name="测量精度"/>    
+				    <anwser index="1"/>       
+				    <item   name="测量精度"/>  
+			    	<option name="0.01ppm"  index="0" explain="测量精度为0.01ppm的甲醛传感器的测量精度太高了，我们关心的是污染的大约程度，精度不需这么高，高精度的传感器的价格很高。"/>
+			    	<option name="0.05ppm" 	index="1" explain="测量精度为0.05ppm的甲醛传感器的精度已经够用了，而且价格比较合理。"/>
+			    	<option name="1.0ppm"   index="2" explain="测量精度为1.0ppm甲醛传感器的精度太低了，几乎没有使用价值。"/>
+				</question> 
+			</cmd> 
+			
+	<cmd priority="1_3_6"> 
+				<mainstyle  name="甲醛传感器选型"/> 
+			 	<question num="0">      
+			      <style  name="工作电压"/>    
+				    <anwser index="2"/>       
+				    <item   name="工作电压"/>  
+			    	<option name="3.3V"   index="0" explain="3.3V是目前许多芯片的工作电压，比较适合在一个电路板上供电的器件，对于一个工程项目则不合适，考虑供电导线的沿途压降，到用电设备时的电压会更低。"/>
+			    	<option name="5V"     index="1" explain="5V电压比较适合近距离供电，作为一个区域内安装的设备的供电则不合适，原因和3.3V电源相同。"/>
+			    	<option name="12V"    index="2" explain="12V电源比较合适，因为电路板级的工作电源一般为3.3V或5V，实际需要的电压大于7V即可正常使用，即使考虑导线沿途压降，一般也不会影响设备的正常工作。"/>
+				</question>   
+				
+				<question num="1">      
+			      <style  name="输出信号"/>    
+				    <anwser index="0"/>       
+				    <item   name="输出信号"/>  
+			    	<option name="0-5V"   index="0" explain="0-5V：当传感器与采集器距离较近时可选用0-5V输出信号，距离较远时则建议选用4-20mA电流信号的传感器，因为电流信号不存在压降问题。本项目建议选用0-5V输出信号。"/>
+			    	<option name="0-10V"  index="1" explain="0-10V：0-10V输出信号的传感器较少，与之配套的采集器也较少，这个电压一般可用于控制信号。不建议选用。"/>
+			    	<option name="4-20mA" index="2" explain="4-20mA：本项目的传感器与采集器的距离很近，运行环境也较好，可以可不选用4-20mA电流输出的传感器。"/>
+				</question>  	
+				
+				<question num="2">      
+			      <style  name="测量范围"/>    
+				    <anwser index="1"/>       
+				    <item   name="测量范围"/>  
+			    	<option name="0-100ppm"    index="0" explain="测量范围为0-100ppm的CO2传感器的测量范围显然太小了，一般正常情况下室内的CO2的浓度大约为400ppm左右，这个传感器没有使用价值。"/>
+			    	<option name="0-1000ppm"   index="1" explain="测量范围为0-1000ppm的CO2传感器的测量范围比较合适，因为对人来说这个范围是比较理想的浓度范围。"/>
+			    	<option name="0-10000ppm"  index="2" explain="测量范围为0-10000ppm的CO2传感器的测量范围太大了，因为浓度达到 2000ppm时人会感到不舒适，5000ppm以上就会对人体造成永久性伤害，室内不可能达到这么高的值。"/>
+				</question> 
+				
+				<question num="3">      
+			      <style  name="测量精度"/>    
+				    <anwser index="1"/>       
+				    <item   name="测量精度"/>  
+			    	<option name="±0.2FS"  index="0" explain="测量精度为±0.2FS的CO2传感器的精度太高了，这个精度的传感器不适合用于一般环境，价格也会大幅度提高。"/>
+			    	<option name="±2FS" 	 index="1" explain="测量精度为±2FS的CO2传感器比较合理，能满足多数项目的要求且价格合理。"/>
+			    	<option name="±20FS"   index="2" explain="测量精度为±20FS的CO2传感器的精度太低了，基本没有使用价值。"/>
+				</question> 
+			</cmd> 
+			
+			
+			<cmd priority="1_3_7"> 
+				<mainstyle  name="模拟量采集器选型"/> 
+			 	<question num="0">      
+			      <style  name="工作电压"/>    
+				    <anwser index="2"/>       
+				    <item   name="工作电压"/>  
+			    	<option name="3.3V"   index="0" explain="3.3V是目前许多芯片的工作电压，比较适合在一个电路板上供电的器件，对于一个工程项目则不合适，考虑供电导线的沿途压降，到用电设备时的电压会更低。"/>
+			    	<option name="5V"     index="1" explain="5V电压比较适合近距离供电，作为一个区域内安装的设备的供电则不合适，原因和3.3V电源相同。"/>
+			    	<option name="12V"    index="2" explain="12V电源比较合适，因为电路板级的工作电源一般为3.3V或5V，实际需要的电压大于7V即可正常使用，即使考虑导线沿途压降，一般也不会影响设备的正常工作。"/>
+				</question>   
+				
+				<question num="1">      
+			      <style  name="输出信号"/>    
+				    <anwser index="0"/>       
+				    <item   name="输出信号"/>  
+			    	<option name="0-5V"   index="0" explain="0-5V：当传感器与采集器距离较近时可选用0-5V输出信号，距离较远时则建议选用4-20mA电流信号的传感器，因为电流信号不存在压降问题。本项目建议选用0-5V输出信号。"/>
+			    	<option name="0-10V"  index="1" explain="0-10V：0-10V输出信号的传感器较少，与之配套的采集器也较少，这个电压一般可用于控制信号。不建议选用。"/>
+			    	<option name="4-20mA" index="2" explain="4-20mA：本项目的传感器与采集器的距离很近，运行环境也较好，可以可不选用4-20mA电流输出的传感器。"/>
+				</question>  	
+				
+				<question num="2">      
+			      <style  name="通信接口"/>    
+				    <anwser index="0"/>       
+				    <item   name="通信接口"/>  
+			    	<option name="ZigBee"    index="0" explain="ZigBee：仅从所选择的技术是没有问题的，但一个项目只能选择一种通信技术。"/>
+			    	<option name="RS485"     index="1" explain="RS485：仅从所选择的技术是没有问题的，但一个项目只能选择一种通信技术。"/>
+			    	<option name="433MHz"    index="2" explain="433MHz：仅从所选择的技术是没有问题的，但一个项目只能选择一种通信技术。"/>
+				</question> 
+				
+				<question num="3">      
+			      <style  name="网络接口"/>    
+				    <anwser index="0"/>       
+				    <item   name="网络接口"/>  
+			    	<option name="WiFi"       index="0" explain="WiFi：仅从所选择的技术是没有问题的，但一个项目只能选择一种通信技术，需要加装无线路由器。"/>
+			    	<option name="互联网" 	  index="1" explain="互联网：仅从所选择的技术是没有问题的，但一个项目只能选择一种通信技术，需要有网络环境。"/>
+			    	<option name="移动通信"   index="2" explain="移动通信：仅从所选择的技术是没有问题的，但使用费用较高。"/>
+				</question> 
+			</cmd> 
+			
+		<cmd priority="1_4_2"> 
+				<mainstyle  name="紧急报警开关选型"/> 
+			 	<question num="0">      
+			      <style  name="工作电源"/>    
+				    <anwser index="0"/>       
+				    <item   name="工作电源"/>  
+			    	<option name="无"     index="0" explain="正确，紧急报警开关是无源设备。"/>
+			    	<option name="有"     index="1" explain="错误，紧急报警开关不需要电源。"/>   
+				</question>   
+				
+				<question num="1">      
+			      <style  name="输出信号"/>    
+				    <anwser index="0"/>       
+				    <item   name="输出信号"/>  
+			    	<option name="开关量常闭"   index="0" explain="这个选择比较合理，常闭型可自动检测出信号线路故障。"/>
+			    	<option name="开关量常开"   index="1" explain="这个选择不太合理，信号线断路时无法得知，会产生漏报。"/>
+				</question>  	
+			</cmd> 
+			
+		<cmd priority="1_4_3"> 
+				<mainstyle  name="红外报警探头选型"/> 
+			 	<question num="0">      
+			      <style  name="工作电源"/>    
+				    <anwser index="1"/>       
+				    <item   name="工作电源"/>  
+			    	<option name="5V"      index="0" explain="不合适，因为5V电压比较适合近距离供电，作为一个区域内安装的设备的供电则不合适。事实上也没有这种设备。"/>
+			    	<option name="12V"     index="1" explain="12V电源比较合适，沿途压降不会影响正常工作，市面上的红外探头基本都是12V供电。"/>   
+			    	<option name="24V"     index="2" explain="理论上没问题，但市面上的红外探头基本都是12V供电，而且一个项目不要出现两种电压。"/>   
+				</question>   
+				
+				<question num="1">      
+			      <style  name="输出信号"/>    
+				    <anwser index="0"/>       
+				    <item   name="输出信号"/>  
+			    	<option name="常闭开关量"      index="0" explain="这个选择比较合理，常闭型可自动检测出信号线断路，因为线路断路也会报警。"/>
+			    	<option name="常开开关量"      index="1" explain="这个选择不太合理，信号线断路时不能检测，会产生漏报。"/>   
+			    	<option name="常闭常开开关量"  index="2" explain="这种探头的输出有两种选择，一旦确定选择常开开关量时尽量不选择多方案接口的设备，会给施工造成麻烦。"/>
+				</question>  	
+			<question num="2">      
+			      <style  name="红外信号"/>    
+				    <anwser index="2"/>       
+				    <item   name="红外信号"/>  
+			    	<option name="普通"      index="0" explain="适用于没有特殊要求的场合。"/>
+			    	<option name="广角"      index="1" explain="广角型红外探头适用于相对开阔的环境，如教室、实验室、阅览室等。"/>   
+			    	<option name="幕帘式"    index="2" explain="幕帘式红外探头适合安装在门窗等位置，可减少误报。"/>   
+				</question>   
+				
+				<question num="3">      
+			      <style  name="探测距离"/>    
+				    <anwser index="1"/>       
+				    <item   name="探测距离"/>  
+			    	<option name="大约2米"   index="0" explain="没有这种产品，即使安装在门窗位置的幕帘式探头的探测距离也会大于这个距离。"/>
+			    	<option name="大约5米"   index="1" explain="这个距离可以满足多数场合的使用要求，尤其适合用于家庭和面积不大的办公室等场合。"/>   
+			    	<option name="大约10米"  index="2" explain="这个距离适用于大面积的室内场合，选择不合适也会造成更多的误报。"/>
+				</question>  	
+			</cmd> 
+			
+		<cmd priority="1_4_4"> 
+						<mainstyle  name="天然气报警探头选型"/> 
+					 	<question num="0">      
+					      <style  name="工作电源"/>    
+						    <anwser index="1"/>       
+						    <item   name="工作电源"/>  
+					    	<option name="5V"      index="0" explain="不合适，因为5V电压比较适合近距离供电，作为一个区域内安装的设备的供电则不合适。事实上也没有这种设备。"/>
+					    	<option name="12V"     index="1" explain="12V电源比较合适，沿途压降不会影响正常工作，市面上的红外探头基本都是12V供电。"/>   
+					    	<option name="24V"     index="2" explain="理论上没问题，但市面上的红外探头基本都是12V供电，而且一个项目不要出现两种电压。"/>   
+						</question>   
+						
+						<question num="1">      
+					      <style  name="输出信号"/>    
+						    <anwser index="0"/>       
+						    <item   name="输出信号"/>  
+					    	<option name="常闭开关量"      index="0" explain="这个选择比较合理，常闭型可自动检测出信号线断路，因为线路断路也会报警。"/>
+					    	<option name="常开开关量"      index="1" explain="这个选择不太合理，信号线断路时不能检测，会产生漏报。"/>   
+					    	<option name="常闭常开开关量"  index="2" explain="这种探头的输出有两种选择，一旦确定选择常开开关量时尽量不选择多方案接口的设备，会给施工造成麻烦。"/>
+						</question>  	
+						<question num="2">      
+						      <style  name="报警浓度"/>    
+							    <anwser index="2"/>       
+							    <item   name="报警浓度"/>  
+						    	<option name="25 ppm"      index="0" explain="这个报警浓度显然太低了，一只没打着火的打火机都可能触发报警，非常容易误报，用于天然气泄漏报警显然不合适。"/>
+						    	<option name="250 ppm"     index="1" explain="这个报警浓度仍然也有些偏低，如果用在厨房，天然气灶在打火的瞬间会有没燃烧的气体泄漏，也会触发报警，这种报警也是误报。"/>   
+						    	<option name="2500 ppm"    index="2" explain="这个报警浓度比较合适，合理的选择是不允许有漏报的情况下尽量较少误报。"/>   
+						</question>   
+						
+						<question num="3">      
+					      <style  name="探测气体"/>    
+						    <anwser index="1"/>       
+						    <item   name="探测气体"/>  
+					    	<option name="酒精"   index="0" explain="酒精：没有意义。"/>
+					    	<option name="天然气" index="1" explain="煤气:正确！一般这种探头对天然气和煤气都会敏感。"/>   
+					    	<option name="乙炔"   index="2" explain="一般这种探头对乙炔不敏感。"/>
+						</question>  	
+					</cmd> 
+					
+		<cmd priority="1_4_5"> 
+						<mainstyle  name="开关量采集器选型"/> 
+					 	<question num="0">      
+					      <style  name="工作电源"/>    
+						    <anwser index="1"/>       
+						    <item   name="工作电源"/>  
+					    	<option name="5V"      index="0" explain="不合适，因为5V电压比较适合近距离供电，作为一个区域内安装的设备的供电则不合适。事实上也没有这种设备。"/>
+					    	<option name="12V"     index="1" explain="12V电源比较合适，沿途压降不会影响正常工作，市面上的红外探头基本都是12V供电。"/>   
+					    	<option name="13V"     index="2" explain="13V:不是标准电压，也找不到这种电源。"/>   
+						</question>   
+						
+						<question num="1">      
+					      <style  name="通信方式"/>    
+						    <anwser index="0"/>       
+						    <item   name="通信方式"/>  
+					    	<option name="ZigBee"     index="0" explain="暂无"/>
+					    	<option name="RS485"      index="1" explain="暂无"/>   
+					    	<option name="433MHz"     index="2" explain="暂无"/>
+						</question>  	
+						<question num="2">      
+						      <style  name="采集信号"/>    
+							    <anwser index="1"/>       
+							    <item   name="采集信号"/>  
+						    	<option name="0V"      index="0" explain="暂无"/>
+						    	<option name="5V"     index="1" explain="暂无"/>   
+						    	<option name="12V"    index="2" explain="暂无"/>   
+						</question>   
+		</cmd> 
+		
+		<cmd priority="1_4_6"> 
+						<mainstyle  name="门禁单元设备选型"/> 
+					 	<question num="0">      
+					      <style  name="工作电源"/>    
+						    <anwser index="1"/>       
+						    <item   name="工作电源"/>  
+					    	<option name="5V"      index="0" explain="不合适，因为5V电压比较适合近距离供电，作为一个区域内安装的设备的供电则不合适。事实上也没有这种设备。"/>
+					    	<option name="12V"     index="1" explain="12V电源比较合适，沿途压降不会影响正常工作，市面上的红外探头基本都是12V供电。"/>   
+					    	<option name="24V"     index="2" explain="门禁系统由开门按钮、门禁主机、电锁等组成（有些还可以连接报警器和摄像机等），这类产品都是12V供电。"/>   
+						</question>   
+						
+						<question num="1">      
+					      <style  name="识别方式"/>    
+						    <anwser index="0"/>       
+						    <item   name="识别方式"/>  
+					    	<option name="密码"     index="0" explain="这是门禁这类产品最传统的识别方式，优点是识别率高，但安全性较低，如被人窥视密码。"/>
+					    	<option name="RFID"     index="1" explain="大多数门禁采用（或包含）RFID作为识别方法，优点是识别率高，缺点是容易丢失开门卡。"/>   
+					    	<option name="指纹"     index="2" explain="指纹开门是近几年流行的识别方式，唯一缺点是识别率不如上面两种方式。"/>
+						</question>  	
+						<question num="2">      
+						      <style  name="电锁类型"/>    
+							    <anwser index="1"/>       
+							    <item   name="电锁类型"/>  
+						    	<option name="电磁锁"    index="0" explain="电磁锁因开锁的噪音大，不太受欢迎，尤其不适合家庭使用。"/>
+						    	<option name="电机锁"    index="1" explain="电机锁又称为灵性锁，外形与一般门锁相同，开门时噪音也很小，比较适合家庭和办公室使用。"/>   
+						    	<option name="磁力锁"    index="2" explain="磁力锁体积较大，断电开门，适合于公共场合，如小区门，单元门等，不适合家庭和办公室。"/>   
+						</question>   
+					  <question num="3">      
+						      <style  name="开锁电压"/>    
+							    <anwser index="1"/>       
+							    <item   name="开锁电压"/>  
+						    	<option name="5V"      index="0" explain="不合适，因为5V电压比较适合近距离供电，作为一个区域内安装的设备的供电则不合适。事实上也没有这种设备。"/>
+						    	<option name="12V"     index="1" explain="12V电源比较合适，沿途压降不会影响正常工作，市面上的红外探头基本都是12V供电。"/>   
+						    	<option name="24V"     index="2" explain="门禁系统由开门按钮、门禁主机、电锁等组成（有些还可以连接报警器和摄像机等），这类产品都是12V供电。"/>   
+						</question>  
+		</cmd> 
+		
+	 <cmd priority="1_4_7"> 
+						<mainstyle  name="摄像机选型"/> 
+					 	<question num="0">      
+					      <style  name="工作电压"/>    
+						    <anwser index="2"/>       
+						    <item   name="工作电压"/>  
+					    	<option name="3.3V"    index="0" explain="3.3V是电路板中的芯片间的通信方式，市场上的摄像机没有3.3V供电的产品。"/>
+					    	<option name="5V"     index="1" explain="电压太低，没有这种产品。"/>   
+					    	<option name="12V"     index="2" explain="正确，市场上的摄像机的工作电源基本都是12V供电。"/>   
+						</question>   
+						
+						<question num="1">      
+					      <style  name="信号传输方式"/>    
+						    <anwser index="0"/>       
+						    <item   name="信号传输方式"/>  
+					    	<option name="WiFi"     index="0" explain="家庭使用比较合适！通过专业厂家提供的云服务平台传输视频非常实用"/>
+					    	<option name="互联网"   index="1" explain="是目前绝大多数网络摄像机的视频传输方式，这种摄像机的视频传输速率可满足各种项目的要求。"/>   
+					    	<option name="移动通信" index="2" explain="目前这种产品比较少，因为这种通信方式对视频的传输速率较低，使用成本较高。"/>
+						</question>  	
+						<question num="2">      
+						      <style  name="镜头焦距"/>    
+							    <anwser index="1"/>       
+							    <item   name="镜头焦距"/>  
+						    	<option name="2.8mm"  index="0" explain="摄像机镜头的焦距决定了拍摄的最佳拍摄距离，焦距为2.8mm的镜头最佳距离是4.3米，比较适合家庭和小型办公室使用。"/>
+						    	<option name="4mm"    index="1" explain="焦距为4mm的镜头最佳距离是6米，比较适合较大面积的办公室和实验室使用，小型车间等场合也可使用。"/>   
+						    	<option name="8mm"    index="2" explain="焦距为8mm的镜头最佳距离是12米，比较适合较大面积的室内场合和室外使用，如果拍摄距离更大和选用焦距更大的镜头。"/>   
+						</question>   
+					  <question num="3">      
+						      <style  name="云台"/>    
+							    <anwser index="0"/>       
+							    <item   name="云台"/>  
+						    	<option name="有"     index="0" explain="当一台摄像机希望拍摄的范围较大时可选用有云台的摄像机，如家庭、教室、实验室、车间和室外使用。"/>
+						    	<option name="无"     index="1" explain="没有云台的摄像机比较适合拍摄固定场合，如出入口、固定通道等场合。"/>   
+						</question>  
+		</cmd> 
+		
+			 <cmd priority="1_5_2"> 
+						<mainstyle  name="电源控制继电器模块选型"/> 
+					 	<question num="0">      
+					      <style  name="工作电源"/>    
+						    <anwser index="1"/>       
+						    <item   name="工作电源"/>  
+					    	<option name="5V"      index="0" explain="不合适，因为5V电压比较适合近距离供电，作为一个区域内安装的设备的供电则不合适。事实上也没有这种设备。"/>
+					    	<option name="12V"     index="1" explain="12V电源比较合适，沿途压降不会影响正常工作，市面上的红外探头基本都是12V供电。"/>   
+					    	<option name="24V"     index="2" explain="理论上没问题，但市面上的红外探头基本都是12V供电，而且一个项目不要出现两种电压。"/>   
+						</question>  
+						
+						<question num="1">      
+					      <style  name="负载电压"/>    
+						    <anwser index="2"/>       
+						    <item   name="负载电压"/>  
+					    	<option name="DC12V"   index="0" explain="负载电压是指继电器所控制负载（用电器）的工作电压，电源控制单元控制的是一个可接各种家电和其它设备的电源插座，直流12V显然不合适。"/>
+					    	<option name="DC30V"   index="1" explain="DC30V：30V也同样不合适，电压太低，而且不是交流。"/>   
+					    	<option name="AC220V"  index="2" explain="AC220V：正确！"/>
+						</question>  	
+						<question num="2">      
+						      <style  name="控制信号"/>    
+							    <anwser index="1"/>       
+							    <item   name="控制信号"/>  
+						    	<option name="0V"  index="0" explain="选择控制信号需要考虑控制器的控制信号，两者必须一致。"/>
+						    	<option name="5V"  index="1" explain="控制器的控制信号是5V，选择这种信号是正确的。"/>   
+						    	<option name="12V" index="2" explain="与控制器的控制信号不一致，不能选择！"/>   
+						</question>   
+					  <question num="3">      
+						      <style  name="负载电流"/>    
+							    <anwser index="0"/>       
+							    <item   name="负载电流"/>  
+						    	<option name="10A"     index="0" explain="多数电源插座的负载电流就是10A，选择这个电流比较合适。"/>
+						    	<option name="15A"     index="1" explain="一般家电不需要大于10A的插座，功率比较大的空调和其它设备的电流可能大于10A，在这种情况下可以选用。"/>  
+						    	<option name="20A"     index="1" explain="当电流达到20A时一般就不会选择继电器作为开关器件了，而需要选择可以承受更大电流的交流接触器。"/>   
+						</question>  
+		</cmd> 
+		
+		<cmd priority="1_5_2"> 
+						<mainstyle  name="智能电源控制器选型 "/> 
+					 	<question num="0">      
+					      <style  name="工作电源"/>    
+						    <anwser index="1"/>       
+						    <item   name="工作电源"/>  
+					    	<option name="5V"      index="0" explain="不合适，因为5V电压比较适合近距离供电，作为一个区域内安装的设备的供电则不合适。事实上也没有这种设备。"/>
+					    	<option name="12V"     index="1" explain="12V电源比较合适，沿途压降不会影响正常工作，市面上的红外探头基本都是12V供电。"/>   
+					    	<option name="24V"     index="2" explain="理论上没问题，但市面上的红外探头基本都是12V供电，而且一个项目不要出现两种电压。"/>   
+						</question>  
+						
+						<question num="1">      
+					      <style  name="通信方式"/>    
+						    <anwser index="0"/>       
+						    <item   name="通信方式"/>  
+					    	<option name="ZigBee"   index="0" explain="ZigBee是目前比较流行的短距离无线通信技术，使用比较简单，可靠性也比较好，可以满足一般项目的要求，尤其是用于布线不方便的场合其优势更加明显，但一个项目不能选用多种方式。"/>
+					    	<option name="RS485"    index="1" explain="RS485总线是目前比较流行的短距离有线通信技术，使用比较简单，可靠性高于一般的无线通信，大多数工业自动化项目选择这种通信方式，缺点是布线比较麻烦，成本也比较高。"/>   
+					    	<option name="433MHz"   index="2" explain="433MHz无线通信是目前比较流行的短距离无线通信技术，使用比较简单，可靠性也比较好，与ZigBee相比通信距离较大，可以满足一般项目的要求，尤其是用于布线不方便的场合其优势更加明显。"/>
+						</question>  	
+						<question num="2">      
+						      <style  name="控制信号"/>    
+							    <anwser index="1"/>       
+							    <item   name="控制信号"/>  
+						    	<option name="0V"  index="0" explain="选择控制信号需要考虑继电器模块的控制信号，两者必须一致。"/>
+						    	<option name="5V"  index="1" explain="继电器模块的控制信号是5V，选择这个电压是正确的。"/>   
+						    	<option name="12V" index="2" explain="与继电器模块的控制信号不一致，不能选择！"/>   
+						</question>   		  
+		</cmd> 
+		
+		<cmd priority="1_5_3"> 
+						<mainstyle  name="照明控制继电器模选型"/> 
+					 	<question num="0">      
+					      <style  name="工作电源"/>    
+						    <anwser index="1"/>       
+						    <item   name="工作电源"/>  
+					    	<option name="5V"      index="0" explain="不合适，因为5V电压比较适合近距离供电，作为一个区域内安装的设备的供电则不合适。事实上也没有这种设备。"/>
+					    	<option name="12V"     index="1" explain="12V电源比较合适，沿途压降不会影响正常工作，市面上的红外探头基本都是12V供电。"/>   
+					    	<option name="24V"     index="2" explain="理论上没问题，但市面上的红外探头基本都是12V供电，而且一个项目不要出现两种电压。"/>   
+						</question>  
+						
+						<question num="1">      
+					      <style  name="负载电压"/>    
+						    <anwser index="2"/>       
+						    <item   name="负载电压"/>  
+					    	<option name="DC12V"   index="0" explain="负载电压是指继电器所控制负载（用电器）的工作电压，电源控制单元控制的是一个可接各种家电和其它设备的电源插座，直流12V显然不合适。"/>
+					    	<option name="DC30V"   index="1" explain="DC30V：30V也同样不合适，电压太低，而且不是交流。"/>   
+					    	<option name="AC220V"  index="2" explain="AC220V：正确！"/>
+						</question> 
+						<question num="2">      
+						      <style  name="控制信号"/>    
+							    <anwser index="1"/>       
+							    <item   name="控制信号"/>  
+						    	<option name="0V"  index="0" explain="选择控制信号需要考虑继电器模块的控制信号，两者必须一致。"/>
+						    	<option name="5V"  index="1" explain="继电器模块的控制信号是5V，选择这个电压是正确的。"/>   
+						    	<option name="12V" index="2" explain="与继电器模块的控制信号不一致，不能选择！"/>   
+						</question> 
+						<question num="3">      
+						      <style  name="负载电流"/>    
+							    <anwser index="0"/>       
+							    <item   name="负载电流"/>  
+						    	<option name="10A"  index="0" explain="10A:目前照明灯多采用LED，功率非常小，大多数只有零点几安，但考虑多数电源插座的电流是10A，选择10A也是可行的。"/>
+						    	<option name="15A"  index="1" explain="15A：220V交流供电选择15A显然太大了，15A时的负载是3300W，一般室内没有这么大的灯。"/>   
+						    	<option name="20A"  index="2" explain="20A：更不合适了。"/>   
+						</question>    		  
+		</cmd> 
+		
+		<cmd priority="1_5_4"> 
+						<mainstyle  name="交流电机控制器选型"/> 
+					 	<question num="0">      
+					      <style  name="工作电源"/>    
+						    <anwser index="1"/>       
+						    <item   name="工作电源"/>  
+					    	<option name="5V"      index="0" explain="不合适，因为5V电压比较适合近距离供电，作为一个区域内安装的设备的供电则不合适。事实上也没有这种设备。"/>
+					    	<option name="12V"     index="1" explain="12V电源比较合适，沿途压降不会影响正常工作，市面上的红外探头基本都是12V供电。"/>   
+					    	<option name="24V"     index="2" explain="理论上没问题，但市面上的红外探头基本都是12V供电，而且一个项目不要出现两种电压。"/>   
+						</question>  
+						
+						<question num="1">      
+					      <style  name="负载电压"/>    
+						    <anwser index="2"/>       
+						    <item   name="负载电压"/>  
+					    	<option name="DC12V"   index="0" explain="负DC12V：负载电压是指继电器所控制负载（用电器）的工作电压，交流电机控制器所控制的设备是一台交流220V电机，直流12V显然不合适。"/>
+					    	<option name="DC30V"   index="1" explain="DC30V：30V也同样不合适。"/>   
+					    	<option name="AC220V"  index="2" explain="AC220V：正确！"/>
+						</question> 
+						<question num="2">      
+						      <style  name="控制信号"/>    
+							    <anwser index="1"/>       
+							    <item   name="控制信号"/>  
+						    	<option name="0V"  index="0" explain="0V：交流电机控制器的控制方案与电源控制器和照明控制器不同，是将继电器和控制器合二为一，控制信号是在控制器内部，所以没有控制信号的概念。"/>
+						    	<option name="5V"  index="1" explain="5V：交流电机控制器的控制方案与电源控制器和照明控制器不同，是将继电器和控制器合二为一，控制信号是在控制器内部，所以没有控制信号的概念。"/>   
+						    	<option name="12V" index="2" explain="12V：交流电机控制器的控制方案与电源控制器和照明控制器不同，是将继电器和控制器合二为一，控制信号是在控制器内部，所以没有控制信号的概念。"/>   
+						</question> 
+						<question num="3">      
+						      <style  name="负载电流"/>    
+							    <anwser index="0"/>       
+							    <item   name="负载电流"/>  
+						    	<option name="1A"  index="0" explain="这个控制器所控制的交流电机只有14W，电机的工作电流只有0.064A，即使启动电流较大，也不会超过0.4A，选择这个电流完全满足要求。"/>
+						    	<option name="5A"  index="1" explain="这个控制器所控制的交流电机的启动电流不会超过0.4A，选择5A的驱动能力显然太大了。"/>   
+						    	<option name="10A"  index="2" explain="10A：电流太大，不合适。"/>   
+						</question>    		  
+		</cmd> 
+		
+		<cmd priority="1_5_5"> 
+						<mainstyle  name="直流电机控制器选型"/> 
+					 	<question num="0">      
+					      <style  name="工作电源"/>    
+						    <anwser index="1"/>       
+						    <item   name="工作电源"/>  
+					    	<option name="5V"      index="0" explain="不合适，因为5V电压比较适合近距离供电，作为一个区域内安装的设备的供电则不合适。事实上也没有这种设备。"/>
+					    	<option name="12V"     index="1" explain="12V电源比较合适，沿途压降不会影响正常工作，市面上的红外探头基本都是12V供电。"/>   
+					    	<option name="24V"     index="2" explain="理论上没问题，但市面上的红外探头基本都是12V供电，而且一个项目不要出现两种电压。"/>   
+						</question>  
+						
+						<question num="1">      
+					      <style  name="负载电压"/>    
+						    <anwser index="0"/>       
+						    <item   name="负载电压"/>  
+					    	<option name="DC12V"   index="0" explain="所选择的负载电压需要和所控制的直流电机匹配，项目中的直流电机的作电压是DC12V，这个选择是正确的。"/>
+					    	<option name="DC30V"   index="1" explain="DC30V：因为所控制的直流电机的工作电压是直流12V，选择这个不合适！"/>   
+					    	<option name="AC220V"  index="2" explain="AC220V：需要控制的是直流电机，这个选择太不合适了！"/>
+						</question> 
+						<question num="2">      
+						      <style  name="控制功能"/>    
+							    <anwser index="0"/>       
+							    <item   name="控制信号"/>  
+						    	<option name="0V"  index="0" explain="电机的启动和停止是电机控制的基本要求，不需选择。"/>
+						    	<option name="5V"  index="1" explain="需要根据电机的应用场合选择是否需要这个功能，如果这个电机的工作需要正反转则必须选择，有些场合如只需要一个方向旋转就不需要选择这个功能，比如小型风扇就不需要控制反转"/>   
+						    	<option name="12V" index="2" explain="调速功能也是根据需要进行选择，多数直流电机需要调速功能，尤其是功率较大的电机，如果不需要调速也就不选择直流电机了。"/>   
+						</question> 
+						<question num="3">      
+						      <style  name="负载电流"/>    
+							    <anwser index="0"/>       
+							    <item   name="负载电流"/>  
+						    	<option name="1A"   index="0" explain="这个直流电机控制器内部的控制电路是一个型号是L298的专用功率器件，这个功率器件的输出电流可达到3A，而这个小型风扇的电流不会超过0.5A，选择1A是合适的。"/>
+						    	<option name="5A"   index="1" explain="由于L298的输出电流小于3A，选择5A显然不合适。"/>   
+						    	<option name="10A"  index="2" explain="5A已经超出了L298的驱动能力，10A就更不合适了。"/>   
+						</question>    		  
+		</cmd> 
+			<cmd priority="1_5_6"> 
+						<mainstyle  name="红外编码控制器选型"/> 
+					 	<question num="0">      
+					      <style  name="工作电源"/>    
+						    <anwser index="1"/>       
+						    <item   name="工作电源"/>  
+					    	<option name="5V"      index="0" explain="不合适，因为5V电压比较适合近距离供电，作为一个区域内安装的设备的供电则不合适。事实上也没有这种设备。"/>
+					    	<option name="12V"     index="1" explain="12V电源比较合适，沿途压降不会影响正常工作，市面上的红外探头基本都是12V供电。"/>   
+					    	<option name="24V"     index="2" explain="理论上没问题，但市面上的红外探头基本都是12V供电，而且一个项目不要出现两种电压。"/>   
+						</question>  	
+						<question num="1">      
+					      <style  name="类型"/>    
+						    <anwser index="1"/>       
+						    <item   name="类型"/>  
+					    	<option name="自学习型"     index="0" explain="二次开发型：二次开发型对教学非常合适。"/>
+					    	<option name="二次开发型"   index="1" explain="自学习型：自学习型使用简单，不能进行二次开发，用于教学显然不合适。"/>   
+						</question> 	 		  
+		</cmd> 
+		<cmd priority="1_6_1"> 
+						<mainstyle  name="弱电电源线选型"/> 
+					 	<question num="0">      
+					      <style  name="弱电电源线选型"/>    
+						    <anwser index="0"/>       
+						    <item   name="弱电电源线选型"/>  
+								<option name="RVV0.5"    index="0" explain="RVV0.5：本项目中的弱电供电功率不大，距离也不远，电源线可以选用。"/>
+								<option name="RVV0.75"   index="1" explain="RVV0.75：如果考虑到本项目的串联供电方式，选择RVV0.75会更好一些。"/>   
+								<option name="BV0.0.3"   index="2" explain="BV0.3：BV线是强电电源专用导线，不合适。"/>   
+								<option name="BV0.5"     index="3" explain="BV0.5：BV线是强电电源专用导线，不合适。"/>
+								<option name="BV0.75"    index="4" explain="BV0.75：BV线是强电电源专用导线，不合适。"/>   
+								<option name="BV1.0"     index="5" explain="BV1.0：BV线是强电电源专用导线，不合适。"/>   
+						</question>  	
+		</cmd> 
+		<cmd priority="1_6_2"> 
+						<mainstyle  name="弱电信号线选型"/> 
+					 	<question num="0">      
+					      <style  name="弱电信号线选型"/>    
+						    <anwser index="0"/>       
+						    <item   name="弱电信号线选型"/>  
+								<option name="RVV0.5"    index="0" explain="RVV0.5：本项目中的信号线既有模拟量信号，也有开关量信号。但本项目信号传输距离很近，而且运行环境比较好，可以选用。"/>
+								<option name="RVV0.75"   index="1" explain="RVV0.75：选择RVV0.75有点浪费了，如果传输距离比较远，如超过50米可以选用。"/>   
+								<option name="BV0.0.3"   index="2" explain="BV0.3：BV线是强电电源专用导线，不合适。"/>   
+								<option name="BV0.5"     index="3" explain="BV0.5：BV线是强电电源专用导线，不合适。"/>
+								<option name="BV0.75"    index="4" explain="BV0.75：BV线是强电电源专用导线，不合适。"/>   
+								<option name="BV1.0"     index="5" explain="BV1.0：BV线是强电电源专用导线，不合适。"/>   
+						</question>  	
+		</cmd> 
+		<cmd priority="1_6_3"> 
+						<mainstyle  name="485通信导线选型"/> 
+					 	<question num="0">      
+					      <style  name="485通信导线选型"/>    
+						    <anwser index="0"/>       
+						    <item   name="485通信导线选型"/>  
+								<option name="RVV0.5"    index="0" explain="RVV0.5：对于没有恶劣运行环境的场合可以选用，要求再高一点可以选用双绞线或485专用导线。"/>
+								<option name="RVV0.75"   index="1" explain="RVV0.75：和RVV0.5没有本质区别，如果通信距离超过200M可以选用，也可选用双绞线或485专用导线。"/>   
+								<option name="BV0.0.3"   index="2" explain="BV0.3：BV线是强电电源专用导线，不合适。"/>   
+								<option name="BV0.5"     index="3" explain="BV0.5：BV线是强电电源专用导线，不合适。"/>
+								<option name="BV0.75"    index="4" explain="BV0.75：BV线是强电电源专用导线，不合适。"/>   
+								<option name="BV1.0"     index="5" explain="BV1.0：BV线是强电电源专用导线，不合适。"/>   
+						</question>  	
+		</cmd> 
+		<cmd priority="1_6_4"> 
+						<mainstyle  name="强电电源线选型"/> 
+					 	<question num="0">      
+					      <style  name="强电电源线选型"/>    
+						    <anwser index="3"/>       
+						    <item   name="强电电源线选型"/>  
+								<option name="RVV0.5"    index="0" explain="RVV0.5：本项目中的强电是指交流220V电源，选用RVV软线不合适。"/>
+								<option name="RVV0.75"   index="1" explain="RVV0.75：本项目中的强电是指交流220V电源，选用RVV软线不合适。"/>   
+								<option name="BV0.0.3"   index="2" explain="BV0.3：BV0.3导线是强电电源线，因本项目中的电源插座的电流是10A，0.3平方的导线只能用于功率小于360W的用电器，而家电设备中的空调、电暖器、电饼铛等许多设备的功率都大于这个值，所以不能选用。"/>   
+								<option name="BV0.5"     index="3" explain="BV0.5：BV0.5导线可用于功率小于600W的电器，一般情况就够用了，可以选择。"/>
+								<option name="BV0.75"    index="4" explain="BV0.75：BV线是强电电源专用导线，不合适。"/>   
+								<option name="BV1.0"     index="5" explain="BV1.0：太大了，不合适"/>   
+						</question>  	
+		</cmd> 
+		
+		<cmd priority="1_6_5"> 
+						<mainstyle  name="端子排选型"/> 
+					 	<question num="0">      
+					      <style  name="端子排端子位数"/>    
+						    <anwser index="1"/>       
+						    <item   name="端子排端子位数"/>  
+								<option name="10位"    index="0" explain="这个项目的“设备控制子系统”有4个供电单元，同时考虑到通过这个端子排为“环境采集子系统”的端子排供电，选择10位端子排比较合适。"/>
+								<option name="12位"    index="1" explain="这个项目的“安防报警子系统”有4个供电单元，再加一个红外控制器，同时考虑到通过这个端子排为“设备控制子系统”的端子排供电，选择12位端子排比较合理。"/>   
+								<option name="16位"    index="2" explain="在这个项目中16位端子排没有用处。"/>    
+						</question>  	
+					 <question num="1">      
+					      <style  name="端子排型号"/>    
+						    <anwser index="1"/>       
+						    <item   name="端子排型号"/>  
+								<option name="TA-15-*"   index="0" explain="暂无"/>
+								<option name="TB-15-*"   index="1" explain="暂无"/>   
+								<option name="TC-15-*"   index="2" explain="暂无"/>   
+						</question>  	
+		</cmd> 
+</root>

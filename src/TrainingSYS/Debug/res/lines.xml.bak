@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="gb2312"?>
+<system>
+	<!--name:线名,point_name:两个点名称,points:拐角点的坐标,yellow:如果是黄线:1,非黄线:0-->
+  <line name="1-1" point_name="1-3,1-9" points="665,541;1090,541" yellow="0"/>
+  <line name="1-2" point_name="1-4,1-10" points="693,559;1107,559" yellow="0"/>
+  <line name="1-3" point_name="1-1,1-5" points="609,578;955,578" yellow="0"/>
+  <line name="1-4" point_name="1-2,1-6" points="637,596;972,596" yellow="0"/>
+  
+  <line name="1-5" point_name="1-7,1-15" points="1192,743;2143,743" yellow="1"/>
+  <line name="1-6" point_name="1-8,1-16" points="1210,725;2182,725" yellow="1"/>
+  <line name="1-7" point_name="1-9,4-1" points="1227,706;5044,706" yellow="0"/>
+  <line name="1-8" point_name="1-10,4-2" points="1244,688;5078,688" yellow="0"/>
+  
+  <line name="1-9" point_name="1-12,1-17" points="1908,541;2318,541" yellow="0"/>
+  <line name="1-10" point_name="1-13,1-18" points="1936,559;2337,559" yellow="0"/>
+  <line name="1-11" point_name="1-11,1-14" points="1880,578;2212,578" yellow="0"/>
+  
+  <line name="1-12" point_name="1-15,1-23" points="2421,743;3401,743" yellow="0"/>
+  <line name="1-13" point_name="1-16,1-24" points="2439,725;3440,725" yellow="0"/>
+  <line name="1-14" point_name="1-17,4-3" points="2435,760;5113,760" yellow="0"/>
+  <line name="1-15" point_name="1-18,4-4" points="2452,651;5148,651" yellow="0"/>
+  
+  <line name="1-16" point_name="1-19,1-22" points="3137,578;3471,578" yellow="0"/>
+  <line name="1-17" point_name="1-21,1-26" points="3194,559;3594,559" yellow="0"/>
+  <line name="1-18" point_name="1-20,1-25" points="3165,541;3576,541" yellow="0"/>
+  
+  <line name="1-19" point_name="1-23,1-31" points="3680,743;4658,743" yellow="1"/>
+  <line name="1-20" point_name="1-24,1-32" points="3697,725;4698,725" yellow="1"/>
+  <line name="1-21" point_name="1-25,4-5" points="3671,633;5183,633" yellow="0"/>
+  <line name="1-22" point_name="1-26,4-6" points="3688,614;5218,614" yellow="0"/>
+  
+  <line name="1-23" point_name="1-27,1-30" points="4400,578;4728,578" yellow="0"/>
+  <line name="1-24" point_name="1-29,1-34" points="4456,559;4852,559" yellow="0"/>
+  <line name="1-25" point_name="1-28,1-33" points="4428,541;4834,541" yellow="0"/>
+  
+  <line name="1-26" point_name="1-31,1-35" points="4850,596;5350,596" yellow="1"/>
+  <line name="1-27" point_name="1-32,1-36" points="4868,578;5322,578" yellow="1"/>
+  <line name="1-28" point_name="1-33,4-7" points="4885,559;5253,559" yellow="0"/>
+  <line name="1-29" point_name="1-34,4-8" points="4902,541;5287,541" yellow="0"/>
+  
+  <line name="2-1" point_name="2-3,2-9" points="663,1390;1098,1390" yellow="0"/>
+  <line name="2-2" point_name="2-4,2-10" points="691,1408;1115,1408" yellow="0"/>
+  <line name="2-3" point_name="2-1,2-5" points="607,1427;964,1427" yellow="0"/>
+  <line name="2-4" point_name="2-2,2-6" points="635,1445;981,1445" yellow="0"/>
+  
+  <line name="2-5" point_name="1-7,2-7" points="925,725;289,725;289,1592;923,1592" yellow="1"/> 
+  <line name="2-6" point_name="1-8,2-8" points="942,743;308,743;308,1574;962,1574" yellow="1"/> 
+  
+  <line name="2-7" point_name="2-7,2-15" points="1184,1592;2416,1592" yellow="1"/> 
+  <line name="2-8" point_name="2-8,2-16" points="1202,1574;2455,1574" yellow="1"/>
+  <line name="2-9" point_name="2-9,4-17" points="1218,1555;4973,1555" yellow="0"/>
+  <line name="2-10" point_name="2-10,4-18" points="1236,1537;5008,1537" yellow="0"/>
+
+  <line name="2-11" point_name="2-12,2-17" points="2156,1408;2581,1408" yellow="0"/>
+  <line name="2-12" point_name="2-13,2-18" points="2184,1427;2598,1427" yellow="0"/>
+  <line name="2-13" point_name="2-11,2-14" points="2128,1445;2475,1445" yellow="0"/>
+
+  <line name="2-14" point_name="2-15,2-19" points="2677,1592;3539,1592" yellow="1"/>
+  <line name="2-15" point_name="2-16,2-20" points="2695,1574;3578,1574" yellow="1"/>
+  <line name="2-16" point_name="2-17,4-19" points="2691,1519;5043,1519" yellow="0"/>
+  <line name="2-17" point_name="2-18,4-20" points="2707,1500;5078,1500" yellow="0"/>
+  
+  <line name="2-18" point_name="2-19,2-27" points="3774,1542;4693,1592" yellow="1"/>
+  <line name="2-19" point_name="2-20,2-28" points="3800,1592;4732,1574" yellow="1"/> 
+  <line name="2-20" point_name="2-21,4-21" points="3791,1482;5113,1482" yellow="0"/>
+  <line name="2-21" point_name="2-22,4-22" points="3808,1463;5148,1463" yellow="0"/> 
+  
+  <line name="2-22" point_name="2-24,2-26" points="4476,1390;4756,1390" yellow="0"/>
+  <line name="2-23" point_name="2-23,2-25" points="4448,1408;4774,1408" yellow="0"/> 
+  
+  <line name="2-24" point_name="2-29,4-23" points="4902,1408;5183,1408" yellow="0"/> 
+  <line name="2-25" point_name="2-30,4-24" points="4920,1390;5218,1390" yellow="0"/> 
+  
+  <line name="3-1" point_name="3-1,3-3" points="591,2291;877,2291" yellow="0"/> 
+  <line name="3-2" point_name="3-2,3-4" points="619,2273;860,2273" yellow="0"/>
+  
+  <line name="3-3" point_name="3-5,3-9" points="928,2474;638,2474" yellow="0"/>
+  <line name="3-4" point_name="3-6,3-10" points="956,2492;666,2492" yellow="0"/>
+  <line name="3-5" point_name="3-7,3-11" points="984,2511;694,2511" yellow="0"/>
+  <line name="3-6" point_name="3-8,3-12" points="1012,2529;722,2529" yellow="0"/> 
+  
+  <line name="3-7" point_name="3-7,4-37" points="1103,2456;4903,2456" yellow="0"/>
+  <line name="3-8" point_name="3-8,4-38" points="1121,2437;4938,2437" yellow="0"/>
+  
+  <line name="3-9" point_name="2-31,3-13" points="1255,2529;2140,2529" yellow="1"/> 
+  <line name="3-10" point_name="2-32,3-14" points="1283,2511;2168,2511" yellow="1"/> 
+
+  <line name="3-11" point_name="2-31,3-21" points="1407,2492;2228,2492" yellow="1"/> 
+  <line name="3-12" point_name="2-32,3-22" points="1424,2474;2267,2474" yellow="1"/> 
+  <line name="3-13" point_name="2-33,4-39" points="1420,2419;4973,2419" yellow="0"/> 
+  <line name="3-14" point_name="2-34,4-40" points="1437,2401;5008,2401" yellow="0"/>
+
+  <line name="3-15" point_name="3-15,3-19" points="2126,2295;2288,2295" yellow="0"/>
+  <line name="3-16" point_name="3-16,3-20" points="2098,2313;2305,2313" yellow="0"/>  
+  <line name="3-17" point_name="3-17,3-23" points="2070,2331;2379,2331" yellow="0"/>
+  <line name="3-18" point_name="3-18,3-24" points="2042,2350;2396,2350" yellow="0"/> 
+  
+  <line name="3-19" point_name="3-21,3-31" points="2532,2492;3492,2492" yellow="1"/> 
+  <line name="3-20" point_name="3-22,3-32" points="2549,2474;3531,2474" yellow="1"/>
+  <line name="3-21" point_name="3-23,4-41" points="2523,2382;5043,2382" yellow="0"/>
+  <line name="3-22" point_name="3-24,4-42" points="2541,2364;5078,2364" yellow="0"/>
+  
+  <line name="3-23" point_name="3-25,3-29" points="3290,2291;3554,2291" yellow="0"/> 
+  <line name="3-24" point_name="3-26,3-30" points="3262,2309;3572,2309" yellow="0"/>
+  <line name="3-25" point_name="3-27,3-33" points="3234,2328;3641,2328" yellow="0"/> 
+  <line name="3-26" point_name="3-28,3-34" points="3206,2346;3658,2346" yellow="0"/> 
+  
+  <line name="3-27" point_name="3-31,3-39" points="3788,2492;4673,2492" yellow="1"/>
+  <line name="3-28" point_name="3-32,3-40" points="3806,2474;4711,2474" yellow="1"/> 
+  <line name="3-29" point_name="3-33,4-43" points="3762,2345;5113,2345" yellow="0"/>  
+  <line name="3-30" point_name="3-34,4-44" points="3779,2327;5148,2327" yellow="0"/>
+  
+  <line name="3-31" point_name="3-35,3-37" points="4461,2272;4746,2272" yellow="0"/> 
+  <line name="3-32" point_name="3-36,3-38" points="4489,2290;4763,2290" yellow="0"/> 
+  
+  <line name="3-33" point_name="3-42,4-46" points="4921,2254;5218,2254" yellow="0"/>
+  <line name="3-34" point_name="3-41,4-45" points="4903,2272;5183,2272" yellow="0"/> 
+  
+  <line name="3-35" point_name="3-40,2-28" points="4885,2290;5391,2290;5391,1445;4885,1427" yellow="1"/>
+  <line name="3-36" point_name="3-39,2-27" points="4868,2309;5409,2309;5409,1427;4868,1445" yellow="1"/>
+
+  <line name="4-1" point_name="4-9,4-11" points="5069,885;5087,885" yellow="0"/>
+  <line name="4-2" point_name="4-10,4-12" points="5094,867;5132,867" yellow="0"/>
+  <line name="4-3" point_name="4-11,4-13" points="5139,885;5157,885" yellow="0"/> 
+  <line name="4-4" point_name="4-12,4-14" points="5163,867;5202,867" yellow="0"/>
+  <line name="4-5" point_name="4-13,4-15" points="5209,885;5226,885" yellow="0"/>
+  <line name="4-6" point_name="4-14,4-16" points="5233,867;5272,867" yellow="0"/> 
+  
+  <line name="4-7" point_name="4-15,4-25" yellow="0"/> 
+  <line name="4-8" point_name="4-16,4-26" yellow="0"/> 
+  
+  <line name="4-9" point_name="4-27,4-29" points="4999,1748;5017,1748" yellow="0"/>
+  <line name="4-10" point_name="4-28,4-30" points="5023,1730;5062,1730" yellow="0"/>
+  <line name="4-11" point_name="4-29,4-31" points="5069,1748;5087,1748" yellow="0"/> 
+  <line name="4-12" point_name="4-30,4-32" points="5093,1730;5133,1730" yellow="0"/> 
+  <line name="4-13" point_name="4-31,4-33" points="5139,1748;5157,1748" yellow="0"/> 
+  <line name="4-14" point_name="4-32,4-34" points="5163,1730;5202,1730" yellow="0"/>
+  <line name="4-15" point_name="4-33,4-35" points="5209,1748;5227,1748" yellow="0"/>
+  <line name="4-16" point_name="4-34,4-36" points="5233,1730;5272,1730" yellow="0"/> 
+  
+  <line name="4-17" point_name="4-35,4-47"  yellow="0"/>
+  <line name="4-18" point_name="4-36,4-48"  yellow="0"/>
+  
+  <line name="4-19" point_name="4-49,4-51" points="4929,2832;4946,2832" yellow="0"/> 
+  <line name="4-20" point_name="4-50,4-52" points="4953,2813;4992,2813" yellow="0"/>
+  <line name="4-21" point_name="4-51,4-53" points="4999,2832;5016,2832" yellow="0"/>
+  <line name="4-22" point_name="4-52,4-54" points="5023,2813;5062,2813" yellow="0"/> 
+  <line name="4-23" point_name="4-53,4-55" points="5069,2832;5086,2832" yellow="0"/> 
+  <line name="4-24" point_name="4-54,4-56" points="5093,2813;5133,2813" yellow="0"/> 
+  <line name="4-25" point_name="4-55,4-57" points="5139,2832;5156,2832" yellow="0"/>
+  <line name="4-26" point_name="4-56,4-58" points="5163,2813;5202,2813" yellow="0"/> 
+  <line name="4-27" point_name="4-57,4-59" points="5209,2832;5226,2832" yellow="0"/> 
+  <line name="4-28" point_name="4-58,4-60" points="5233,2813;5272,2813" yellow="0"/>
+  
+  <line name="4-29" point_name="4-59,4-62" points="5253,3042" yellow="0"/> 
+  <line name="4-30" point_name="4-60,4-61" points="5288,3012" yellow="0"/>
+  
+  <line name="5-1" point_name="5-1,5-4"  yellow="0"/> 
+  <line name="5-2" point_name="5-2,5-5"  yellow="0"/>
+  <line name="5-3" point_name="5-3,5-6"  yellow="0"/> 
+  
+  <line name="5-4" point_name="5-7,5-24" points="550,1721;4064,1721;4064,2621;4443,2621;" yellow="0"/>
+  <line name="5-5" point_name="5-8,5-25" points="578,1702;4082,1702;4082,2603;4477,2603;" yellow="0"/>
+  <line name="5-6" point_name="5-9,5-44" points="1759,1739;4031,1739;4031,2639;3887,2639;" yellow="0"/>
+  <line name="5-7" point_name="5-10,5-26" points="1788,1684;4101,1684;4101,2584;4512,2584;" yellow="0"/>
+  
+  <line name="5-8" point_name="5-11,5-12" points="1816,1408;2072,1408" yellow="0"/>
+  <line name="5-9" point_name="5-13,5-27" points="2100,1665;4119,1665;4119,2566;4547,2566;" yellow="0"/>
+   
+  <line name="5-10" point_name="5-16,5-19" points="3256,1394;3572,1394" yellow="0"/>
+  <line name="5-11" point_name="5-15,5-20" points="3228,1412;3589,1412" yellow="0"/> 
+  <line name="5-12" point_name="5-14,5-17" points="3200,1430;3495,1430" yellow="0"/> 
+  
+  <line name="5-13" point_name="5-18,5-28" points="3720,1647;4137,1647;4137,2548;4583,2548;" yellow="0"/> 
+  <line name="5-14" point_name="5-21,5-29" points="3794,1629;4156,1629;4156,2529;4617,2529;" yellow="0"/>
+  
+  <line name="5-15" point_name="5-40,5-23" points="4049,3133;4049,2639;4407,2639;" yellow="0"/>
+  <line name="5-16" point_name="5-41,5-22" points="4067,3103;4067,2658;4372,2658;" yellow="0"/> 
+  <line name="5-17" point_name="5-45,5-42" points="3920,2685;4031,2658;4031,3074;" yellow="0"/>
+  
+  <line name="5-18" point_name="5-30,5-32" points="4399,2832;4416,2832" yellow="0"/>
+  <line name="5-19" point_name="5-31,5-33" points="4423,2813;4462,2813" yellow="0"/> 
+  <line name="5-20" point_name="5-32,5-34" points="4469,2832;4486,2832" yellow="0"/>
+  <line name="5-21" point_name="5-33,5-35" points="4493,2813;4532,2813" yellow="0"/> 
+  <line name="5-22" point_name="5-34,5-36" points="4539,2832;4556,2832" yellow="0"/>
+  <line name="5-23" point_name="5-35,5-37" points="4562,2813;4602,2813" yellow="0"/>
+  
+  <line name="5-24" point_name="5-36,5-38"  yellow="0"/>
+  <line name="5-25" point_name="5-37,5-39"  yellow="0"/>
+</system>

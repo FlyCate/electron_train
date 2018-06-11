@@ -1,0 +1,53 @@
+<root>
+    <cmd priority="1_1_3">
+        <title name="智能家居" />
+        <backpicture name="01.bmp" />
+        <picture name="11.bmp" />
+        <picture name="12.bmp" />
+        <picture name="13.bmp" />
+        <linktitle name="网络连线" />
+    </cmd>
+    <cmd priority="1_1_4">
+        <title name="网络分类" />
+        <backpicture name="01.bmp" />
+        <picture name="11.bmp" />
+    </cmd>
+    <cmd priority="1_1_5">
+        <title name="网络分类" />
+        <backpicture name="01.bmp" />
+        <picture name="11.bmp" />
+        <picture name="12.bmp" />
+    </cmd>
+    <cmd priority="2_2_2">
+        <title name="111" />
+        <backpicture name="01.bmp" />
+        <picture name="1.1温湿度传感器检测.bmp" />
+        <picture name="1.2温湿度传感器检测.bmp" />
+        <picture name="1.3温湿度传感器检测.bmp" />
+        <picture name="2.1关照度传感器检测.bmp" />
+        <picture name="2.1万用表的使用.bmp" />
+        <picture name="2.2光照度传感器检测.bmp" />
+        <picture name="2.2万用表的使用.bmp" />
+        <linktitle name="网络连线" />
+    </cmd>
+    <cmd priority="1_1_0">
+        <title name="dasfdsa" />
+        <backpicture name="01.bmp" />
+        <picture name="1.1温湿度传感器检测.bmp" />
+        <picture name="1.2温湿度传感器检测.bmp" />
+        <picture name="1.3温湿度传感器检测.bmp" />
+        <picture name="2.1关照度传感器检测.bmp" />
+        <picture name="2.1万用表的使用.bmp" />
+        <picture name="2.2光照度传感器检测.bmp" />
+        <picture name="2.2万用表的使用.bmp" />
+        <picture name="2.3光照度传感器检测.bmp" />
+    </cmd>
+    <cmd priority="ddd">
+        <title name="dss" />
+        <backpicture name="01.bmp" />
+        <picture name="7.1设备材料表.bmp" />
+        <picture name="7.2设备材料表.bmp" />
+        <picture name="7.3设备材料表.bmp" />
+        <linktitle name="网络连线" />
+    </cmd>
+</root>

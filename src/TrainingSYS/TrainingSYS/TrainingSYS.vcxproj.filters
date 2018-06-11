@@ -1,0 +1,191 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ReadMe.txt" />
+    <None Include="res\TrainingSYS.rc2">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="res\TrainingSYS.ico">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="res\buttonBack.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="res\mainBack.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="res\Min_Down.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="res\Min_Up.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="res\Exit_Down.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="res\Exit_Up.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="res\bitmap2.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="res\bitmap4.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="res\title.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="TrainingSYS.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="TrainingSYSDlg.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="PageDlg1.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="PageDlg2.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="PageDlg3.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ts_emf_wnd.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ButtonDlg.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="OptionSel.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="VLCWrapper.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="VLCWrapperImpl.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="MyTabCtrl.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="xSkinButton.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="EmfMsgBox.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="EmfEditMsg.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="efm_struct.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="MyMessagebox.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="OptionSelMul.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="myslider.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Selectnet.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Net_setting.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="TrainingSYS.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="TrainingSYSDlg.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="PageDlg1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="PageDlg2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="PageDlg3.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ts_emf_wnd.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ButtonDlg.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OptionSel.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="VLCWrapper.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="VLCWrapperImpl.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="MyTabCtrl.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="xSkinButton.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="EmfMsgBox.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="EmfEditMsg.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="MyMessagebox.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OptionSelMul.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="myslider.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Selectnet.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Net_setting.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="TrainingSYS.rc">
+      <Filter>资源文件</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+</Project>

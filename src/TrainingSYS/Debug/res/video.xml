@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="gb2312"?>
+<root>
+	<cmd priority="4_1_2">
+			<title name="教学视频"/>
+			<video name="6.万用表的使用-交流电压的测量" path="爱剪辑-4-1-2万用表的使用-交流电压的测量.mp4" index="0"/>
+			<video name="5.万用表的使用-直流电流的测量" path="爱剪辑-4-1-2万用表的使用-直流电流的测量.mp4" index="0"/>
+			<video name="4.万用表的使用-直流电压的测量" path="爱剪辑-4-1-2万用表的使用-直流电压的测量.mp4" index="0"/>
+			<video name="3.万用表的使用-电阻测量" path="爱剪辑-4-1-2万用表的使用-电阻测量.mp4" index="0"/>
+			<video name="2.万用表的使用-通断测量" path="爱剪辑-4-1-2万用表的使用-通断测量.mp4" index="0"/>
+			<video name="1.万用表的使用-万用表简介" path="爱剪辑-4-1-2万用表的使用-万用表简介.mp4" index="0"/>
+	</cmd>
+	<cmd priority="4_1_3">
+			<title name="教学视频"/>
+			<video name="3.示波器的使用-信号测量" path="爱剪辑-4-1-3示波器的使用-信号测量.mp4" index="0"/>
+			<video name="2.示波器的使用-测量电压" path="爱剪辑-4-1-3示波器的使用-测量电压.mp4" index="0"/>
+			<video name="1.示波器简介" path="爱剪辑-4-1-3示波器简介.mp4" index="0"/>
+	</cmd>
+	<cmd priority="4_1_5">
+			<title name="教学视频"/>
+			<video name="巡线仪的使用" path="爱剪辑-4-1-5巡线仪的使用.mp4" index="0"/>
+	</cmd>
+	<cmd priority="4_2_1">
+			<title name="教学视频"/>
+			<video name="2.湿度传感器检测" path="爱剪辑-4-2-1湿度传感器检测.mp4" index="0"/>
+			<video name="1.温度传感器检测" path="爱剪辑-4-2-1温度传感器检测.mp4" index="0"/>
+	</cmd>
+	<cmd priority="4_2_2">
+			<title name="教学视频"/>
+			<video name="光照度传感器检测" path="爱剪辑-4-2-2光照度传感器检测.mp4" index="0"/>
+	</cmd>
+	<cmd priority="4_2_3">
+			<title name="教学视频"/>
+			<video name="甲醛传感器检测" path="爱剪辑-4-2-3甲醛传感器检测.mp4" index="0"/>
+	</cmd>
+	<cmd priority="4_2_4">
+			<title name="教学视频"/>
+			<video name="CO2传感器检测" path="爱剪辑-4-2-4CO2传感器检测.mp4" index="0"/>
+	</cmd>
+	<cmd priority="4_2_5">
+			<title name="教学视频"/>
+			<video name="模拟量采集器检测" path="爱剪辑-4-2-5模拟量采集器检测.mp4" index="0"/>
+	</cmd>
+	<cmd priority="4_3_1">
+			<title name="教学视频"/>
+			<video name="紧急报警开关检测" path="爱剪辑-4-3-1紧急报警开关检测.mp4" index="0"/>
+	</cmd>
+	<cmd priority="4_3_2">
+			<title name="教学视频"/>
+			<video name="红外报警探头检测" path="爱剪辑-4-3-2红外报警探头检测.mp4" index="0"/>
+	</cmd>
+	<cmd priority="4_3_3">
+			<title name="教学视频"/>
+			<video name="天然气报警探头检测" path="爱剪辑-4-3-3天然气报警探头检测.mp4" index="0"/>
+	</cmd>
+	<cmd priority="4_3_4">
+			<title name="教学视频"/>
+			<video name="开关量采集器检测" path="爱剪辑-4-3-4开关量采集器检测.mp4" index="0"/>
+	</cmd>	
+	<cmd priority="4_3_5">
+			<title name="教学视频"/>
+			<video name="4.门禁设备检测-联机检测" path="爱剪辑-4-3-5门禁设备检测-联机检测.mp4" index="0"/>
+			<video name="3.门禁设备检测-门禁主机检测" path="爱剪辑-4-3-5门禁设备检测-门禁主机检测.mp4" index="0"/>
+			<video name="2.门禁设备检测-电控锁检测" path="爱剪辑-4-3-5门禁设备检测-电控锁检测.mp4" index="0"/>
+			<video name="1.门禁设备检测-开门按钮检测" path="爱剪辑-4-3-5门禁设备检测-开门按钮检测.mp4" index="0"/>
+	</cmd>
+	<cmd priority="4_4_1">
+			<title name="教学视频"/>
+			<video name="电源控制模块检测" path="爱剪辑-4-4-1电源控制模块检测.mp4" index="0"/>
+	</cmd>
+	<cmd priority="4_4_2">
+			<title name="教学视频"/>
+			<video name="智能电源控制器检测" path="爱剪辑-4-4-2智能电源控制器检测.mp4" index="0"/>
+	</cmd>
+	<cmd priority="4_4_3">
+			<title name="教学视频"/>
+			<video name="照明控制模块检测" path="爱剪辑-4-4-3照明控制模块检测.mp4" index="0"/>
+	</cmd>
+	<cmd priority="4_4_4">
+			<title name="教学视频"/>
+			<video name="智能照明控制器检测" path="爱剪辑-4-4-4智能照明控制器检测.mp4" index="0"/>
+	</cmd>
+	<cmd priority="4_4_5">
+			<title name="教学视频"/>
+			<video name="交流电机控制器检测" path="爱剪辑-4-4-5交流电机控制器检测.mp4" index="0"/>
+	</cmd>
+	<cmd priority="4_4_6">
+			<title name="教学视频"/>
+			<video name="3.带机检测" path="爱剪辑-4-4-6带机检测.mp4" index="0"/>
+			<video name="2.直流电机检测" path="爱剪辑-4-4-6直流电机检测.mp4" index="0"/>
+			<video name="1.直流电机控制器检测" path="爱剪辑-4-4-6直流电机控制器检测.mp4" index="0"/>
+	</cmd>
+	<cmd priority="4_4_7">
+			<title name="教学视频"/>
+			<video name="红外编码控制器检测" path="爱剪辑-4-4-7红外编码控制器检测.mp4" index="0"/>
+	</cmd>
+	<cmd priority="4_5_1">
+			<title name="教学视频"/>
+			<video name="开关电源检测" path="爱剪辑-4-5-1开关电源检测.mp4" index="0"/>
+	</cmd>
+	<cmd priority="4_6_1">
+			<title name="教学视频"/>
+			<video name="ZigBee模块检测" path="爱剪辑-4-6-1ZigBee模块检测.mp4" index="0"/>
+	</cmd>
+	<cmd priority="4_6_2">
+			<title name="教学视频"/>
+			<video name="RS485模块检测" path="爱剪辑-4-6-2RS485模块检测.mp4" index="0"/>
+	</cmd>
+	<cmd priority="4_6_3">
+			<title name="教学视频"/>
+			<video name="2.433MHz模块检测-双模块检测" path="爱剪辑-4-6-3433MHz模块检测-双模块检测.mp4" index="0"/>
+			<video name="1.433MHz模块检测-单模块检测" path="爱剪辑-4-6-3433MHz模块检测-单模块检测.mp4" index="0"/>
+	</cmd>
+	<cmd priority="5_1_3">
+			<title name="教学视频"/>
+			<video name="3.施工工具-电烙铁" path="爱剪辑-5-1-3施工工具-电烙铁.mp4" index="0"/>
+			<video name="2.施工工具-剥线钳" path="爱剪辑-5-1-3施工工具-剥线钳.mp4" index="0"/>
+			<video name="1.施工工具-螺丝刀" path="爱剪辑-5-1-3施工工具-螺丝刀.mp4" index="0"/>
+	</cmd>
+  <cmd priority="5_1_4">
+			<title name="教学视频"/>
+			<video name="导线" path="爱剪辑-5-1-4导线.mp4" index="0"/>
+	</cmd>
+	<cmd priority="5_1_5">
+			<title name="教学视频"/>
+			<video name="导线的准备方法" path="爱剪辑-5-1-5导线的准备方法.mp4" index="0"/>
+	</cmd>
+	<cmd priority="5_2_1">
+			<title name="教学视频"/>
+			<video name="温湿度单元施工" path="爱剪辑-5-2-1温湿度单元施工.mp4" index="0"/>
+	</cmd>
+	<cmd priority="5_2_2">
+			<title name="教学视频"/>
+			<video name="温湿度单元检测" path="爱剪辑-5-2-2温湿度单元检测.mp4" index="0"/>
+	</cmd>
+	<cmd priority="5_2_3">
+			<title name="教学视频"/>
+			<video name="光照度单元施工" path="爱剪辑-5-2-3光照度单元施工.mp4" index="0"/>
+	</cmd>
+	<cmd priority="5_2_4">
+			<title name="教学视频"/>
+			<video name="光照度单元检测" path="爱剪辑-5-2-4光照度单元检测.mp4" index="0"/>
+	</cmd>
+	<cmd priority="5_2_5">
+			<title name="教学视频"/>
+			<video name="甲醛采集单元" path="爱剪辑-5-2-5甲醛采集单元.mp4" index="0"/>
+	</cmd>
+	<cmd priority="5_2_6">
+			<title name="教学视频"/>
+			<video name="CO2采集单元" path="爱剪辑-5-2-6CO2采集单元.mp4" index="0"/>
+	</cmd>
+	<cmd priority="5_3_1">
+			<title name="教学视频"/>
+			<video name="紧急报警单元施工" path="爱剪辑-5-3-1紧急报警单元施工.mp4" index="0"/>
+	</cmd>
+	<cmd priority="5_3_2">
+			<title name="教学视频"/>
+			<video name="紧急报警单元检测" path="爱剪辑-5-3-2紧急报警单元检测.mp4" index="0"/>
+	</cmd>
+	<cmd priority="5_3_3">
+			<title name="教学视频"/>
+			<video name="红外报警单元施工" path="爱剪辑-5-3-3红外报警单元施工.mp4" index="0"/>
+	</cmd>
+	<cmd priority="5_3_4">
+			<title name="教学视频"/>
+			<video name="红外报警单元检测" path="爱剪辑-5-3-4红外报警单元检测.mp4" index="0"/>
+	</cmd>
+	<cmd priority="5_3_5">
+			<title name="教学视频"/>
+			<video name="天然气报警单元施工" path="爱剪辑-5-3-5天然气报警单元施工.mp4" index="0"/>
+	</cmd>
+	<cmd priority="5_3_6">
+			<title name="教学视频"/>
+			<video name="门禁管理单元施工" path="爱剪辑-5-3-6门禁管理单元施工.mp4" index="0"/>
+	</cmd>
+	<cmd priority="5_4_1">
+			<title name="教学视频"/>
+			<video name="电源控制单元施工" path="爱剪辑-5-4-1电源控制单元施工.mp4" index="0"/>
+	</cmd>
+	<cmd priority="5_4_2">
+			<title name="教学视频"/>
+			<video name="照明控制单元施工" path="爱剪辑-5-4-2照明控制单元施工.mp4" index="0"/>
+	</cmd>
+	<cmd priority="5_4_3">
+			<title name="教学视频"/>
+			<video name="交流电机单元施工" path="爱剪辑-5-4-3交流电机单元施工.mp4" index="0"/>
+	</cmd>
+	<cmd priority="5_4_4">
+			<title name="教学视频"/>
+			<video name="直流电机单元施工" path="爱剪辑-5-4-4直流电机单元施工.mp4" index="0"/>
+	</cmd>
+	<cmd priority="5_4_5">
+			<title name="教学视频"/>
+			<video name="红外控制单元施工" path="爱剪辑-5-4-5红外控制单元施工.mp4" index="0"/>
+	</cmd>
+	<cmd priority="5_5_2">
+			<title name="教学视频"/>
+			<video name="电源配线" path="爱剪辑-5-5-2电源配线.mp4" index="0"/>
+	</cmd>
+	<cmd priority="5_5_3">
+			<title name="教学视频"/>
+			<video name="电源配线" path="爱剪辑-5-5-3电源配线.mp4" index="0"/>
+	</cmd>
+	<cmd priority="5_5_4">
+			<title name="教学视频"/>
+			<video name="电源配线" path="爱剪辑-5-5-4电源配线.mp4" index="0"/>
+	</cmd>
+	<cmd priority="5_6_1">
+			<title name="教学视频"/>
+			<video name="安防报警子系统" path="爱剪辑-5-6-1安防报警子系统.mp4" index="0"/>
+	</cmd>
+	<cmd priority="5_6_2">
+			<title name="教学视频"/>
+			<video name="设备控制子系统" path="爱剪辑-5-6-2设备控制子系统.mp4" index="0"/>
+	</cmd>
+	<cmd priority="5_6_3">
+			<title name="教学视频"/>
+			<video name="环境采集子系统" path="爱剪辑-5-6-3环境采集子系统.mp4" index="0"/>
+	</cmd>
+	<cmd priority="5_6_4">
+			<title name="教学视频"/>
+			<video name="3.RS485总线测量--加电测量法" path="爱剪辑-5-6-4RS485总线测量--加电测量法.mp4" index="0"/>
+			<video name="2.RS485总线测量--通用测量法及短路测量法" path="爱剪辑-5-6-4RS485总线测量--通用测量法及短路测量法.mp4" index="0"/>
+			<video name="1.RS485总线施工" path="爱剪辑-5-6-4RS485总线施工.mp4" index="0"/>
+	</cmd>
+</root>

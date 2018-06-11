@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="ViKeyLib">
+</Property><Property Name="解决方案文件" Value="C:\Users\Administrator\Downloads\ViKeySDK_V3.2.69\4-[示例程序]\VC++\VC9\ViKeyLib.sln">
+</Property><Property Name="Date" Value="2016年12月22日">
+</Property><Property Name="Time" Value="21:35:23">
+</Property></Properties><Event ErrorLevel="0" Project="ViKeyLib" Source="ViKeyLib.vcproj" Description="Converting project file 'C:\Users\Administrator\Downloads\ViKeySDK_V3.2.69\4-[示例程序]\VC++\VC9\ViKeyLib.vcproj'.">
+</Event><Event ErrorLevel="1" Project="ViKeyLib" Source="ViKeyLib.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="ViKeyLib" Source="ViKeyLib.vcproj" Description="Done converting to new project file 'C:\Users\Administrator\Downloads\ViKeySDK_V3.2.69\4-[示例程序]\VC++\VC9\ViKeyLib.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="ViKeyLib" Source="ViKeyLib.vcproj" Description="Converted">
+</Event></UpgradeLog>

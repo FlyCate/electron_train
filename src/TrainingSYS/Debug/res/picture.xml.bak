@@ -1,0 +1,1738 @@
+<root>
+    <cmd priority="1_1_1">
+        <title name="教学文档" />
+        <backpicture name="01.bmp" />
+        <picture name="1_1_1设备原理与选型-电源系统-电源基础知识8-1.bmp" index="0" />
+        <picture name="1_1_1设备原理与选型-电源系统-电源基础知识8-2.bmp" index="0" />
+        <picture name="1_1_1设备原理与选型-电源系统-电源基础知识8-3.bmp" index="0" />
+        <picture name="1_1_1设备原理与选型-电源系统-电源基础知识8-4.bmp" index="0" />
+        <picture name="1_1_1设备原理与选型-电源系统-电源基础知识8-5.bmp" index="0" />
+        <picture name="1_1_1设备原理与选型-电源系统-电源基础知识8-6.bmp" index="0" />
+        <picture name="1_1_1设备原理与选型-电源系统-电源基础知识8-7.bmp" index="0" />
+        <picture name="1_1_1设备原理与选型-电源系统-电源基础知识8-8.bmp" index="0" />
+        <linktitle name="网络连线" />
+    </cmd>
+    <cmd priority="1_1_2">
+        <title name="教学文档" />
+        <backpicture name="01.bmp" />
+        <picture name="1_1_2设备原理与选型-电源系统-用电安全知识4-1.bmp" index="0" />
+        <picture name="1_1_2设备原理与选型-电源系统-用电安全知识4-2.bmp" index="0" />
+        <picture name="1_1_2设备原理与选型-电源系统-用电安全知识4-3.bmp" index="0" />
+        <picture name="1_1_2设备原理与选型-电源系统-用电安全知识4-4.bmp" index="0" />
+        <linktitle name="网络连线" />
+    </cmd>
+    <cmd priority="1_1_3">
+        <title name="教学文档" />
+        <backpicture name="01.bmp" />
+        <picture name="1_1_3设备原理与选型-电源系统-供电方案5-1.bmp" index="0" />
+        <picture name="1_1_3设备原理与选型-电源系统-供电方案5-2.bmp" index="0" />
+        <picture name="1_1_3设备原理与选型-电源系统-供电方案5-3.bmp" index="0" />
+        <picture name="1_1_3设备原理与选型-电源系统-供电方案5-4.bmp" index="0" />
+        <picture name="1_1_3设备原理与选型-电源系统-供电方案5-5.bmp" index="0" />
+        <linktitle name="网络连线" />
+    </cmd>
+    <cmd priority="1_1_4">
+        <title name="教学文档" />
+        <backpicture name="01.bmp" />
+        <picture name="1_1_4设备原理与选型-电源系统-供电设备选型4-1.bmp" index="0" />
+        <picture name="1_1_4设备原理与选型-电源系统-供电设备选型4-2.bmp" index="0" />
+        <picture name="1_1_4设备原理与选型-电源系统-供电设备选型4-3.bmp" index="0" />
+        <picture name="1_1_4设备原理与选型-电源系统-供电设备选型4-4.bmp" index="0" />
+        <linktitle name="网络连线" />
+    </cmd>
+    <cmd priority="1_2_1">
+        <title name="教学文档" />
+        <backpicture name="01.bmp" />
+        <picture name="1_2_1设备原理与选型-通信与网络-通信基础知识5-1.bmp" index="0" />
+        <picture name="1_2_1设备原理与选型-通信与网络-通信基础知识5-2.bmp" index="0" />
+        <picture name="1_2_1设备原理与选型-通信与网络-通信基础知识5-3.bmp" index="0" />
+        <picture name="1_2_1设备原理与选型-通信与网络-通信基础知识5-4.bmp" index="0" />
+        <picture name="1_2_1设备原理与选型-通信与网络-通信基础知识5-5.bmp" index="0" />
+        <linktitle name="网络连线" />
+    </cmd>
+    <cmd priority="1_2_3">
+        <title name="教学文档" />
+        <backpicture name="01.bmp" />
+        <picture name="1_2_3设备原理与选型-通信与网络-RS485有线通信10-1.bmp" index="0" />
+        <picture name="1_2_3设备原理与选型-通信与网络-RS485有线通信10-2.bmp" index="0" />
+        <picture name="1_2_3设备原理与选型-通信与网络-RS485有线通信10-3.bmp" index="0" />
+        <picture name="1_2_3设备原理与选型-通信与网络-RS485有线通信10-4.bmp" index="0" />
+        <picture name="1_2_3设备原理与选型-通信与网络-RS485有线通信10-5.bmp" index="0" />
+        <picture name="1_2_3设备原理与选型-通信与网络-RS485有线通信10-6.bmp" index="0" />
+        <picture name="1_2_3设备原理与选型-通信与网络-RS485有线通信10-7.bmp" index="0" />
+        <picture name="1_2_3设备原理与选型-通信与网络-RS485有线通信10-8.bmp" index="0" />
+        <picture name="1_2_3设备原理与选型-通信与网络-RS485有线通信10-9.bmp" index="0" />
+        <picture name="1_2_3设备原理与选型-通信与网络-RS485有线通信10-10.bmp" index="0" />
+        <linktitle name="网络连线" />
+    </cmd>
+    <cmd priority="1_2_4">
+        <title name="教学文档" />
+        <backpicture name="01.bmp" />
+        <picture name="1_2_4设备原理与选型-通信与网络-433MHZ无线通信8-1.bmp" index="0" />
+        <picture name="1_2_4设备原理与选型-通信与网络-433MHZ无线通信8-2.bmp" index="0" />
+        <picture name="1_2_4设备原理与选型-通信与网络-433MHZ无线通信8-3.bmp" index="0" />
+        <picture name="1_2_4设备原理与选型-通信与网络-433MHZ无线通信8-4.bmp" index="0" />
+        <picture name="1_2_4设备原理与选型-通信与网络-433MHZ无线通信8-5.bmp" index="0" />
+        <picture name="1_2_4设备原理与选型-通信与网络-433MHZ无线通信8-6.bmp" index="0" />
+        <picture name="1_2_4设备原理与选型-通信与网络-433MHZ无线通信8-7.bmp" index="0" />
+        <picture name="1_2_4设备原理与选型-通信与网络-433MHZ无线通信8-8.bmp" index="0" />
+        <linktitle name="网络连线" />
+    </cmd>
+    <cmd priority="1_2_5">
+        <title name="教学文档" />
+        <backpicture name="01.bmp" />
+        <picture name="1_2_5设备原理与选型-通信与网络-WiFi无线通信10-1.bmp" index="0" />
+        <picture name="1_2_5设备原理与选型-通信与网络-WiFi无线通信10-2.bmp" index="0" />
+        <picture name="1_2_5设备原理与选型-通信与网络-WiFi无线通信10-3.bmp" index="0" />
+        <picture name="1_2_5设备原理与选型-通信与网络-WiFi无线通信10-4.bmp" index="0" />
+        <picture name="1_2_5设备原理与选型-通信与网络-WiFi无线通信10-5.bmp" index="0" />
+        <picture name="1_2_5设备原理与选型-通信与网络-WiFi无线通信10-6.bmp" index="0" />
+        <picture name="1_2_5设备原理与选型-通信与网络-WiFi无线通信10-7.bmp" index="0" />
+        <picture name="1_2_5设备原理与选型-通信与网络-WiFi无线通信10-8.bmp" index="0" />
+        <picture name="1_2_5设备原理与选型-通信与网络-WiFi无线通信10-9.bmp" index="0" />
+        <picture name="1_2_5设备原理与选型-通信与网络-WiFi无线通信10-10.bmp" index="0" />
+        <linktitle name="网络连线" />
+    </cmd>
+    <cmd priority="1_2_6">
+        <title name="教学文档" />
+        <backpicture name="01.bmp" />
+        <picture name="1_2_6设备原理与选型-通信与网络-网络通信技术16-1.bmp" index="0" />
+        <picture name="1_2_6设备原理与选型-通信与网络-网络通信技术16-2.bmp" index="0" />
+        <picture name="1_2_6设备原理与选型-通信与网络-网络通信技术16-3.bmp" index="0" />
+        <picture name="1_2_6设备原理与选型-通信与网络-网络通信技术16-4.bmp" index="0" />
+        <picture name="1_2_6设备原理与选型-通信与网络-网络通信技术16-5.bmp" index="0" />
+        <picture name="1_2_6设备原理与选型-通信与网络-网络通信技术16-6.bmp" index="0" />
+        <picture name="1_2_6设备原理与选型-通信与网络-网络通信技术16-7.bmp" index="0" />
+        <picture name="1_2_6设备原理与选型-通信与网络-网络通信技术16-8.bmp" index="0" />
+        <picture name="1_2_6设备原理与选型-通信与网络-网络通信技术16-9.bmp" index="0" />
+        <picture name="1_2_6设备原理与选型-通信与网络-网络通信技术16-10.bmp" index="0" />
+        <picture name="1_2_6设备原理与选型-通信与网络-网络通信技术16-11.bmp" index="0" />
+        <picture name="1_2_6设备原理与选型-通信与网络-网络通信技术16-12.bmp" index="0" />
+        <picture name="1_2_6设备原理与选型-通信与网络-网络通信技术16-13.bmp" index="0" />
+        <picture name="1_2_6设备原理与选型-通信与网络-网络通信技术16-14.bmp" index="0" />
+        <picture name="1_2_6设备原理与选型-通信与网络-网络通信技术16-15.bmp" index="0" />
+        <picture name="1_2_6设备原理与选型-通信与网络-网络通信技术16-16.bmp" index="0" />
+        <linktitle name="网络连线" />
+    </cmd>
+    <cmd priority="1_3_2">
+        <title name="教学文档" />
+        <backpicture name="01.bmp" />
+        <picture name="1_3_2设备原理与选型-环境采集子系统-温度传感器4-1.bmp" index="0" />
+        <picture name="1_3_2设备原理与选型-环境采集子系统-温度传感器4-2.bmp" index="0" />
+        <picture name="1_3_2设备原理与选型-环境采集子系统-温度传感器4-3.bmp" index="0" />
+        <picture name="1_3_2设备原理与选型-环境采集子系统-温度传感器4-4.bmp" index="0" />
+        <linktitle name="网络连线" />
+    </cmd>
+    <cmd priority="1_3_3">
+        <title name="教学文档" />
+        <backpicture name="01.bmp" />
+        <picture name="1_3_3设备原理与选型-环境采集子系统-湿度传感器5-1.bmp" index="0" />
+        <picture name="1_3_3设备原理与选型-环境采集子系统-湿度传感器5-2.bmp" index="0" />
+        <picture name="1_3_3设备原理与选型-环境采集子系统-湿度传感器5-3.bmp" index="0" />
+        <picture name="1_3_3设备原理与选型-环境采集子系统-湿度传感器5-4.bmp" index="0" />
+        <picture name="1_3_3设备原理与选型-环境采集子系统-湿度传感器5-5.bmp" index="0" />
+        <linktitle name="网络连线" />
+    </cmd>
+    <cmd priority="1_3_1">
+        <title name="教学文档" />
+        <backpicture name="01.bmp" />
+        <picture name="1_3_1设备原理与选型-环境采集子系统-环境采集基础知识8-1.bmp" index="0" />
+        <picture name="1_3_1设备原理与选型-环境采集子系统-环境采集基础知识8-2.bmp" index="0" />
+        <picture name="1_3_1设备原理与选型-环境采集子系统-环境采集基础知识8-3.bmp" index="0" />
+        <picture name="1_3_1设备原理与选型-环境采集子系统-环境采集基础知识8-4.bmp" index="0" />
+        <picture name="1_3_1设备原理与选型-环境采集子系统-环境采集基础知识8-5.bmp" index="0" />
+        <picture name="1_3_1设备原理与选型-环境采集子系统-环境采集基础知识8-6.bmp" index="0" />
+        <picture name="1_3_1设备原理与选型-环境采集子系统-环境采集基础知识8-7.bmp" index="0" />
+        <picture name="1_3_1设备原理与选型-环境采集子系统-环境采集基础知识8-8.bmp" index="0" />
+        <linktitle name="网络连线" />
+    </cmd>
+    <cmd priority="1_3_4">
+        <title name="教学文档" />
+        <backpicture name="01.bmp" />
+        <picture name="1_3_4设备原理与选型-环境采集子系统-光照度传感器4-1.bmp" index="0" />
+        <picture name="1_3_4设备原理与选型-环境采集子系统-光照度传感器4-2.bmp" index="0" />
+        <picture name="1_3_4设备原理与选型-环境采集子系统-光照度传感器4-3.bmp" index="0" />
+        <picture name="1_3_4设备原理与选型-环境采集子系统-光照度传感器4-4.bmp" index="0" />
+        <linktitle name="网络连线" />
+    </cmd>
+    <cmd priority="1_3_5">
+        <title name="教学文档" />
+        <backpicture name="01.bmp" />
+        <picture name="1_3_5设备原理与选型-环境采集子系统-甲醛传感器4-1.bmp" index="0" />
+        <picture name="1_3_5设备原理与选型-环境采集子系统-甲醛传感器4-2.bmp" index="0" />
+        <picture name="1_3_5设备原理与选型-环境采集子系统-甲醛传感器4-3.bmp" index="0" />
+        <picture name="1_3_5设备原理与选型-环境采集子系统-甲醛传感器4-4.bmp" index="0" />
+        <linktitle name="网络连线" />
+    </cmd>
+    <cmd priority="1_3_6">
+        <title name="教学文档" />
+        <backpicture name="01.bmp" />
+        <picture name="1_3_6设备原理与选型-环境采集子系统-CO2传感器4-1.bmp" index="0" />
+        <picture name="1_3_6设备原理与选型-环境采集子系统-CO2传感器4-2.bmp" index="0" />
+        <picture name="1_3_6设备原理与选型-环境采集子系统-CO2传感器4-3.bmp" index="0" />
+        <picture name="1_3_6设备原理与选型-环境采集子系统-CO2传感器4-4.bmp" index="0" />
+        <linktitle name="网络连线" />
+    </cmd>
+    <cmd priority="1_3_7">
+        <title name="教学文档" />
+        <backpicture name="01.bmp" />
+        <picture name="1_3_7设备原理与选型-环境采集子系统-模拟量采集器5-1.bmp" index="0" />
+        <picture name="1_3_7设备原理与选型-环境采集子系统-模拟量采集器5-2.bmp" index="0" />
+        <picture name="1_3_7设备原理与选型-环境采集子系统-模拟量采集器5-3.bmp" index="0" />
+        <picture name="1_3_7设备原理与选型-环境采集子系统-模拟量采集器5-4.bmp" index="0" />
+        <picture name="1_3_7设备原理与选型-环境采集子系统-模拟量采集器5-5.bmp" index="0" />
+        <linktitle name="网络连线" />
+    </cmd>
+    <cmd priority="1_2_7">
+        <title name="教学文档" />
+        <backpicture name="01.bmp" />
+        <picture name="1_2_7设备原理与选型-通信与网络-移动通信技术15-1.bmp" index="0" />
+        <picture name="1_2_7设备原理与选型-通信与网络-移动通信技术15-2.bmp" index="0" />
+        <picture name="1_2_7设备原理与选型-通信与网络-移动通信技术15-3.bmp" index="0" />
+        <picture name="1_2_7设备原理与选型-通信与网络-移动通信技术15-4.bmp" index="0" />
+        <picture name="1_2_7设备原理与选型-通信与网络-移动通信技术15-5.bmp" index="0" />
+        <picture name="1_2_7设备原理与选型-通信与网络-移动通信技术15-6.bmp" index="0" />
+        <picture name="1_2_7设备原理与选型-通信与网络-移动通信技术15-7.bmp" index="0" />
+        <picture name="1_2_7设备原理与选型-通信与网络-移动通信技术15-8.bmp" index="0" />
+        <picture name="1_2_7设备原理与选型-通信与网络-移动通信技术15-9.bmp" index="0" />
+        <picture name="1_2_7设备原理与选型-通信与网络-移动通信技术15-10.bmp" index="0" />
+        <picture name="1_2_7设备原理与选型-通信与网络-移动通信技术15-11.bmp" index="0" />
+        <picture name="1_2_7设备原理与选型-通信与网络-移动通信技术15-12.bmp" index="0" />
+        <picture name="1_2_7设备原理与选型-通信与网络-移动通信技术15-13.bmp" index="0" />
+        <picture name="1_2_7设备原理与选型-通信与网络-移动通信技术15-14.bmp" index="0" />
+        <picture name="1_2_7设备原理与选型-通信与网络-移动通信技术15-15.bmp" index="0" />
+        <linktitle name="网络连线" />
+    </cmd>
+    <cmd priority="1_4_1">
+        <title name="教学文档" />
+        <backpicture name="01.bmp" />
+        <picture name="1_4_1设备原理与选型-安防报警子系统-基础知识7-1.bmp" index="0" />
+        <picture name="1_4_1设备原理与选型-安防报警子系统-基础知识7-2.bmp" index="0" />
+        <picture name="1_4_1设备原理与选型-安防报警子系统-基础知识7-3.bmp" index="0" />
+        <picture name="1_4_1设备原理与选型-安防报警子系统-基础知识7-4.bmp" index="0" />
+        <picture name="1_4_1设备原理与选型-安防报警子系统-基础知识7-5.bmp" index="0" />
+        <picture name="1_4_1设备原理与选型-安防报警子系统-基础知识7-6.bmp" index="0" />
+        <picture name="1_4_1设备原理与选型-安防报警子系统-基础知识7-7.bmp" index="0" />
+        <linktitle name="网络连线" />
+    </cmd>
+    <cmd priority="1_4_2">
+        <title name="教学文档" />
+        <backpicture name="01.bmp" />
+        <picture name="1_4_2设备原理与选型-安防报警子系统-紧急报警开关5-1.bmp" index="0" />
+        <picture name="1_4_2设备原理与选型-安防报警子系统-紧急报警开关5-2.bmp" index="0" />
+        <picture name="1_4_2设备原理与选型-安防报警子系统-紧急报警开关5-3.bmp" index="0" />
+        <picture name="1_4_2设备原理与选型-安防报警子系统-紧急报警开关5-4.bmp" index="0" />
+        <picture name="1_4_2设备原理与选型-安防报警子系统-紧急报警开关5-5.bmp" index="0" />
+        <linktitle name="网络连线" />
+    </cmd>
+    <cmd priority="1_4_3">
+        <title name="教学文档" />
+        <backpicture name="01.bmp" />
+        <picture name="1_4_3设备原理与选型-安防报警子系统-红外探测器6-1.bmp" index="0" />
+        <picture name="1_4_3设备原理与选型-安防报警子系统-红外探测器6-2.bmp" index="0" />
+        <picture name="1_4_3设备原理与选型-安防报警子系统-红外探测器6-3.bmp" index="0" />
+        <picture name="1_4_3设备原理与选型-安防报警子系统-红外探测器6-4.bmp" index="0" />
+        <picture name="1_4_3设备原理与选型-安防报警子系统-红外探测器6-5.bmp" index="0" />
+        <picture name="1_4_3设备原理与选型-安防报警子系统-红外探测器6-6.bmp" index="0" />
+        <linktitle name="网络连线" />
+    </cmd>
+    <cmd priority="1_4_4">
+        <title name="教学文档" />
+        <backpicture name="01.bmp" />
+        <picture name="1_4_4设备原理与选型-安防报警子系统-天然气探测器5-1.bmp" index="0" />
+        <picture name="1_4_4设备原理与选型-安防报警子系统-天然气探测器5-2.bmp" index="0" />
+        <picture name="1_4_4设备原理与选型-安防报警子系统-天然气探测器5-3.bmp" index="0" />
+        <picture name="1_4_4设备原理与选型-安防报警子系统-天然气探测器5-4.bmp" index="0" />
+        <picture name="1_4_4设备原理与选型-安防报警子系统-天然气探测器5-5.bmp" index="0" />
+        <linktitle name="网络连线" />
+    </cmd>
+    <cmd priority="1_4_5">
+        <title name="教学文档" />
+        <backpicture name="01.bmp" />
+        <picture name="1_4_5设备原理与选型-安防报警子系统-开关量采集器8-1.bmp" index="0" />
+        <picture name="1_4_5设备原理与选型-安防报警子系统-开关量采集器8-2.bmp" index="0" />
+        <picture name="1_4_5设备原理与选型-安防报警子系统-开关量采集器8-3.bmp" index="0" />
+        <picture name="1_4_5设备原理与选型-安防报警子系统-开关量采集器8-4.bmp" index="0" />
+        <picture name="1_4_5设备原理与选型-安防报警子系统-开关量采集器8-5.bmp" index="0" />
+        <picture name="1_4_5设备原理与选型-安防报警子系统-开关量采集器8-6.bmp" index="0" />
+        <picture name="1_4_5设备原理与选型-安防报警子系统-开关量采集器8-7.bmp" index="0" />
+        <picture name="1_4_5设备原理与选型-安防报警子系统-开关量采集器8-8.bmp" index="0" />
+        <linktitle name="网络连线" />
+    </cmd>
+    <cmd priority="1_4_6">
+        <title name="教学文档" />
+        <backpicture name="01.bmp" />
+        <picture name="1_4_6设备原理与选型-安防报警子系统-门禁管理单元9-1.bmp" index="0" />
+        <picture name="1_4_6设备原理与选型-安防报警子系统-门禁管理单元9-2.bmp" index="0" />
+        <picture name="1_4_6设备原理与选型-安防报警子系统-门禁管理单元9-3.bmp" index="0" />
+        <picture name="1_4_6设备原理与选型-安防报警子系统-门禁管理单元9-4.bmp" index="0" />
+        <picture name="1_4_6设备原理与选型-安防报警子系统-门禁管理单元9-5.bmp" index="0" />
+        <picture name="1_4_6设备原理与选型-安防报警子系统-门禁管理单元9-6.bmp" index="0" />
+        <picture name="1_4_6设备原理与选型-安防报警子系统-门禁管理单元9-7.bmp" index="0" />
+        <picture name="1_4_6设备原理与选型-安防报警子系统-门禁管理单元9-8.bmp" index="0" />
+        <picture name="1_4_6设备原理与选型-安防报警子系统-门禁管理单元9-9.bmp" index="0" />
+        <linktitle name="网络连线" />
+    </cmd>
+    <cmd priority="1_4_7">
+        <title name="教学文档" />
+        <backpicture name="01.bmp" />
+        <picture name="1_4_7设备原理与选型-安防报警子系统-视频监控6-1.bmp" index="0" />
+        <picture name="1_4_7设备原理与选型-安防报警子系统-视频监控6-2.bmp" index="0" />
+        <picture name="1_4_7设备原理与选型-安防报警子系统-视频监控6-3.bmp" index="0" />
+        <picture name="1_4_7设备原理与选型-安防报警子系统-视频监控6-4.bmp" index="0" />
+        <picture name="1_4_7设备原理与选型-安防报警子系统-视频监控6-5.bmp" index="0" />
+        <picture name="1_4_7设备原理与选型-安防报警子系统-视频监控6-6.bmp" index="0" />
+        <linktitle name="网络连线" />
+    </cmd>
+    <cmd priority="1_4_8">
+        <title name="教学文档" />
+        <backpicture name="01.bmp" />
+        <picture name="1_4_8设备原理与选型-安防报警子系统-其他安防设备简介6-1.bmp" index="0" />
+        <picture name="1_4_8设备原理与选型-安防报警子系统-其他安防设备简介6-2.bmp" index="0" />
+        <picture name="1_4_8设备原理与选型-安防报警子系统-其他安防设备简介6-3.bmp" index="0" />
+        <picture name="1_4_8设备原理与选型-安防报警子系统-其他安防设备简介6-4.bmp" index="0" />
+        <picture name="1_4_8设备原理与选型-安防报警子系统-其他安防设备简介6-5.bmp" index="0" />
+        <picture name="1_4_8设备原理与选型-安防报警子系统-其他安防设备简介6-6.bmp" index="0" />
+        <linktitle name="网络连线" />
+    </cmd>
+    <cmd priority="1_5_1">
+        <title name="教学文档" />
+        <backpicture name="01.bmp" />
+        <picture name="1_5_1设备原理与选型-设备控制子系统-设备控制基础知识7-1.bmp" index="0" />
+        <picture name="1_5_1设备原理与选型-设备控制子系统-设备控制基础知识7-2.bmp" index="0" />
+        <picture name="1_5_1设备原理与选型-设备控制子系统-设备控制基础知识7-3.bmp" index="0" />
+        <picture name="1_5_1设备原理与选型-设备控制子系统-设备控制基础知识7-4.bmp" index="0" />
+        <picture name="1_5_1设备原理与选型-设备控制子系统-设备控制基础知识7-5.bmp" index="0" />
+        <picture name="1_5_1设备原理与选型-设备控制子系统-设备控制基础知识7-6.bmp" index="0" />
+        <picture name="1_5_1设备原理与选型-设备控制子系统-设备控制基础知识7-7.bmp" index="0" />
+        <linktitle name="网络连线" />
+    </cmd>
+    <cmd priority="1_5_3">
+        <title name="教学文档" />
+        <backpicture name="01.bmp" />
+        <picture name="1_5_3设备原理与选型-设备控制子系统-智能照明控制7-1.bmp" index="0" />
+        <picture name="1_5_3设备原理与选型-设备控制子系统-智能照明控制7-2.bmp" index="0" />
+        <picture name="1_5_3设备原理与选型-设备控制子系统-智能照明控制7-3.bmp" index="0" />
+        <picture name="1_5_3设备原理与选型-设备控制子系统-智能照明控制7-4.bmp" index="0" />
+        <picture name="1_5_3设备原理与选型-设备控制子系统-智能照明控制7-5.bmp" index="0" />
+        <picture name="1_5_3设备原理与选型-设备控制子系统-智能照明控制7-6.bmp" index="0" />
+        <picture name="1_5_3设备原理与选型-设备控制子系统-智能照明控制7-7.bmp" index="0" />
+        <linktitle name="网络连线" />
+    </cmd>
+    <cmd priority="1_5_5">
+        <title name="教学文档" />
+        <backpicture name="01.bmp" />
+        <picture name="1_5_5设备原理与选型-设备控制子系统-直流电机控制14-1.bmp" index="0" />
+        <picture name="1_5_5设备原理与选型-设备控制子系统-直流电机控制14-2.bmp" index="0" />
+        <picture name="1_5_5设备原理与选型-设备控制子系统-直流电机控制14-3.bmp" index="0" />
+        <picture name="1_5_5设备原理与选型-设备控制子系统-直流电机控制14-4.bmp" index="0" />
+        <picture name="1_5_5设备原理与选型-设备控制子系统-直流电机控制14-5.bmp" index="0" />
+        <picture name="1_5_5设备原理与选型-设备控制子系统-直流电机控制14-6.bmp" index="0" />
+        <picture name="1_5_5设备原理与选型-设备控制子系统-直流电机控制14-7.bmp" index="0" />
+        <picture name="1_5_5设备原理与选型-设备控制子系统-直流电机控制14-8.bmp" index="0" />
+        <picture name="1_5_5设备原理与选型-设备控制子系统-直流电机控制14-9.bmp" index="0" />
+        <picture name="1_5_5设备原理与选型-设备控制子系统-直流电机控制14-10.bmp" index="0" />
+        <picture name="1_5_5设备原理与选型-设备控制子系统-直流电机控制14-11.bmp" index="0" />
+        <picture name="1_5_5设备原理与选型-设备控制子系统-直流电机控制14-12.bmp" index="0" />
+        <picture name="1_5_5设备原理与选型-设备控制子系统-直流电机控制14-13.bmp" index="0" />
+        <picture name="1_5_5设备原理与选型-设备控制子系统-直流电机控制14-14.bmp" index="0" />
+        <linktitle name="网络连线" />
+    </cmd>
+    <cmd priority="1_5_6">
+        <title name="教学文档" />
+        <backpicture name="01.bmp" />
+        <picture name="1_5_6设备原理与选型-设备控制子系统-红外编码控制4-1.bmp" index="0" />
+        <picture name="1_5_6设备原理与选型-设备控制子系统-红外编码控制4-2.bmp" index="0" />
+        <picture name="1_5_6设备原理与选型-设备控制子系统-红外编码控制4-3.bmp" index="0" />
+        <picture name="1_5_6设备原理与选型-设备控制子系统-红外编码控制4-4.bmp" index="0" />
+        <linktitle name="网络连线" />
+    </cmd>
+    <cmd priority="1_6_1">
+        <title name="教学文档" />
+        <backpicture name="01.bmp" />
+        <picture name="1_6_1设备原理与选型-连接及辅助器件-弱电电源导线2-1.bmp" index="0" />
+        <picture name="1_6_1设备原理与选型-连接及辅助器件-弱电电源导线2-2.bmp" index="0" />
+        <linktitle name="网络连线" />
+    </cmd>
+    <cmd priority="1_6_2">
+        <title name="教学文档" />
+        <backpicture name="01.bmp" />
+        <picture name="1_6_2设备原理与选型-连接及辅助器件-弱电信号线4-1.bmp" index="0" />
+        <picture name="1_6_2设备原理与选型-连接及辅助器件-弱电信号线4-2.bmp" index="0" />
+        <picture name="1_6_2设备原理与选型-连接及辅助器件-弱电信号线4-3.bmp" index="0" />
+        <picture name="1_6_2设备原理与选型-连接及辅助器件-弱电信号线4-4.bmp" index="0" />
+        <linktitle name="网络连线" />
+    </cmd>
+    <cmd priority="1_6_3">
+        <title name="教学文档" />
+        <backpicture name="01.bmp" />
+        <picture name="1_6_3设备原理与选型-连接及辅助器件-RS485专用导线2-1.bmp" index="0" />
+        <picture name="1_6_3设备原理与选型-连接及辅助器件-RS485专用导线2-2.bmp" index="0" />
+        <linktitle name="网络连线" />
+    </cmd>
+    <cmd priority="1_6_4">
+        <title name="教学文档" />
+        <backpicture name="01.bmp" />
+        <picture name="1_6_4设备原理与选型-连接及辅助器件-强电电源线5-1.bmp" index="0" />
+        <picture name="1_6_4设备原理与选型-连接及辅助器件-强电电源线5-2.bmp" index="0" />
+        <picture name="1_6_4设备原理与选型-连接及辅助器件-强电电源线5-3.bmp" index="0" />
+        <picture name="1_6_4设备原理与选型-连接及辅助器件-强电电源线5-4.bmp" index="0" />
+        <picture name="1_6_4设备原理与选型-连接及辅助器件-强电电源线5-5.bmp" index="0" />
+        <linktitle name="网络连线" />
+    </cmd>
+    <cmd priority="1_6_5">
+        <title name="教学文档" />
+        <backpicture name="01.bmp" />
+        <picture name="1_6_5设备原理与选型-连接及辅助器件-导线冷压端头4-1.bmp" index="0" />
+        <picture name="1_6_5设备原理与选型-连接及辅助器件-导线冷压端头4-2.bmp" index="0" />
+        <picture name="1_6_5设备原理与选型-连接及辅助器件-导线冷压端头4-3.bmp" index="0" />
+        <picture name="1_6_5设备原理与选型-连接及辅助器件-导线冷压端头4-4.bmp" index="0" />
+        <linktitle name="网络连线" />
+    </cmd>
+    <cmd priority="1_6_6">
+        <title name="教学文档" />
+        <backpicture name="01.bmp" />
+        <picture name="1_6_6设备原理与选型-连接及辅助器件-端子排4-1.bmp" index="0" />
+        <picture name="1_6_6设备原理与选型-连接及辅助器件-端子排4-2.bmp" index="0" />
+        <picture name="1_6_6设备原理与选型-连接及辅助器件-端子排4-3.bmp" index="0" />
+        <picture name="1_6_6设备原理与选型-连接及辅助器件-端子排4-4.bmp" index="0" />
+        <linktitle name="网络连线" />
+    </cmd>
+    <cmd priority="2_1_1">
+        <title name="教学文档" />
+        <backpicture name="01.bmp" />
+        <picture name="2_1_1系统图设计-系统图设计知识-系统图设计知识3-1.bmp" index="0" />
+        <picture name="2_1_1系统图设计-系统图设计知识-系统图设计知识3-2.bmp" index="0" />
+        <picture name="2_1_1系统图设计-系统图设计知识-系统图设计知识3-3.bmp" index="0" />
+        <linktitle name="网络连线" />
+    </cmd>
+    <cmd priority="2_1_2">
+        <title name="教学文档" />
+        <backpicture name="01.bmp" />
+        <picture name="2_1_2系统图设计-系统图设计知识-工程图纸知识5-1.bmp" index="0" />
+        <picture name="2_1_2系统图设计-系统图设计知识-工程图纸知识5-2.bmp" index="0" />
+        <picture name="2_1_2系统图设计-系统图设计知识-工程图纸知识5-3.bmp" index="0" />
+        <picture name="2_1_2系统图设计-系统图设计知识-工程图纸知识5-4.bmp" index="0" />
+        <picture name="2_1_2系统图设计-系统图设计知识-工程图纸知识5-5.bmp" index="0" />
+        <linktitle name="网络连线" />
+    </cmd>
+    <cmd priority="2_1_3">
+        <title name="教学文档" />
+        <backpicture name="01.bmp" />
+        <picture name="2_1_3系统图设计-系统图设计知识-系统图设计方法9-1.bmp" index="0" />
+        <picture name="2_1_3系统图设计-系统图设计知识-系统图设计方法9-2.bmp" index="0" />
+        <picture name="2_1_3系统图设计-系统图设计知识-系统图设计方法9-3.bmp" index="0" />
+        <picture name="2_1_3系统图设计-系统图设计知识-系统图设计方法9-4.bmp" index="0" />
+        <picture name="2_1_3系统图设计-系统图设计知识-系统图设计方法9-5.bmp" index="0" />
+        <picture name="2_1_3系统图设计-系统图设计知识-系统图设计方法9-6.bmp" index="0" />
+        <picture name="2_1_3系统图设计-系统图设计知识-系统图设计方法9-7.bmp" index="0" />
+        <picture name="2_1_3系统图设计-系统图设计知识-系统图设计方法9-8.bmp" index="0" />
+        <picture name="2_1_3系统图设计-系统图设计知识-系统图设计方法9-9.bmp" index="0" />
+        <linktitle name="网络连线" />
+    </cmd>
+    <cmd priority="2_1_4">
+        <title name="教学文档" />
+        <backpicture name="01.bmp" />
+        <picture name="2_1_4系统图设计-系统图设计知识-说明与材料表3-1.bmp" index="0" />
+        <picture name="2_1_4系统图设计-系统图设计知识-说明与材料表3-2.bmp" index="0" />
+        <picture name="2_1_4系统图设计-系统图设计知识-说明与材料表3-3.bmp" index="0" />
+        <linktitle name="网络连线" />
+    </cmd>
+    <cmd priority="1_5_2">
+        <title name="教学文档" />
+        <backpicture name="01.bmp" />
+        <picture name="1_5_2设备原理与选型-设备控制子系统-智能电源控制13-1.bmp" index="0" />
+        <picture name="1_5_2设备原理与选型-设备控制子系统-智能电源控制13-2.bmp" index="0" />
+        <picture name="1_5_2设备原理与选型-设备控制子系统-智能电源控制13-3.bmp" index="0" />
+        <picture name="1_5_2设备原理与选型-设备控制子系统-智能电源控制13-4.bmp" index="0" />
+        <picture name="1_5_2设备原理与选型-设备控制子系统-智能电源控制13-5.bmp" index="0" />
+        <picture name="1_5_2设备原理与选型-设备控制子系统-智能电源控制13-6.bmp" index="0" />
+        <picture name="1_5_2设备原理与选型-设备控制子系统-智能电源控制13-7.bmp" index="0" />
+        <picture name="1_5_2设备原理与选型-设备控制子系统-智能电源控制13-8.bmp" index="0" />
+        <picture name="1_5_2设备原理与选型-设备控制子系统-智能电源控制13-9.bmp" index="0" />
+        <picture name="1_5_2设备原理与选型-设备控制子系统-智能电源控制13-10.bmp" index="0" />
+        <picture name="1_5_2设备原理与选型-设备控制子系统-智能电源控制13-11.bmp" index="0" />
+        <picture name="1_5_2设备原理与选型-设备控制子系统-智能电源控制13-12.bmp" index="0" />
+        <picture name="1_5_2设备原理与选型-设备控制子系统-智能电源控制13-13.bmp" index="0" />
+        <linktitle name="网络连线" />
+    </cmd>
+    <cmd priority="2_2_1">
+        <title name="教学文档" />
+        <backpicture name="01.bmp" />
+        <picture name="2_2_1系统图设计-环境采集子系统-温湿度采集单元7-1.bmp" index="0" />
+        <picture name="2_2_1系统图设计-环境采集子系统-温湿度采集单元7-2.bmp" index="0" />
+        <picture name="2_2_1系统图设计-环境采集子系统-温湿度采集单元7-3.bmp" index="0" />
+        <picture name="2_2_1系统图设计-环境采集子系统-温湿度采集单元7-4.bmp" index="0" />
+        <picture name="2_2_1系统图设计-环境采集子系统-温湿度采集单元7-5.bmp" index="0" />
+        <picture name="2_2_1系统图设计-环境采集子系统-温湿度采集单元7-6.bmp" index="0" />
+        <picture name="2_2_1系统图设计-环境采集子系统-温湿度采集单元7-7.bmp" index="0" />
+        <linktitle name="网络连线" />
+    </cmd>
+    <cmd priority="2_2_2">
+        <title name="教学文档" />
+        <backpicture name="01.bmp" />
+        <picture name="2_2_2系统图设计-环境采集子系统-光照度采集单元4-1.bmp" index="0" />
+        <picture name="2_2_2系统图设计-环境采集子系统-光照度采集单元4-2.bmp" index="0" />
+        <picture name="2_2_2系统图设计-环境采集子系统-光照度采集单元4-3.bmp" index="0" />
+        <picture name="2_2_2系统图设计-环境采集子系统-光照度采集单元4-4.bmp" index="0" />
+        <linktitle name="网络连线" />
+    </cmd>
+    <cmd priority="2_2_3">
+        <title name="教学文档" />
+        <backpicture name="01.bmp" />
+        <picture name="2_2_3系统图设计-环境采集子系统-甲醛采集单元4-1.bmp" index="0" />
+        <picture name="2_2_3系统图设计-环境采集子系统-甲醛采集单元4-2.bmp" index="0" />
+        <picture name="2_2_3系统图设计-环境采集子系统-甲醛采集单元4-3.bmp" index="0" />
+        <picture name="2_2_3系统图设计-环境采集子系统-甲醛采集单元4-4.bmp" index="0" />
+        <linktitle name="网络连线" />
+    </cmd>
+    <cmd priority="2_2_4">
+        <title name="教学文档" />
+        <backpicture name="01.bmp" />
+        <picture name="2_2_4系统图设计-环境采集子系统-CO2采集单元4-1.bmp" index="0" />
+        <picture name="2_2_4系统图设计-环境采集子系统-CO2采集单元4-2.bmp" index="0" />
+        <picture name="2_2_4系统图设计-环境采集子系统-CO2采集单元4-3.bmp" index="0" />
+        <picture name="2_2_4系统图设计-环境采集子系统-CO2采集单元4-4.bmp" index="0" />
+        <linktitle name="网络连线" />
+    </cmd>
+    <cmd priority="1_2_2">
+        <title name="教学文档" />
+        <backpicture name="01.bmp" />
+        <picture name="1_2_2设备原理与选型-通信及网络 -ZigBee无线通信13-1.bmp" index="0" />
+        <picture name="1_2_2设备原理与选型-通信及网络 -ZigBee无线通信13-2.bmp" index="0" />
+        <picture name="1_2_2设备原理与选型-通信及网络 -ZigBee无线通信13-3.bmp" index="0" />
+        <picture name="1_2_2设备原理与选型-通信及网络 -ZigBee无线通信13-4.bmp" index="0" />
+        <picture name="1_2_2设备原理与选型-通信及网络 -ZigBee无线通信13-5.bmp" index="0" />
+        <picture name="1_2_2设备原理与选型-通信及网络 -ZigBee无线通信13-6.bmp" index="0" />
+        <picture name="1_2_2设备原理与选型-通信及网络 -ZigBee无线通信13-7.bmp" index="0" />
+        <picture name="1_2_2设备原理与选型-通信及网络 -ZigBee无线通信13-8.bmp" index="0" />
+        <picture name="1_2_2设备原理与选型-通信及网络 -ZigBee无线通信13-9.bmp" index="0" />
+        <picture name="1_2_2设备原理与选型-通信及网络 -ZigBee无线通信13-10.bmp" index="0" />
+        <picture name="1_2_2设备原理与选型-通信及网络 -ZigBee无线通信13-11.bmp" index="0" />
+        <picture name="1_2_2设备原理与选型-通信及网络 -ZigBee无线通信13-12.bmp" index="0" />
+        <picture name="1_2_2设备原理与选型-通信及网络 -ZigBee无线通信13-13.bmp" index="0" />
+        <linktitle name="网络连线" />
+    </cmd>
+    <cmd priority="2_3_1">
+        <title name="教学文档" />
+        <backpicture name="01.bmp" />
+        <picture name="2_3_1系统图设计-安防报警子系统-紧急报警单元6-1.bmp" index="0" />
+        <picture name="2_3_1系统图设计-安防报警子系统-紧急报警单元6-2.bmp" index="0" />
+        <picture name="2_3_1系统图设计-安防报警子系统-紧急报警单元6-3.bmp" index="0" />
+        <picture name="2_3_1系统图设计-安防报警子系统-紧急报警单元6-4.bmp" index="0" />
+        <picture name="2_3_1系统图设计-安防报警子系统-紧急报警单元6-5.bmp" index="0" />
+        <picture name="2_3_1系统图设计-安防报警子系统-紧急报警单元6-6.bmp" index="0" />
+        <linktitle name="网络连线" />
+    </cmd>
+    <cmd priority="2_3_2">
+        <title name="教学文档" />
+        <backpicture name="01.bmp" />
+        <picture name="2_3_2系统图设计-安防报警子系统-红外报警单元4-1.bmp" index="0" />
+        <picture name="2_3_2系统图设计-安防报警子系统-红外报警单元4-2.bmp" index="0" />
+        <picture name="2_3_2系统图设计-安防报警子系统-红外报警单元4-3.bmp" index="0" />
+        <picture name="2_3_2系统图设计-安防报警子系统-红外报警单元4-4.bmp" index="0" />
+        <linktitle name="网络连线" />
+    </cmd>
+    <cmd priority="2_3_3">
+        <title name="教学文档" />
+        <backpicture name="01.bmp" />
+        <picture name="2_3_3系统图设计-安防报警子系统-天然气报警单元4-1.bmp" index="0" />
+        <picture name="2_3_3系统图设计-安防报警子系统-天然气报警单元4-2.bmp" index="0" />
+        <picture name="2_3_3系统图设计-安防报警子系统-天然气报警单元4-3.bmp" index="0" />
+        <picture name="2_3_3系统图设计-安防报警子系统-天然气报警单元4-4.bmp" index="0" />
+        <linktitle name="网络连线" />
+    </cmd>
+    <cmd priority="2_3_4">
+        <title name="教学文档" />
+        <backpicture name="01.bmp" />
+        <picture name="2_3_4系统图设计-安防报警子系统-门禁管理单元6-1.bmp" index="0" />
+        <picture name="2_3_4系统图设计-安防报警子系统-门禁管理单元6-2.bmp" index="0" />
+        <picture name="2_3_4系统图设计-安防报警子系统-门禁管理单元6-3.bmp" index="0" />
+        <picture name="2_3_4系统图设计-安防报警子系统-门禁管理单元6-4.bmp" index="0" />
+        <picture name="2_3_4系统图设计-安防报警子系统-门禁管理单元6-5.bmp" index="0" />
+        <picture name="2_3_4系统图设计-安防报警子系统-门禁管理单元6-6.bmp" index="0" />
+        <linktitle name="网络连线" />
+    </cmd>
+    <cmd priority="2_4_2">
+        <title name="教学文档" />
+        <backpicture name="01.bmp" />
+        <picture name="2_4_2系统图设计-设备控制子系统-智能照明控制单元5-1.bmp" index="0" />
+        <picture name="2_4_2系统图设计-设备控制子系统-智能照明控制单元5-2.bmp" index="0" />
+        <picture name="2_4_2系统图设计-设备控制子系统-智能照明控制单元5-3.bmp" index="0" />
+        <picture name="2_4_2系统图设计-设备控制子系统-智能照明控制单元5-4.bmp" index="0" />
+        <picture name="2_4_2系统图设计-设备控制子系统-智能照明控制单元5-5.bmp" index="0" />
+        <linktitle name="网络连线" />
+    </cmd>
+    <cmd priority="2_4_1">
+        <title name="教学文档" />
+        <backpicture name="01.bmp" />
+        <picture name="2_4_1系统图设计-设备控制子系统-电源控制单元6-1.bmp" index="0" />
+        <picture name="2_4_1系统图设计-设备控制子系统-电源控制单元6-2.bmp" index="0" />
+        <picture name="2_4_1系统图设计-设备控制子系统-电源控制单元6-3.bmp" index="0" />
+        <picture name="2_4_1系统图设计-设备控制子系统-电源控制单元6-4.bmp" index="0" />
+        <picture name="2_4_1系统图设计-设备控制子系统-电源控制单元6-5.bmp" index="0" />
+        <picture name="2_4_1系统图设计-设备控制子系统-电源控制单元6-6.bmp" index="0" />
+        <linktitle name="网络连线" />
+    </cmd>
+    <cmd priority="1_5_4">
+        <title name="教学文档" />
+        <backpicture name="01.bmp" />
+        <picture name="1_5_4设备原理与选型-设备控制子系统-交流电机控制8-1.bmp" index="0" />
+        <picture name="1_5_4设备原理与选型-设备控制子系统-交流电机控制8-2.bmp" index="0" />
+        <picture name="1_5_4设备原理与选型-设备控制子系统-交流电机控制8-3.bmp" index="0" />
+        <picture name="1_5_4设备原理与选型-设备控制子系统-交流电机控制8-4.bmp" index="0" />
+        <picture name="1_5_4设备原理与选型-设备控制子系统-交流电机控制8-5.bmp" index="0" />
+        <picture name="1_5_4设备原理与选型-设备控制子系统-交流电机控制8-6.bmp" index="0" />
+        <picture name="1_5_4设备原理与选型-设备控制子系统-交流电机控制8-7.bmp" index="0" />
+        <picture name="1_5_4设备原理与选型-设备控制子系统-交流电机控制8-8.bmp" index="0" />
+        <linktitle name="网络连线" />
+    </cmd>
+    <cmd priority="2_4_3">
+        <title name="教学文档" />
+        <backpicture name="01.bmp" />
+        <picture name="2_4_3系统图设计-设备控制子系统-交流电机控制单元6-1.bmp" index="0" />
+        <picture name="2_4_3系统图设计-设备控制子系统-交流电机控制单元6-2.bmp" index="0" />
+        <picture name="2_4_3系统图设计-设备控制子系统-交流电机控制单元6-3.bmp" index="0" />
+        <picture name="2_4_3系统图设计-设备控制子系统-交流电机控制单元6-4.bmp" index="0" />
+        <picture name="2_4_3系统图设计-设备控制子系统-交流电机控制单元6-5.bmp" index="0" />
+        <picture name="2_4_3系统图设计-设备控制子系统-交流电机控制单元6-6.bmp" index="0" />
+        <linktitle name="网络连线" />
+    </cmd>
+    <cmd priority="2_4_4">
+        <title name="教学文档" />
+        <backpicture name="01.bmp" />
+        <picture name="2_4_4系统图设计-设备控制子系统-直流电机控制单元3-1.bmp" index="0" />
+        <picture name="2_4_4系统图设计-设备控制子系统-直流电机控制单元3-2.bmp" index="0" />
+        <picture name="2_4_4系统图设计-设备控制子系统-直流电机控制单元3-3.bmp" index="0" />
+        <linktitle name="网络连线" />
+    </cmd>
+    <cmd priority="2_4_5">
+        <title name="教学文档" />
+        <backpicture name="01.bmp" />
+        <picture name="2_4_5系统图设计-设备控制子系统-红外编码控制单元2-1.bmp" index="0" />
+        <picture name="2_4_5系统图设计-设备控制子系统-红外编码控制单元2-2.bmp" index="0" />
+        <linktitle name="网络连线" />
+    </cmd>
+    <cmd priority="2_5_1">
+        <title name="教学文档" />
+        <backpicture name="01.bmp" />
+        <picture name="2_5_1系统图设计-电源系统-环境采集子系统6-1.bmp" index="0" />
+        <picture name="2_5_1系统图设计-电源系统-环境采集子系统6-2.bmp" index="0" />
+        <picture name="2_5_1系统图设计-电源系统-环境采集子系统6-3.bmp" index="0" />
+        <picture name="2_5_1系统图设计-电源系统-环境采集子系统6-4.bmp" index="0" />
+        <picture name="2_5_1系统图设计-电源系统-环境采集子系统6-5.bmp" index="0" />
+        <picture name="2_5_1系统图设计-电源系统-环境采集子系统6-6.bmp" index="0" />
+        <linktitle name="网络连线" />
+    </cmd>
+    <cmd priority="2_5_2">
+        <title name="教学文档" />
+        <backpicture name="01.bmp" />
+        <picture name="2_5_2系统图设计-电源系统-安防报警子系统2-1.bmp" index="0" />
+        <picture name="2_5_2系统图设计-电源系统-安防报警子系统2-2.bmp" index="0" />
+        <linktitle name="网络连线" />
+    </cmd>
+    <cmd priority="2_5_3">
+        <title name="教学文档" />
+        <backpicture name="01.bmp" />
+        <picture name="2_5_3系统图设计-电源系统-设备控制子系统2-1.bmp" index="0" />
+        <picture name="2_5_3系统图设计-电源系统-设备控制子系统2-2.bmp" index="0" />
+        <linktitle name="网络连线" />
+    </cmd>
+    <cmd priority="2_6_1">
+        <title name="教学文档" />
+        <backpicture name="01.bmp" />
+        <picture name="2_6_1系统图设计-RS485通信子系统-通用系统5-1.bmp" index="0" />
+        <picture name="2_6_1系统图设计-RS485通信子系统-通用系统5-2.bmp" index="0" />
+        <picture name="2_6_1系统图设计-RS485通信子系统-通用系统5-3.bmp" index="0" />
+        <picture name="2_6_1系统图设计-RS485通信子系统-通用系统5-4.bmp" index="0" />
+        <picture name="2_6_1系统图设计-RS485通信子系统-通用系统5-5.bmp" index="0" />
+        <linktitle name="网络连线" />
+    </cmd>
+    <cmd priority="2_6_2">
+        <title name="教学文档" />
+        <backpicture name="01.bmp" />
+        <picture name="2_6_2系统图设计-RS485通信子系统-长距离系统2-1.bmp" index="0" />
+        <picture name="2_6_2系统图设计-RS485通信子系统-长距离系统2-2.bmp" index="0" />
+        <linktitle name="网络连线" />
+    </cmd>
+    <cmd priority="2_6_3">
+        <title name="教学文档" />
+        <backpicture name="01.bmp" />
+        <picture name="2_6_3系统图设计-RS485通信子系统-分支型系统2-1.bmp" index="0" />
+        <picture name="2_6_3系统图设计-RS485通信子系统-分支型系统2-2.bmp" index="0" />
+        <linktitle name="网络连线" />
+    </cmd>
+    <cmd priority="2_6_4">
+        <title name="教学文档" />
+        <backpicture name="01.bmp" />
+        <picture name="2_6_4系统图设计-RS485通信子系统-综合型系统2-1.bmp" index="0" />
+        <picture name="2_6_4系统图设计-RS485通信子系统-综合型系统2-2.bmp" index="0" />
+        <linktitle name="网络连线" />
+    </cmd>
+    <cmd priority="3_1_1">
+        <title name="教学文档" />
+        <backpicture name="01.bmp" />
+        <picture name="3_1_1施工图设计-施工图设计知识-对标法5-1.bmp" index="0" />
+        <picture name="3_1_1施工图设计-施工图设计知识-对标法5-2.bmp" index="0" />
+        <picture name="3_1_1施工图设计-施工图设计知识-对标法5-3.bmp" index="0" />
+        <picture name="3_1_1施工图设计-施工图设计知识-对标法5-4.bmp" index="0" />
+        <picture name="3_1_1施工图设计-施工图设计知识-对标法5-5.bmp" index="0" />
+        <linktitle name="网络连线" />
+    </cmd>
+    <cmd priority="3_1_2">
+        <title name="教学文档" />
+        <backpicture name="01.bmp" />
+        <picture name="3_1_2施工图设计-施工图设计知识-施工图的说明4-1.bmp" index="0" />
+        <picture name="3_1_2施工图设计-施工图设计知识-施工图的说明4-2.bmp" index="0" />
+        <picture name="3_1_2施工图设计-施工图设计知识-施工图的说明4-3.bmp" index="0" />
+        <picture name="3_1_2施工图设计-施工图设计知识-施工图的说明4-4.bmp" index="0" />
+        <linktitle name="网络连线" />
+    </cmd>
+    <cmd priority="3_1_3">
+        <title name="教学文档" />
+        <backpicture name="01.bmp" />
+        <picture name="3_1_3施工图设计-施工图设计知识-施工图设备表3-1.bmp" index="0" />
+        <picture name="3_1_3施工图设计-施工图设计知识-施工图设备表3-2.bmp" index="0" />
+        <picture name="3_1_3施工图设计-施工图设计知识-施工图设备表3-3.bmp" index="0" />
+        <linktitle name="网络连线" />
+    </cmd>
+    <cmd priority="3_2_1">
+        <title name="教学文档" />
+        <backpicture name="01.bmp" />
+        <picture name="3_2_1施工图设计-环境采集子系统-温湿度采集单元3-1.bmp" index="0" />
+        <picture name="3_2_1施工图设计-环境采集子系统-温湿度采集单元3-2.bmp" index="0" />
+        <picture name="3_2_1施工图设计-环境采集子系统-温湿度采集单元3-3.bmp" index="0" />
+        <linktitle name="网络连线" />
+    </cmd>
+    <cmd priority="3_2_2">
+        <title name="教学文档" />
+        <backpicture name="01.bmp" />
+        <picture name="3_2_2施工图设计-环境采集子系统-光照度采集单元3-1.bmp" index="0" />
+        <picture name="3_2_2施工图设计-环境采集子系统-光照度采集单元3-2.bmp" index="0" />
+        <picture name="3_2_2施工图设计-环境采集子系统-光照度采集单元3-3.bmp" index="0" />
+        <linktitle name="网络连线" />
+    </cmd>
+    <cmd priority="3_2_3">
+        <title name="教学文档" />
+        <backpicture name="01.bmp" />
+        <picture name="3_2_3施工图设计-环境采集子系统-甲醛采集单元3-1.bmp" index="0" />
+        <picture name="3_2_3施工图设计-环境采集子系统-甲醛采集单元3-2.bmp" index="0" />
+        <picture name="3_2_3施工图设计-环境采集子系统-甲醛采集单元3-3.bmp" index="0" />
+        <linktitle name="网络连线" />
+    </cmd>
+    <cmd priority="3_2_4">
+        <title name="教学文档" />
+        <backpicture name="01.bmp" />
+        <picture name="3_2_4施工图设计-环境采集子系统-CO2采集单元3-1.bmp" index="0" />
+        <picture name="3_2_4施工图设计-环境采集子系统-CO2采集单元3-2.bmp" index="0" />
+        <picture name="3_2_4施工图设计-环境采集子系统-CO2采集单元3-3.bmp" index="0" />
+        <linktitle name="网络连线" />
+    </cmd>
+    <cmd priority="3_2_5">
+        <title name="教学文档" />
+        <backpicture name="01.bmp" />
+        <picture name="3_2_5施工图设计-环境采集子系统-电源分配2-1.bmp" index="0" />
+        <picture name="3_2_5施工图设计-环境采集子系统-电源分配2-2.bmp" index="0" />
+        <linktitle name="网络连线" />
+    </cmd>
+    <cmd priority="3_3_1">
+        <title name="教学文档" />
+        <backpicture name="01.bmp" />
+        <picture name="3_3_1施工图设计-安防报警子系统-紧急报警单元2-1.bmp" index="0" />
+        <picture name="3_3_1施工图设计-安防报警子系统-紧急报警单元2-2.bmp" index="0" />
+        <linktitle name="网络连线" />
+    </cmd>
+    <cmd priority="3_3_2">
+        <title name="教学文档" />
+        <backpicture name="01.bmp" />
+        <picture name="3_3_2施工图设计-安防报警子系统-红外报警单元2-1.bmp" index="0" />
+        <picture name="3_3_2施工图设计-安防报警子系统-红外报警单元2-2.bmp" index="0" />
+        <linktitle name="网络连线" />
+    </cmd>
+    <cmd priority="3_3_3">
+        <title name="教学文档" />
+        <backpicture name="01.bmp" />
+        <picture name="3_3_3施工图设计-安防报警子系统-天然气警单元2-1.bmp" index="0" />
+        <picture name="3_3_3施工图设计-安防报警子系统-天然气警单元2-2.bmp" index="0" />
+        <linktitle name="网络连线" />
+    </cmd>
+    <cmd priority="3_3_4">
+        <title name="教学文档" />
+        <backpicture name="01.bmp" />
+        <picture name="3_3_4施工图设计-安防报警子系统-门禁管理单元3-1.bmp" index="0" />
+        <picture name="3_3_4施工图设计-安防报警子系统-门禁管理单元3-2.bmp" index="0" />
+        <picture name="3_3_4施工图设计-安防报警子系统-门禁管理单元3-3.bmp" index="0" />
+        <linktitle name="网络连线" />
+    </cmd>
+    <cmd priority="3_3_4">
+        <title name="教学文档" />
+        <backpicture name="01.bmp" />
+        <picture name="3_3_4施工图设计-安防报警子系统-门禁管理单元3-1.bmp" index="0" />
+        <picture name="3_3_4施工图设计-安防报警子系统-门禁管理单元3-2.bmp" index="0" />
+        <picture name="3_3_4施工图设计-安防报警子系统-门禁管理单元3-3.bmp" index="0" />
+        <linktitle name="网络连线" />
+    </cmd>
+    <cmd priority="3_3_5">
+        <title name="教学文档" />
+        <backpicture name="01.bmp" />
+        <picture name="3_3_5施工图设计-安防报警子系统-电源分配2-1.bmp" index="0" />
+        <picture name="3_3_5施工图设计-安防报警子系统-电源分配2-2.bmp" index="0" />
+        <linktitle name="网络连线" />
+    </cmd>
+    <cmd priority="3_3_5">
+        <title name="教学文档" />
+        <backpicture name="01.bmp" />
+        <picture name="3_3_5施工图设计-安防报警子系统-电源分配2-1.bmp" index="0" />
+        <picture name="3_3_5施工图设计-安防报警子系统-电源分配2-2.bmp" index="0" />
+        <linktitle name="网络连线" />
+    </cmd>
+    <cmd priority="3_4_1">
+        <title name="教学文档" />
+        <backpicture name="01.bmp" />
+        <picture name="3_4_1施工图设计-设备控制子系统-智能电源控制单元3-1.bmp" index="0" />
+        <picture name="3_4_1施工图设计-设备控制子系统-智能电源控制单元3-2.bmp" index="0" />
+        <picture name="3_4_1施工图设计-设备控制子系统-智能电源控制单元3-3.bmp" index="0" />
+        <linktitle name="网络连线" />
+    </cmd>
+    <cmd priority="3_4_2">
+        <title name="教学文档" />
+        <backpicture name="01.bmp" />
+        <picture name="3_4_2施工图设计-设备控制子系统-智能照明控制单元3-1.bmp" index="0" />
+        <picture name="3_4_2施工图设计-设备控制子系统-智能照明控制单元3-2.bmp" index="0" />
+        <picture name="3_4_2施工图设计-设备控制子系统-智能照明控制单元3-3.bmp" index="0" />
+        <linktitle name="网络连线" />
+    </cmd>
+    <cmd priority="3_4_3">
+        <title name="教学文档" />
+        <backpicture name="01.bmp" />
+        <picture name="3_4_3施工图设计-设备控制子系统-交流电机控制单元3-1.bmp" index="0" />
+        <picture name="3_4_3施工图设计-设备控制子系统-交流电机控制单元3-2.bmp" index="0" />
+        <picture name="3_4_3施工图设计-设备控制子系统-交流电机控制单元3-3.bmp" index="0" />
+        <linktitle name="网络连线" />
+    </cmd>
+    <cmd priority="3_4_4">
+        <title name="教学文档" />
+        <backpicture name="01.bmp" />
+        <picture name="3_4_4施工图设计-设备控制子系统-直流电机控制单元2-1.bmp" index="0" />
+        <picture name="3_4_4施工图设计-设备控制子系统-直流电机控制单元2-2.bmp" index="0" />
+        <linktitle name="网络连线" />
+    </cmd>
+    <cmd priority="4_1_1">
+        <title name="教学文档" />
+        <backpicture name="01.bmp" />
+        <picture name="4_1_1设备原理与检测-设备检测知识-设备检测知识12-1.bmp" index="0" />
+        <picture name="4_1_1设备原理与检测-设备检测知识-设备检测知识12-2.bmp" index="0" />
+        <picture name="4_1_1设备原理与检测-设备检测知识-设备检测知识12-3.bmp" index="0" />
+        <picture name="4_1_1设备原理与检测-设备检测知识-设备检测知识12-4.bmp" index="0" />
+        <picture name="4_1_1设备原理与检测-设备检测知识-设备检测知识12-5.bmp" index="0" />
+        <picture name="4_1_1设备原理与检测-设备检测知识-设备检测知识12-6.bmp" index="0" />
+        <picture name="4_1_1设备原理与检测-设备检测知识-设备检测知识12-7.bmp" index="0" />
+        <picture name="4_1_1设备原理与检测-设备检测知识-设备检测知识12-8.bmp" index="0" />
+        <picture name="4_1_1设备原理与检测-设备检测知识-设备检测知识12-9.bmp" index="0" />
+        <picture name="4_1_1设备原理与检测-设备检测知识-设备检测知识12-10.bmp" index="0" />
+        <picture name="4_1_1设备原理与检测-设备检测知识-设备检测知识12-11.bmp" index="0" />
+        <picture name="4_1_1设备原理与检测-设备检测知识-设备检测知识12-12.bmp" index="0" />
+        <linktitle name="网络连线" />
+    </cmd>
+    <cmd priority="4_1_2">
+        <title name="教学文档" />
+        <backpicture name="01.bmp" />
+        <picture name="4_1_2设备原理与检测-设备检测知识-万用表的使用11-1.bmp" index="0" />
+        <picture name="4_1_2设备原理与检测-设备检测知识-万用表的使用11-2.bmp" index="0" />
+        <picture name="4_1_2设备原理与检测-设备检测知识-万用表的使用11-3.bmp" index="0" />
+        <picture name="4_1_2设备原理与检测-设备检测知识-万用表的使用11-4.bmp" index="0" />
+        <picture name="4_1_2设备原理与检测-设备检测知识-万用表的使用11-5.bmp" index="0" />
+        <picture name="4_1_2设备原理与检测-设备检测知识-万用表的使用11-6.bmp" index="0" />
+        <picture name="4_1_2设备原理与检测-设备检测知识-万用表的使用11-7.bmp" index="0" />
+        <picture name="4_1_2设备原理与检测-设备检测知识-万用表的使用11-8.bmp" index="0" />
+        <picture name="4_1_2设备原理与检测-设备检测知识-万用表的使用11-9.bmp" index="0" />
+        <picture name="4_1_2设备原理与检测-设备检测知识-万用表的使用11-10.bmp" index="0" />
+        <picture name="4_1_2设备原理与检测-设备检测知识-万用表的使用11-11.bmp" index="0" />
+        <linktitle name="网络连线" />
+    </cmd>
+    <cmd priority="4_1_3">
+        <title name="教学文档" />
+        <backpicture name="01.bmp" />
+        <picture name="4_1_3设备原理与检测-设备检测知识-示波器的使用46-1.bmp" index="0" />
+        <picture name="4_1_3设备原理与检测-设备检测知识-示波器的使用46-2.bmp" index="0" />
+        <picture name="4_1_3设备原理与检测-设备检测知识-示波器的使用46-3.bmp" index="0" />
+        <picture name="4_1_3设备原理与检测-设备检测知识-示波器的使用46-4.bmp" index="0" />
+        <picture name="4_1_3设备原理与检测-设备检测知识-示波器的使用46-5.bmp" index="0" />
+        <picture name="4_1_3设备原理与检测-设备检测知识-示波器的使用46-6.bmp" index="0" />
+        <picture name="4_1_3设备原理与检测-设备检测知识-示波器的使用46-7.bmp" index="0" />
+        <picture name="4_1_3设备原理与检测-设备检测知识-示波器的使用46-8.bmp" index="0" />
+        <picture name="4_1_3设备原理与检测-设备检测知识-示波器的使用46-9.bmp" index="0" />
+        <picture name="4_1_3设备原理与检测-设备检测知识-示波器的使用46-10.bmp" index="0" />
+        <picture name="4_1_3设备原理与检测-设备检测知识-示波器的使用46-11.bmp" index="0" />
+        <picture name="4_1_3设备原理与检测-设备检测知识-示波器的使用46-12.bmp" index="0" />
+        <picture name="4_1_3设备原理与检测-设备检测知识-示波器的使用46-13.bmp" index="0" />
+        <picture name="4_1_3设备原理与检测-设备检测知识-示波器的使用46-14.bmp" index="0" />
+        <picture name="4_1_3设备原理与检测-设备检测知识-示波器的使用46-15.bmp" index="0" />
+        <picture name="4_1_3设备原理与检测-设备检测知识-示波器的使用46-16.bmp" index="0" />
+        <picture name="4_1_3设备原理与检测-设备检测知识-示波器的使用46-17.bmp" index="0" />
+        <picture name="4_1_3设备原理与检测-设备检测知识-示波器的使用46-18.bmp" index="0" />
+        <picture name="4_1_3设备原理与检测-设备检测知识-示波器的使用46-19.bmp" index="0" />
+        <picture name="4_1_3设备原理与检测-设备检测知识-示波器的使用46-20.bmp" index="0" />
+        <picture name="4_1_3设备原理与检测-设备检测知识-示波器的使用46-21.bmp" index="0" />
+        <picture name="4_1_3设备原理与检测-设备检测知识-示波器的使用46-22.bmp" index="0" />
+        <picture name="4_1_3设备原理与检测-设备检测知识-示波器的使用46-23.bmp" index="0" />
+        <picture name="4_1_3设备原理与检测-设备检测知识-示波器的使用46-24.bmp" index="0" />
+        <picture name="4_1_3设备原理与检测-设备检测知识-示波器的使用46-25.bmp" index="0" />
+        <picture name="4_1_3设备原理与检测-设备检测知识-示波器的使用46-26.bmp" index="0" />
+        <picture name="4_1_3设备原理与检测-设备检测知识-示波器的使用46-27.bmp" index="0" />
+        <picture name="4_1_3设备原理与检测-设备检测知识-示波器的使用46-28.bmp" index="0" />
+        <picture name="4_1_3设备原理与检测-设备检测知识-示波器的使用46-29.bmp" index="0" />
+        <picture name="4_1_3设备原理与检测-设备检测知识-示波器的使用46-30.bmp" index="0" />
+        <picture name="4_1_3设备原理与检测-设备检测知识-示波器的使用46-31.bmp" index="0" />
+        <picture name="4_1_3设备原理与检测-设备检测知识-示波器的使用46-32.bmp" index="0" />
+        <picture name="4_1_3设备原理与检测-设备检测知识-示波器的使用46-33.bmp" index="0" />
+        <picture name="4_1_3设备原理与检测-设备检测知识-示波器的使用46-34.bmp" index="0" />
+        <picture name="4_1_3设备原理与检测-设备检测知识-示波器的使用46-35.bmp" index="0" />
+        <picture name="4_1_3设备原理与检测-设备检测知识-示波器的使用46-36.bmp" index="0" />
+        <picture name="4_1_3设备原理与检测-设备检测知识-示波器的使用46-37.bmp" index="0" />
+        <picture name="4_1_3设备原理与检测-设备检测知识-示波器的使用46-38.bmp" index="0" />
+        <picture name="4_1_3设备原理与检测-设备检测知识-示波器的使用46-39.bmp" index="0" />
+        <picture name="4_1_3设备原理与检测-设备检测知识-示波器的使用46-40.bmp" index="0" />
+        <picture name="4_1_3设备原理与检测-设备检测知识-示波器的使用46-41.bmp" index="0" />
+        <picture name="4_1_3设备原理与检测-设备检测知识-示波器的使用46-42.bmp" index="0" />
+        <picture name="4_1_3设备原理与检测-设备检测知识-示波器的使用46-43.bmp" index="0" />
+        <picture name="4_1_3设备原理与检测-设备检测知识-示波器的使用46-44.bmp" index="0" />
+        <picture name="4_1_3设备原理与检测-设备检测知识-示波器的使用46-45.bmp" index="0" />
+        <picture name="4_1_3设备原理与检测-设备检测知识-示波器的使用46-46.bmp" index="0" />
+        <linktitle name="网络连线" />
+    </cmd>
+    <cmd priority="4_1_4">
+        <title name="教学文档" />
+        <backpicture name="01.bmp" />
+        <picture name="4_1_4设备原理与检测-设备检测知识-强电检测4-1.bmp" index="0" />
+        <picture name="4_1_4设备原理与检测-设备检测知识-强电检测4-2.bmp" index="0" />
+        <picture name="4_1_4设备原理与检测-设备检测知识-强电检测4-3.bmp" index="0" />
+        <picture name="4_1_4设备原理与检测-设备检测知识-强电检测4-4.bmp" index="0" />
+        <linktitle name="网络连线" />
+    </cmd>
+    <cmd priority="4_1_5">
+        <title name="教学文档" />
+        <backpicture name="01.bmp" />
+        <picture name="4_1_5设备原理与检测-设备检测知识-巡线仪的使用39-1.bmp" index="0" />
+        <picture name="4_1_5设备原理与检测-设备检测知识-巡线仪的使用39-2.bmp" index="0" />
+        <picture name="4_1_5设备原理与检测-设备检测知识-巡线仪的使用39-3.bmp" index="0" />
+        <picture name="4_1_5设备原理与检测-设备检测知识-巡线仪的使用39-4.bmp" index="0" />
+        <picture name="4_1_5设备原理与检测-设备检测知识-巡线仪的使用39-5.bmp" index="0" />
+        <picture name="4_1_5设备原理与检测-设备检测知识-巡线仪的使用39-6.bmp" index="0" />
+        <picture name="4_1_5设备原理与检测-设备检测知识-巡线仪的使用39-7.bmp" index="0" />
+        <picture name="4_1_5设备原理与检测-设备检测知识-巡线仪的使用39-8.bmp" index="0" />
+        <picture name="4_1_5设备原理与检测-设备检测知识-巡线仪的使用39-9.bmp" index="0" />
+        <picture name="4_1_5设备原理与检测-设备检测知识-巡线仪的使用39-10.bmp" index="0" />
+        <picture name="4_1_5设备原理与检测-设备检测知识-巡线仪的使用39-11.bmp" index="0" />
+        <picture name="4_1_5设备原理与检测-设备检测知识-巡线仪的使用39-12.bmp" index="0" />
+        <picture name="4_1_5设备原理与检测-设备检测知识-巡线仪的使用39-13.bmp" index="0" />
+        <picture name="4_1_5设备原理与检测-设备检测知识-巡线仪的使用39-14.bmp" index="0" />
+        <picture name="4_1_5设备原理与检测-设备检测知识-巡线仪的使用39-15.bmp" index="0" />
+        <picture name="4_1_5设备原理与检测-设备检测知识-巡线仪的使用39-16.bmp" index="0" />
+        <picture name="4_1_5设备原理与检测-设备检测知识-巡线仪的使用39-17.bmp" index="0" />
+        <picture name="4_1_5设备原理与检测-设备检测知识-巡线仪的使用39-18.bmp" index="0" />
+        <picture name="4_1_5设备原理与检测-设备检测知识-巡线仪的使用39-19.bmp" index="0" />
+        <picture name="4_1_5设备原理与检测-设备检测知识-巡线仪的使用39-20.bmp" index="0" />
+        <picture name="4_1_5设备原理与检测-设备检测知识-巡线仪的使用39-21.bmp" index="0" />
+        <picture name="4_1_5设备原理与检测-设备检测知识-巡线仪的使用39-22.bmp" index="0" />
+        <picture name="4_1_5设备原理与检测-设备检测知识-巡线仪的使用39-23.bmp" index="0" />
+        <picture name="4_1_5设备原理与检测-设备检测知识-巡线仪的使用39-24.bmp" index="0" />
+        <picture name="4_1_5设备原理与检测-设备检测知识-巡线仪的使用39-25.bmp" index="0" />
+        <picture name="4_1_5设备原理与检测-设备检测知识-巡线仪的使用39-26.bmp" index="0" />
+        <picture name="4_1_5设备原理与检测-设备检测知识-巡线仪的使用39-27.bmp" index="0" />
+        <picture name="4_1_5设备原理与检测-设备检测知识-巡线仪的使用39-28.bmp" index="0" />
+        <picture name="4_1_5设备原理与检测-设备检测知识-巡线仪的使用39-29.bmp" index="0" />
+        <picture name="4_1_5设备原理与检测-设备检测知识-巡线仪的使用39-30.bmp" index="0" />
+        <picture name="4_1_5设备原理与检测-设备检测知识-巡线仪的使用39-31.bmp" index="0" />
+        <picture name="4_1_5设备原理与检测-设备检测知识-巡线仪的使用39-32.bmp" index="0" />
+        <picture name="4_1_5设备原理与检测-设备检测知识-巡线仪的使用39-33.bmp" index="0" />
+        <picture name="4_1_5设备原理与检测-设备检测知识-巡线仪的使用39-34.bmp" index="0" />
+        <picture name="4_1_5设备原理与检测-设备检测知识-巡线仪的使用39-35.bmp" index="0" />
+        <picture name="4_1_5设备原理与检测-设备检测知识-巡线仪的使用39-36.bmp" index="0" />
+        <picture name="4_1_5设备原理与检测-设备检测知识-巡线仪的使用39-37.bmp" index="0" />
+        <picture name="4_1_5设备原理与检测-设备检测知识-巡线仪的使用39-38.bmp" index="0" />
+        <picture name="4_1_5设备原理与检测-设备检测知识-巡线仪的使用39-39.bmp" index="0" />
+        <linktitle name="网络连线" />
+    </cmd>
+    <cmd priority="4_2_1">
+        <title name="教学文档" />
+        <backpicture name="01.bmp" />
+        <picture name="4_2_1设备原理与检测-环境采集子系统-温湿度传感器检测7-1.bmp" index="0" />
+        <picture name="4_2_1设备原理与检测-环境采集子系统-温湿度传感器检测7-2.bmp" index="0" />
+        <picture name="4_2_1设备原理与检测-环境采集子系统-温湿度传感器检测7-3.bmp" index="0" />
+        <picture name="4_2_1设备原理与检测-环境采集子系统-温湿度传感器检测7-4.bmp" index="0" />
+        <picture name="4_2_1设备原理与检测-环境采集子系统-温湿度传感器检测7-5.bmp" index="0" />
+        <picture name="4_2_1设备原理与检测-环境采集子系统-温湿度传感器检测7-6.bmp" index="0" />
+        <picture name="4_2_1设备原理与检测-环境采集子系统-温湿度传感器检测7-7.bmp" index="0" />
+        <linktitle name="网络连线" />
+    </cmd>
+    <cmd priority="4_2_2">
+        <title name="教学文档" />
+        <backpicture name="01.bmp" />
+        <picture name="4_2_2设备原理与检测-环境采集子系统-光照度传感器检测4-1.bmp" index="0" />
+        <picture name="4_2_2设备原理与检测-环境采集子系统-光照度传感器检测4-2.bmp" index="0" />
+        <picture name="4_2_2设备原理与检测-环境采集子系统-光照度传感器检测4-3.bmp" index="0" />
+        <picture name="4_2_2设备原理与检测-环境采集子系统-光照度传感器检测4-4.bmp" index="0" />
+        <linktitle name="网络连线" />
+    </cmd>
+    <cmd priority="4_2_3">
+        <title name="教学文档" />
+        <backpicture name="01.bmp" />
+        <picture name="4_2_3设备原理与检测-环境采集子系统-甲醛传感器检测3-1.bmp" index="0" />
+        <picture name="4_2_3设备原理与检测-环境采集子系统-甲醛传感器检测3-2.bmp" index="0" />
+        <picture name="4_2_3设备原理与检测-环境采集子系统-甲醛传感器检测3-3.bmp" index="0" />
+        <linktitle name="网络连线" />
+    </cmd>
+    <cmd priority="4_2_4">
+        <title name="教学文档" />
+        <backpicture name="01.bmp" />
+        <picture name="4_2_4设备原理与检测-环境采集子系统-CO2传感器检测3-1.bmp" index="0" />
+        <picture name="4_2_4设备原理与检测-环境采集子系统-CO2传感器检测3-2.bmp" index="0" />
+        <picture name="4_2_4设备原理与检测-环境采集子系统-CO2传感器检测3-3.bmp" index="0" />
+        <linktitle name="网络连线" />
+    </cmd>
+    <cmd priority="4_2_5">
+        <title name="教学文档" />
+        <backpicture name="01.bmp" />
+        <picture name="4_2_5设备原理与检测-环境采集子系统-模拟量采集器检测6-1.bmp" index="0" />
+        <picture name="4_2_5设备原理与检测-环境采集子系统-模拟量采集器检测6-2.bmp" index="0" />
+        <picture name="4_2_5设备原理与检测-环境采集子系统-模拟量采集器检测6-3.bmp" index="0" />
+        <picture name="4_2_5设备原理与检测-环境采集子系统-模拟量采集器检测6-4.bmp" index="0" />
+        <picture name="4_2_5设备原理与检测-环境采集子系统-模拟量采集器检测6-5.bmp" index="0" />
+        <picture name="4_2_5设备原理与检测-环境采集子系统-模拟量采集器检测6-6.bmp" index="0" />
+        <linktitle name="网络连线" />
+    </cmd>
+    <cmd priority="4_3_1">
+        <title name="教学文档" />
+        <backpicture name="01.bmp" />
+        <picture name="4_3_1设备原理与检测-安防报警子系统-紧急报警开关检测3-1.bmp" index="0" />
+        <picture name="4_3_1设备原理与检测-安防报警子系统-紧急报警开关检测3-2.bmp" index="0" />
+        <picture name="4_3_1设备原理与检测-安防报警子系统-紧急报警开关检测3-3.bmp" index="0" />
+        <linktitle name="网络连线" />
+    </cmd>
+    <cmd priority="4_3_2">
+        <title name="教学文档" />
+        <backpicture name="01.bmp" />
+        <picture name="4_3_2设备原理与检测-安防报警子系统-红外报警探头检测3-1.bmp" index="0" />
+        <picture name="4_3_2设备原理与检测-安防报警子系统-红外报警探头检测3-2.bmp" index="0" />
+        <picture name="4_3_2设备原理与检测-安防报警子系统-红外报警探头检测3-3.bmp" index="0" />
+        <linktitle name="网络连线" />
+    </cmd>
+    <cmd priority="4_3_3">
+        <title name="教学文档" />
+        <backpicture name="01.bmp" />
+        <picture name="4_3_3设备原理与检测-安防报警子系统-天然气报警探头检测3-1.bmp" index="0" />
+        <picture name="4_3_3设备原理与检测-安防报警子系统-天然气报警探头检测3-2.bmp" index="0" />
+        <picture name="4_3_3设备原理与检测-安防报警子系统-天然气报警探头检测3-3.bmp" index="0" />
+        <linktitle name="网络连线" />
+    </cmd>
+    <cmd priority="4_3_4">
+        <title name="教学文档" />
+        <backpicture name="01.bmp" />
+        <picture name="4_3_4设备原理与检测-安防报警子系统-开关量采集器检测4-1.bmp" index="0" />
+        <picture name="4_3_4设备原理与检测-安防报警子系统-开关量采集器检测4-2.bmp" index="0" />
+        <picture name="4_3_4设备原理与检测-安防报警子系统-开关量采集器检测4-3.bmp" index="0" />
+        <picture name="4_3_4设备原理与检测-安防报警子系统-开关量采集器检测4-4.bmp" index="0" />
+        <linktitle name="网络连线" />
+    </cmd>
+    <cmd priority="4_3_5">
+        <title name="教学文档" />
+        <backpicture name="01.bmp" />
+        <picture name="4_3_5设备原理与检测-安防报警子系统-门禁设备检测7-1.bmp" index="0" />
+        <picture name="4_3_5设备原理与检测-安防报警子系统-门禁设备检测7-2.bmp" index="0" />
+        <picture name="4_3_5设备原理与检测-安防报警子系统-门禁设备检测7-3.bmp" index="0" />
+        <picture name="4_3_5设备原理与检测-安防报警子系统-门禁设备检测7-4.bmp" index="0" />
+        <picture name="4_3_5设备原理与检测-安防报警子系统-门禁设备检测7-5.bmp" index="0" />
+        <picture name="4_3_5设备原理与检测-安防报警子系统-门禁设备检测7-6.bmp" index="0" />
+        <picture name="4_3_5设备原理与检测-安防报警子系统-门禁设备检测7-7.bmp" index="0" />
+        <linktitle name="网络连线" />
+    </cmd>
+    <cmd priority="4_4_1">
+        <title name="教学文档" />
+        <backpicture name="01.bmp" />
+        <picture name="4_4_1设备原理与检测-设备控制子系统-电源控制模块检测3-1.bmp" index="0" />
+        <picture name="4_4_1设备原理与检测-设备控制子系统-电源控制模块检测3-2.bmp" index="0" />
+        <picture name="4_4_1设备原理与检测-设备控制子系统-电源控制模块检测3-3.bmp" index="0" />
+        <linktitle name="网络连线" />
+    </cmd>
+    <cmd priority="4_4_2">
+        <title name="教学文档" />
+        <backpicture name="01.bmp" />
+        <picture name="4_4_2设备原理与检测-设备控制子系统-智能电源控制器检测5-1.bmp" index="0" />
+        <picture name="4_4_2设备原理与检测-设备控制子系统-智能电源控制器检测5-2.bmp" index="0" />
+        <picture name="4_4_2设备原理与检测-设备控制子系统-智能电源控制器检测5-3.bmp" index="0" />
+        <picture name="4_4_2设备原理与检测-设备控制子系统-智能电源控制器检测5-4.bmp" index="0" />
+        <picture name="4_4_2设备原理与检测-设备控制子系统-智能电源控制器检测5-5.bmp" index="0" />
+        <linktitle name="网络连线" />
+    </cmd>
+    <cmd priority="4_4_3">
+        <title name="教学文档" />
+        <backpicture name="01.bmp" />
+        <picture name="4_4_3设备原理与检测-设备控制子系统-照明控制模块检测4-1.bmp" index="0" />
+        <picture name="4_4_3设备原理与检测-设备控制子系统-照明控制模块检测4-2.bmp" index="0" />
+        <picture name="4_4_3设备原理与检测-设备控制子系统-照明控制模块检测4-3.bmp" index="0" />
+        <picture name="4_4_3设备原理与检测-设备控制子系统-照明控制模块检测4-4.bmp" index="0" />
+        <linktitle name="网络连线" />
+    </cmd>
+    <cmd priority="4_4_4">
+        <title name="教学文档" />
+        <backpicture name="01.bmp" />
+        <picture name="4_4_4设备原理与检测-设备控制子系统-智能照明控制器检测4-1.bmp" index="0" />
+        <picture name="4_4_4设备原理与检测-设备控制子系统-智能照明控制器检测4-2.bmp" index="0" />
+        <picture name="4_4_4设备原理与检测-设备控制子系统-智能照明控制器检测4-3.bmp" index="0" />
+        <picture name="4_4_4设备原理与检测-设备控制子系统-智能照明控制器检测4-4.bmp" index="0" />
+        <linktitle name="网络连线" />
+    </cmd>
+    <cmd priority="4_4_5">
+        <title name="教学文档" />
+        <backpicture name="01.bmp" />
+        <picture name="4_4_5设备原理与检测-设备控制子系统-交流电机控制器检测5-1.bmp" index="0" />
+        <picture name="4_4_5设备原理与检测-设备控制子系统-交流电机控制器检测5-2.bmp" index="0" />
+        <picture name="4_4_5设备原理与检测-设备控制子系统-交流电机控制器检测5-3.bmp" index="0" />
+        <picture name="4_4_5设备原理与检测-设备控制子系统-交流电机控制器检测5-4.bmp" index="0" />
+        <picture name="4_4_5设备原理与检测-设备控制子系统-交流电机控制器检测5-5.bmp" index="0" />
+        <linktitle name="网络连线" />
+    </cmd>
+    <cmd priority="4_4_6">
+        <title name="教学文档" />
+        <backpicture name="01.bmp" />
+        <picture name="4_4_6设备原理与检测-设备控制子系统-直流电机控制器检测6-1.bmp" index="0" />
+        <picture name="4_4_6设备原理与检测-设备控制子系统-直流电机控制器检测6-2.bmp" index="0" />
+        <picture name="4_4_6设备原理与检测-设备控制子系统-直流电机控制器检测6-3.bmp" index="0" />
+        <picture name="4_4_6设备原理与检测-设备控制子系统-直流电机控制器检测6-4.bmp" index="0" />
+        <picture name="4_4_6设备原理与检测-设备控制子系统-直流电机控制器检测6-5.bmp" index="0" />
+        <picture name="4_4_6设备原理与检测-设备控制子系统-直流电机控制器检测6-6.bmp" index="0" />
+        <linktitle name="网络连线" />
+    </cmd>
+    <cmd priority="4_5_1">
+        <title name="教学文档" />
+        <backpicture name="01.bmp" />
+        <picture name="4_5_1设备原理与检测-电源系统-开关电源检测4-1.bmp" index="0" />
+        <picture name="4_5_1设备原理与检测-电源系统-开关电源检测4-2.bmp" index="0" />
+        <picture name="4_5_1设备原理与检测-电源系统-开关电源检测4-3.bmp" index="0" />
+        <picture name="4_5_1设备原理与检测-电源系统-开关电源检测4-4.bmp" index="0" />
+        <linktitle name="网络连线" />
+    </cmd>
+    <cmd priority="4_5_2">
+        <title name="教学文档" />
+        <backpicture name="01.bmp" />
+        <picture name="4_5_2设备原理与检测-电源系统-强电电源检测3-1.bmp" index="0" />
+        <picture name="4_5_2设备原理与检测-电源系统-强电电源检测3-2.bmp" index="0" />
+        <picture name="4_5_2设备原理与检测-电源系统-强电电源检测3-3.bmp" index="0" />
+        <linktitle name="网络连线" />
+    </cmd>
+    <cmd priority="5_1_1">
+        <title name="教学文档" />
+        <backpicture name="01.bmp" />
+        <picture name="5_1_1施工与检测-施工基础知识-施工基础知识7-1.bmp" index="0" />
+        <picture name="5_1_1施工与检测-施工基础知识-施工基础知识7-2.bmp" index="0" />
+        <picture name="5_1_1施工与检测-施工基础知识-施工基础知识7-3.bmp" index="0" />
+        <picture name="5_1_1施工与检测-施工基础知识-施工基础知识7-4.bmp" index="0" />
+        <picture name="5_1_1施工与检测-施工基础知识-施工基础知识7-5.bmp" index="0" />
+        <picture name="5_1_1施工与检测-施工基础知识-施工基础知识7-6.bmp" index="0" />
+        <picture name="5_1_1施工与检测-施工基础知识-施工基础知识7-7.bmp" index="0" />
+        <linktitle name="网络连线" />
+    </cmd>
+    <cmd priority="5_1_2">
+        <title name="教学文档" />
+        <backpicture name="01.bmp" />
+        <picture name="5_1_2施工与检测-施工基础知识-施工图4-1.bmp" index="0" />
+        <picture name="5_1_2施工与检测-施工基础知识-施工图4-2.bmp" index="0" />
+        <picture name="5_1_2施工与检测-施工基础知识-施工图4-3.bmp" index="0" />
+        <picture name="5_1_2施工与检测-施工基础知识-施工图4-4.bmp" index="0" />
+        <linktitle name="网络连线" />
+    </cmd>
+    <cmd priority="5_1_3">
+        <title name="教学文档" />
+        <backpicture name="01.bmp" />
+        <picture name="5_1_3施工与检测-施工基础知识-施工工具7-1.bmp" index="0" />
+        <picture name="5_1_3施工与检测-施工基础知识-施工工具7-2.bmp" index="0" />
+        <picture name="5_1_3施工与检测-施工基础知识-施工工具7-3.bmp" index="0" />
+        <picture name="5_1_3施工与检测-施工基础知识-施工工具7-4.bmp" index="0" />
+        <picture name="5_1_3施工与检测-施工基础知识-施工工具7-5.bmp" index="0" />
+        <picture name="5_1_3施工与检测-施工基础知识-施工工具7-6.bmp" index="0" />
+        <picture name="5_1_3施工与检测-施工基础知识-施工工具7-7.bmp" index="0" />
+        <linktitle name="网络连线" />
+    </cmd>
+    <cmd priority="5_1_4">
+        <title name="教学文档" />
+        <backpicture name="01.bmp" />
+        <picture name="5_1_4施工与检测-施工基础知识-导线2-1.bmp" index="0" />
+        <picture name="5_1_4施工与检测-施工基础知识-导线2-2.bmp" index="0" />
+        <linktitle name="网络连线" />
+    </cmd>
+    <cmd priority="5_1_5">
+        <title name="教学文档" />
+        <backpicture name="01.bmp" />
+        <picture name="5_1_5施工与检测-施工检测知识-导线准备方法2-1.bmp" index="0" />
+        <picture name="5_1_5施工与检测-施工检测知识-导线准备方法2-2.bmp" index="0" />
+        <linktitle name="网络连线" />
+    </cmd>
+    <cmd priority="5_1_6">
+        <title name="教学文档" />
+        <backpicture name="01.bmp" />
+        <picture name="5_1_6施工与检测-施工检测知识-其它工具与器材6-1.bmp" index="0" />
+        <picture name="5_1_6施工与检测-施工检测知识-其它工具与器材6-2.bmp" index="0" />
+        <picture name="5_1_6施工与检测-施工检测知识-其它工具与器材6-3.bmp" index="0" />
+        <picture name="5_1_6施工与检测-施工检测知识-其它工具与器材6-4.bmp" index="0" />
+        <picture name="5_1_6施工与检测-施工检测知识-其它工具与器材6-5.bmp" index="0" />
+        <picture name="5_1_6施工与检测-施工检测知识-其它工具与器材6-6.bmp" index="0" />
+        <linktitle name="网络连线" />
+    </cmd>
+    <cmd priority="5_2_1">
+        <title name="教学文档" />
+        <backpicture name="01.bmp" />
+        <picture name="5_2_1施工与检测-环境采集子系统-温湿度单元施工10-1.bmp" index="0" />
+        <picture name="5_2_1施工与检测-环境采集子系统-温湿度单元施工10-2.bmp" index="0" />
+        <picture name="5_2_1施工与检测-环境采集子系统-温湿度单元施工10-3.bmp" index="0" />
+        <picture name="5_2_1施工与检测-环境采集子系统-温湿度单元施工10-4.bmp" index="0" />
+        <picture name="5_2_1施工与检测-环境采集子系统-温湿度单元施工10-5.bmp" index="0" />
+        <picture name="5_2_1施工与检测-环境采集子系统-温湿度单元施工10-6.bmp" index="0" />
+        <picture name="5_2_1施工与检测-环境采集子系统-温湿度单元施工10-7.bmp" index="0" />
+        <picture name="5_2_1施工与检测-环境采集子系统-温湿度单元施工10-8.bmp" index="0" />
+        <picture name="5_2_1施工与检测-环境采集子系统-温湿度单元施工10-9.bmp" index="0" />
+        <picture name="5_2_1施工与检测-环境采集子系统-温湿度单元施工10-10.bmp" index="0" />
+        <linktitle name="网络连线" />
+    </cmd>
+    <cmd priority="5_2_2">
+        <title name="教学文档" />
+        <backpicture name="01.bmp" />
+        <picture name="5_2_2施工与检测-环境采集子系统-温湿度单元检测4-1.bmp" index="0" />
+        <picture name="5_2_2施工与检测-环境采集子系统-温湿度单元检测4-2.bmp" index="0" />
+        <picture name="5_2_2施工与检测-环境采集子系统-温湿度单元检测4-3.bmp" index="0" />
+        <picture name="5_2_2施工与检测-环境采集子系统-温湿度单元检测4-4.bmp" index="0" />
+        <linktitle name="网络连线" />
+    </cmd>
+    <cmd priority="5_2_3">
+        <title name="教学文档" />
+        <backpicture name="01.bmp" />
+        <picture name="5_2_3施工与检测-环境采集子系统-光照度单元施工7-1.bmp" index="0" />
+        <picture name="5_2_3施工与检测-环境采集子系统-光照度单元施工7-2.bmp" index="0" />
+        <picture name="5_2_3施工与检测-环境采集子系统-光照度单元施工7-3.bmp" index="0" />
+        <picture name="5_2_3施工与检测-环境采集子系统-光照度单元施工7-4.bmp" index="0" />
+        <picture name="5_2_3施工与检测-环境采集子系统-光照度单元施工7-5.bmp" index="0" />
+        <picture name="5_2_3施工与检测-环境采集子系统-光照度单元施工7-6.bmp" index="0" />
+        <picture name="5_2_3施工与检测-环境采集子系统-光照度单元施工7-7.bmp" index="0" />
+        <linktitle name="网络连线" />
+    </cmd>
+    <cmd priority="5_2_4">
+        <title name="教学文档" />
+        <backpicture name="01.bmp" />
+        <picture name="5_2_4施工与检测-环境采集子系统-光照度单元检测4-1.bmp" index="0" />
+        <picture name="5_2_4施工与检测-环境采集子系统-光照度单元检测4-2.bmp" index="0" />
+        <picture name="5_2_4施工与检测-环境采集子系统-光照度单元检测4-3.bmp" index="0" />
+        <picture name="5_2_4施工与检测-环境采集子系统-光照度单元检测4-4.bmp" index="0" />
+        <linktitle name="网络连线" />
+    </cmd>
+    <cmd priority="5_2_5">
+        <title name="教学文档" />
+        <backpicture name="01.bmp" />
+        <picture name="5_2_5施工与检测-环境采集子系统-甲醛采集单元3-1.bmp" index="0" />
+        <picture name="5_2_5施工与检测-环境采集子系统-甲醛采集单元3-2.bmp" index="0" />
+        <picture name="5_2_5施工与检测-环境采集子系统-甲醛采集单元3-3.bmp" index="0" />
+        <linktitle name="网络连线" />
+    </cmd>
+    <cmd priority="5_2_6">
+        <title name="教学文档" />
+        <backpicture name="01.bmp" />
+        <picture name="5_2_6施工与检测-环境采集子系统-CO2采集单元3-1.bmp" index="0" />
+        <picture name="5_2_6施工与检测-环境采集子系统-CO2采集单元3-2.bmp" index="0" />
+        <picture name="5_2_6施工与检测-环境采集子系统-CO2采集单元3-3.bmp" index="0" />
+        <linktitle name="网络连线" />
+    </cmd>
+    <cmd priority="5_3_1">
+        <title name="教学文档" />
+        <backpicture name="01.bmp" />
+        <picture name="5_3_1施工与检测-安防报警子系统-紧急报警单元施工7-1.bmp" index="0" />
+        <picture name="5_3_1施工与检测-安防报警子系统-紧急报警单元施工7-2.bmp" index="0" />
+        <picture name="5_3_1施工与检测-安防报警子系统-紧急报警单元施工7-3.bmp" index="0" />
+        <picture name="5_3_1施工与检测-安防报警子系统-紧急报警单元施工7-4.bmp" index="0" />
+        <picture name="5_3_1施工与检测-安防报警子系统-紧急报警单元施工7-5.bmp" index="0" />
+        <picture name="5_3_1施工与检测-安防报警子系统-紧急报警单元施工7-6.bmp" index="0" />
+        <picture name="5_3_1施工与检测-安防报警子系统-紧急报警单元施工7-7.bmp" index="0" />
+        <linktitle name="网络连线" />
+    </cmd>
+    <cmd priority="5_3_2">
+        <title name="教学文档" />
+        <backpicture name="01.bmp" />
+        <picture name="5_3_2施工与检测-安防报警子系统-紧急报警单元检测3-1.bmp" index="0" />
+        <picture name="5_3_2施工与检测-安防报警子系统-紧急报警单元检测3-2.bmp" index="0" />
+        <picture name="5_3_2施工与检测-安防报警子系统-紧急报警单元检测3-3.bmp" index="0" />
+        <linktitle name="网络连线" />
+    </cmd>
+    <cmd priority="5_3_3">
+        <title name="教学文档" />
+        <backpicture name="01.bmp" />
+        <picture name="5_3_3施工与检测-安防报警子系统-红外报警单元施工7-1.bmp" index="0" />
+        <picture name="5_3_3施工与检测-安防报警子系统-红外报警单元施工7-2.bmp" index="0" />
+        <picture name="5_3_3施工与检测-安防报警子系统-红外报警单元施工7-3.bmp" index="0" />
+        <picture name="5_3_3施工与检测-安防报警子系统-红外报警单元施工7-4.bmp" index="0" />
+        <picture name="5_3_3施工与检测-安防报警子系统-红外报警单元施工7-5.bmp" index="0" />
+        <picture name="5_3_3施工与检测-安防报警子系统-红外报警单元施工7-6.bmp" index="0" />
+        <picture name="5_3_3施工与检测-安防报警子系统-红外报警单元施工7-7.bmp" index="0" />
+        <linktitle name="网络连线" />
+    </cmd>
+    <cmd priority="5_3_4">
+        <title name="教学文档" />
+        <backpicture name="01.bmp" />
+        <picture name="5_3_4施工与检测-安防报警子系统-红外报警单元检测2-1.bmp" index="0" />
+        <picture name="5_3_4施工与检测-安防报警子系统-红外报警单元检测2-2.bmp" index="0" />
+        <linktitle name="网络连线" />
+    </cmd>
+    <cmd priority="5_3_5">
+        <title name="教学文档" />
+        <backpicture name="01.bmp" />
+        <picture name="5_3_5施工与检测-安防报警子系统-天然气报警单元8-1.bmp" index="0" />
+        <picture name="5_3_5施工与检测-安防报警子系统-天然气报警单元8-2.bmp" index="0" />
+        <picture name="5_3_5施工与检测-安防报警子系统-天然气报警单元8-3.bmp" index="0" />
+        <picture name="5_3_5施工与检测-安防报警子系统-天然气报警单元8-4.bmp" index="0" />
+        <picture name="5_3_5施工与检测-安防报警子系统-天然气报警单元8-5.bmp" index="0" />
+        <picture name="5_3_5施工与检测-安防报警子系统-天然气报警单元8-6.bmp" index="0" />
+        <picture name="5_3_5施工与检测-安防报警子系统-天然气报警单元8-7.bmp" index="0" />
+        <picture name="5_3_5施工与检测-安防报警子系统-天然气报警单元8-8.bmp" index="0" />
+        <linktitle name="网络连线" />
+    </cmd>
+    <cmd priority="5_3_6">
+        <title name="教学文档" />
+        <backpicture name="01.bmp" />
+        <picture name="5_3_6施工与检测-安防报警子系统-门禁管理单元6-1.bmp" index="0" />
+        <picture name="5_3_6施工与检测-安防报警子系统-门禁管理单元6-2.bmp" index="0" />
+        <picture name="5_3_6施工与检测-安防报警子系统-门禁管理单元6-3.bmp" index="0" />
+        <picture name="5_3_6施工与检测-安防报警子系统-门禁管理单元6-4.bmp" index="0" />
+        <picture name="5_3_6施工与检测-安防报警子系统-门禁管理单元6-5.bmp" index="0" />
+        <picture name="5_3_6施工与检测-安防报警子系统-门禁管理单元6-6.bmp" index="0" />
+        <linktitle name="网络连线" />
+    </cmd>
+    <cmd priority="5_4_1">
+        <title name="教学文档" />
+        <backpicture name="01.bmp" />
+        <picture name="5_4_1施工与检测-设备控制子系统-电源控制单元施工11-1.bmp" index="0" />
+        <picture name="5_4_1施工与检测-设备控制子系统-电源控制单元施工11-2.bmp" index="0" />
+        <picture name="5_4_1施工与检测-设备控制子系统-电源控制单元施工11-3.bmp" index="0" />
+        <picture name="5_4_1施工与检测-设备控制子系统-电源控制单元施工11-4.bmp" index="0" />
+        <picture name="5_4_1施工与检测-设备控制子系统-电源控制单元施工11-5.bmp" index="0" />
+        <picture name="5_4_1施工与检测-设备控制子系统-电源控制单元施工11-6.bmp" index="0" />
+        <picture name="5_4_1施工与检测-设备控制子系统-电源控制单元施工11-7.bmp" index="0" />
+        <picture name="5_4_1施工与检测-设备控制子系统-电源控制单元施工11-8.bmp" index="0" />
+        <picture name="5_4_1施工与检测-设备控制子系统-电源控制单元施工11-9.bmp" index="0" />
+        <picture name="5_4_1施工与检测-设备控制子系统-电源控制单元施工11-10.bmp" index="0" />
+        <picture name="5_4_1施工与检测-设备控制子系统-电源控制单元施工11-11.bmp" index="0" />
+        <linktitle name="网络连线" />
+    </cmd>
+    <cmd priority="5_4_2">
+        <title name="教学文档" />
+        <backpicture name="01.bmp" />
+        <picture name="5_4_2施工与检测-设备控制子系统-照明控制单元施工8-1.bmp" index="0" />
+        <picture name="5_4_2施工与检测-设备控制子系统-照明控制单元施工8-2.bmp" index="0" />
+        <picture name="5_4_2施工与检测-设备控制子系统-照明控制单元施工8-3.bmp" index="0" />
+        <picture name="5_4_2施工与检测-设备控制子系统-照明控制单元施工8-4.bmp" index="0" />
+        <picture name="5_4_2施工与检测-设备控制子系统-照明控制单元施工8-5.bmp" index="0" />
+        <picture name="5_4_2施工与检测-设备控制子系统-照明控制单元施工8-6.bmp" index="0" />
+        <picture name="5_4_2施工与检测-设备控制子系统-照明控制单元施工8-7.bmp" index="0" />
+        <picture name="5_4_2施工与检测-设备控制子系统-照明控制单元施工8-8.bmp" index="0" />
+        <linktitle name="网络连线" />
+    </cmd>
+    <cmd priority="5_4_3">
+        <title name="教学文档" />
+        <backpicture name="01.bmp" />
+        <picture name="5_4_3施工与检测-设备控制子系统-交流电机单元施工8-1.bmp" index="0" />
+        <picture name="5_4_3施工与检测-设备控制子系统-交流电机单元施工8-2.bmp" index="0" />
+        <picture name="5_4_3施工与检测-设备控制子系统-交流电机单元施工8-3.bmp" index="0" />
+        <picture name="5_4_3施工与检测-设备控制子系统-交流电机单元施工8-4.bmp" index="0" />
+        <picture name="5_4_3施工与检测-设备控制子系统-交流电机单元施工8-5.bmp" index="0" />
+        <picture name="5_4_3施工与检测-设备控制子系统-交流电机单元施工8-6.bmp" index="0" />
+        <picture name="5_4_3施工与检测-设备控制子系统-交流电机单元施工8-7.bmp" index="0" />
+        <picture name="5_4_3施工与检测-设备控制子系统-交流电机单元施工8-8.bmp" index="0" />
+        <linktitle name="网络连线" />
+    </cmd>
+    <cmd priority="5_4_4">
+        <title name="教学文档" />
+        <backpicture name="01.bmp" />
+        <picture name="5_4_4施工与检测-设备控制子系统-直流电机单元施工6-1.bmp" index="0" />
+        <picture name="5_4_4施工与检测-设备控制子系统-直流电机单元施工6-2.bmp" index="0" />
+        <picture name="5_4_4施工与检测-设备控制子系统-直流电机单元施工6-3.bmp" index="0" />
+        <picture name="5_4_4施工与检测-设备控制子系统-直流电机单元施工6-4.bmp" index="0" />
+        <picture name="5_4_4施工与检测-设备控制子系统-直流电机单元施工6-5.bmp" index="0" />
+        <picture name="5_4_4施工与检测-设备控制子系统-直流电机单元施工6-6.bmp" index="0" />
+        <linktitle name="网络连线" />
+    </cmd>
+    <cmd priority="5_5_1">
+        <title name="教学文档" />
+        <backpicture name="01.bmp" />
+        <picture name="5_5_1施工与检测-电源系统-弱电电源设备7-1.bmp" index="0" />
+        <picture name="5_5_1施工与检测-电源系统-弱电电源设备7-2.bmp" index="0" />
+        <picture name="5_5_1施工与检测-电源系统-弱电电源设备7-3.bmp" index="0" />
+        <picture name="5_5_1施工与检测-电源系统-弱电电源设备7-4.bmp" index="0" />
+        <picture name="5_5_1施工与检测-电源系统-弱电电源设备7-5.bmp" index="0" />
+        <picture name="5_5_1施工与检测-电源系统-弱电电源设备7-6.bmp" index="0" />
+        <picture name="5_5_1施工与检测-电源系统-弱电电源设备7-7.bmp" index="0" />
+        <linktitle name="网络连线" />
+    </cmd>
+    <cmd priority="5_5_2">
+        <title name="教学文档" />
+        <backpicture name="01.bmp" />
+        <picture name="5_5_2施工与检测-电源系统-环境子系统电源配线1-1.bmp" index="0" />
+        <linktitle name="网络连线" />
+    </cmd>
+    <cmd priority="5_5_3">
+        <title name="教学文档" />
+        <backpicture name="01.bmp" />
+        <picture name="5_5_3施工与检测-电源系统-安防子系统电源配线1-1.bmp" index="0" />
+        <linktitle name="网络连线" />
+    </cmd>
+    <cmd priority="5_5_4">
+        <title name="教学文档" />
+        <backpicture name="01.bmp" />
+        <picture name="5_5_4施工与检测-电源系统-控制子系统电源配线1-1.bmp" index="0" />
+        <linktitle name="网络连线" />
+    </cmd>
+    <cmd priority="5_6_1">
+        <title name="教学文档" />
+        <backpicture name="01.bmp" />
+        <picture name="5_6_1施工与检测-RS485通信子系统-设备控制子系统1-1.bmp" index="0" />
+        <linktitle name="网络连线" />
+    </cmd>
+    <cmd priority="5_6_2">
+        <title name="教学文档" />
+        <backpicture name="01.bmp" />
+        <picture name="5_6_2施工与检测-RS485通信子系统-安防报警子系统2-1.bmp" index="0" />
+        <picture name="5_6_2施工与检测-RS485通信子系统-安防报警子系统2-2.bmp" index="0" />
+        <linktitle name="网络连线" />
+    </cmd>
+    <cmd priority="5_6_3">
+        <title name="教学文档" />
+        <backpicture name="01.bmp" />
+        <picture name="5_6_3施工与检测-RS485通信子系统-环境采集子系统1-1.bmp" index="0" />
+        <linktitle name="网络连线" />
+    </cmd>
+    <cmd priority="6_1_1">
+        <title name="教学文档" />
+        <backpicture name="01.bmp" />
+        <picture name="6_1_1通信与网络-短距离通信技术-传感网基本知识3-1.bmp" index="0" />
+        <picture name="6_1_1通信与网络-短距离通信技术-传感网基本知识3-2.bmp" index="0" />
+        <picture name="6_1_1通信与网络-短距离通信技术-传感网基本知识3-3.bmp" index="0" />
+        <linktitle name="网络连线" />
+    </cmd>
+    <cmd priority="6_1_2">
+        <title name="教学文档" />
+        <backpicture name="01.bmp" />
+        <picture name="6_1_2通信与网络-短距离通信技术-短距离通信用途3-1.bmp" index="0" />
+        <picture name="6_1_2通信与网络-短距离通信技术-短距离通信用途3-2.bmp" index="0" />
+        <picture name="6_1_2通信与网络-短距离通信技术-短距离通信用途3-3.bmp" index="0" />
+        <linktitle name="网络连线" />
+    </cmd>
+    <cmd priority="6_1_3">
+        <title name="教学文档" />
+        <backpicture name="01.bmp" />
+        <picture name="6_1_3通信与网络-短距离通信技术-短距离通信选用原则3-1.bmp" index="0" />
+        <picture name="6_1_3通信与网络-短距离通信技术-短距离通信选用原则3-2.bmp" index="0" />
+        <picture name="6_1_3通信与网络-短距离通信技术-短距离通信选用原则3-3.bmp" index="0" />
+        <linktitle name="网络连线" />
+    </cmd>
+    <cmd priority="6_3_1">
+        <title name="教学文档" />
+        <backpicture name="01.bmp" />
+        <picture name="6_3_1通信与网络-RS485有线通信-RS485基础知识21-1.bmp" index="0" />
+        <picture name="6_3_1通信与网络-RS485有线通信-RS485基础知识21-2.bmp" index="0" />
+        <picture name="6_3_1通信与网络-RS485有线通信-RS485基础知识21-3.bmp" index="0" />
+        <picture name="6_3_1通信与网络-RS485有线通信-RS485基础知识21-4.bmp" index="0" />
+        <picture name="6_3_1通信与网络-RS485有线通信-RS485基础知识21-5.bmp" index="0" />
+        <picture name="6_3_1通信与网络-RS485有线通信-RS485基础知识21-6.bmp" index="0" />
+        <picture name="6_3_1通信与网络-RS485有线通信-RS485基础知识21-7.bmp" index="0" />
+        <picture name="6_3_1通信与网络-RS485有线通信-RS485基础知识21-8.bmp" index="0" />
+        <picture name="6_3_1通信与网络-RS485有线通信-RS485基础知识21-9.bmp" index="0" />
+        <picture name="6_3_1通信与网络-RS485有线通信-RS485基础知识21-10.bmp" index="0" />
+        <picture name="6_3_1通信与网络-RS485有线通信-RS485基础知识21-11.bmp" index="0" />
+        <picture name="6_3_1通信与网络-RS485有线通信-RS485基础知识21-12.bmp" index="0" />
+        <picture name="6_3_1通信与网络-RS485有线通信-RS485基础知识21-13.bmp" index="0" />
+        <picture name="6_3_1通信与网络-RS485有线通信-RS485基础知识21-14.bmp" index="0" />
+        <picture name="6_3_1通信与网络-RS485有线通信-RS485基础知识21-15.bmp" index="0" />
+        <picture name="6_3_1通信与网络-RS485有线通信-RS485基础知识21-16.bmp" index="0" />
+        <picture name="6_3_1通信与网络-RS485有线通信-RS485基础知识21-17.bmp" index="0" />
+        <picture name="6_3_1通信与网络-RS485有线通信-RS485基础知识21-18.bmp" index="0" />
+        <picture name="6_3_1通信与网络-RS485有线通信-RS485基础知识21-19.bmp" index="0" />
+        <picture name="6_3_1通信与网络-RS485有线通信-RS485基础知识21-20.bmp" index="0" />
+        <picture name="6_3_1通信与网络-RS485有线通信-RS485基础知识21-21.bmp" index="0" />
+        <linktitle name="网络连线" />
+    </cmd>
+    <cmd priority="6_3_2">
+        <title name="教学文档" />
+        <backpicture name="01.bmp" />
+        <picture name="6_3_2通信与网络-RS485有线通信-RS485通信技术应用16-1.bmp" index="0" />
+        <picture name="6_3_2通信与网络-RS485有线通信-RS485通信技术应用16-2.bmp" index="0" />
+        <picture name="6_3_2通信与网络-RS485有线通信-RS485通信技术应用16-3.bmp" index="0" />
+        <picture name="6_3_2通信与网络-RS485有线通信-RS485通信技术应用16-4.bmp" index="0" />
+        <picture name="6_3_2通信与网络-RS485有线通信-RS485通信技术应用16-5.bmp" index="0" />
+        <picture name="6_3_2通信与网络-RS485有线通信-RS485通信技术应用16-6.bmp" index="0" />
+        <picture name="6_3_2通信与网络-RS485有线通信-RS485通信技术应用16-7.bmp" index="0" />
+        <picture name="6_3_2通信与网络-RS485有线通信-RS485通信技术应用16-8.bmp" index="0" />
+        <picture name="6_3_2通信与网络-RS485有线通信-RS485通信技术应用16-9.bmp" index="0" />
+        <picture name="6_3_2通信与网络-RS485有线通信-RS485通信技术应用16-10.bmp" index="0" />
+        <picture name="6_3_2通信与网络-RS485有线通信-RS485通信技术应用16-11.bmp" index="0" />
+        <picture name="6_3_2通信与网络-RS485有线通信-RS485通信技术应用16-12.bmp" index="0" />
+        <picture name="6_3_2通信与网络-RS485有线通信-RS485通信技术应用16-13.bmp" index="0" />
+        <picture name="6_3_2通信与网络-RS485有线通信-RS485通信技术应用16-14.bmp" index="0" />
+        <picture name="6_3_2通信与网络-RS485有线通信-RS485通信技术应用16-15.bmp" index="0" />
+        <picture name="6_3_2通信与网络-RS485有线通信-RS485通信技术应用16-16.bmp" index="0" />
+        <linktitle name="网络连线" />
+    </cmd>
+    <cmd priority="6_3_3">
+        <title name="教学文档" />
+        <backpicture name="01.bmp" />
+        <picture name="6_3_3通信与网络-RS485有线通信-RS485网络构架7-1.bmp" index="0" />
+        <picture name="6_3_3通信与网络-RS485有线通信-RS485网络构架7-2.bmp" index="0" />
+        <picture name="6_3_3通信与网络-RS485有线通信-RS485网络构架7-3.bmp" index="0" />
+        <picture name="6_3_3通信与网络-RS485有线通信-RS485网络构架7-4.bmp" index="0" />
+        <picture name="6_3_3通信与网络-RS485有线通信-RS485网络构架7-5.bmp" index="0" />
+        <picture name="6_3_3通信与网络-RS485有线通信-RS485网络构架7-6.bmp" index="0" />
+        <picture name="6_3_3通信与网络-RS485有线通信-RS485网络构架7-7.bmp" index="0" />
+        <linktitle name="网络连线" />
+    </cmd>
+    <cmd priority="6_2_1">
+        <title name="教学文档" />
+        <backpicture name="01.bmp" />
+        <picture name="6_2_1通信与网络-ZigBee无线通信-ZigBee基础知识13-1.bmp" index="0" />
+        <picture name="6_2_1通信与网络-ZigBee无线通信-ZigBee基础知识13-2.bmp" index="0" />
+        <picture name="6_2_1通信与网络-ZigBee无线通信-ZigBee基础知识13-3.bmp" index="0" />
+        <picture name="6_2_1通信与网络-ZigBee无线通信-ZigBee基础知识13-4.bmp" index="0" />
+        <picture name="6_2_1通信与网络-ZigBee无线通信-ZigBee基础知识13-5.bmp" index="0" />
+        <picture name="6_2_1通信与网络-ZigBee无线通信-ZigBee基础知识13-6.bmp" index="0" />
+        <picture name="6_2_1通信与网络-ZigBee无线通信-ZigBee基础知识13-7.bmp" index="0" />
+        <picture name="6_2_1通信与网络-ZigBee无线通信-ZigBee基础知识13-8.bmp" index="0" />
+        <picture name="6_2_1通信与网络-ZigBee无线通信-ZigBee基础知识13-9.bmp" index="0" />
+        <picture name="6_2_1通信与网络-ZigBee无线通信-ZigBee基础知识13-10.bmp" index="0" />
+        <picture name="6_2_1通信与网络-ZigBee无线通信-ZigBee基础知识13-11.bmp" index="0" />
+        <picture name="6_2_1通信与网络-ZigBee无线通信-ZigBee基础知识13-12.bmp" index="0" />
+        <picture name="6_2_1通信与网络-ZigBee无线通信-ZigBee基础知识13-13.bmp" index="0" />
+        <linktitle name="网络连线" />
+    </cmd>
+    <cmd priority="6_2_2">
+        <title name="教学文档" />
+        <backpicture name="01.bmp" />
+        <picture name="6_2_2通信与网络 -ZigBee无线通信-ZigBee网络构架3-1.bmp" index="0" />
+        <picture name="6_2_2通信与网络 -ZigBee无线通信-ZigBee网络构架3-2.bmp" index="0" />
+        <picture name="6_2_2通信与网络 -ZigBee无线通信-ZigBee网络构架3-3.bmp" index="0" />
+        <linktitle name="网络连线" />
+    </cmd>
+    <cmd priority="6_2_3">
+        <title name="教学文档" />
+        <backpicture name="01.bmp" />
+        <picture name="6_2_3通信与网络-ZigBee无线通信-ZigBee模块配置23-1.bmp" index="0" />
+        <picture name="6_2_3通信与网络-ZigBee无线通信-ZigBee模块配置23-2.bmp" index="0" />
+        <picture name="6_2_3通信与网络-ZigBee无线通信-ZigBee模块配置23-3.bmp" index="0" />
+        <picture name="6_2_3通信与网络-ZigBee无线通信-ZigBee模块配置23-4.bmp" index="0" />
+        <picture name="6_2_3通信与网络-ZigBee无线通信-ZigBee模块配置23-5.bmp" index="0" />
+        <picture name="6_2_3通信与网络-ZigBee无线通信-ZigBee模块配置23-6.bmp" index="0" />
+        <picture name="6_2_3通信与网络-ZigBee无线通信-ZigBee模块配置23-7.bmp" index="0" />
+        <picture name="6_2_3通信与网络-ZigBee无线通信-ZigBee模块配置23-8.bmp" index="0" />
+        <picture name="6_2_3通信与网络-ZigBee无线通信-ZigBee模块配置23-9.bmp" index="0" />
+        <picture name="6_2_3通信与网络-ZigBee无线通信-ZigBee模块配置23-10.bmp" index="0" />
+        <picture name="6_2_3通信与网络-ZigBee无线通信-ZigBee模块配置23-11.bmp" index="0" />
+        <picture name="6_2_3通信与网络-ZigBee无线通信-ZigBee模块配置23-12.bmp" index="0" />
+        <picture name="6_2_3通信与网络-ZigBee无线通信-ZigBee模块配置23-13.bmp" index="0" />
+        <picture name="6_2_3通信与网络-ZigBee无线通信-ZigBee模块配置23-14.bmp" index="0" />
+        <picture name="6_2_3通信与网络-ZigBee无线通信-ZigBee模块配置23-15.bmp" index="0" />
+        <picture name="6_2_3通信与网络-ZigBee无线通信-ZigBee模块配置23-16.bmp" index="0" />
+        <picture name="6_2_3通信与网络-ZigBee无线通信-ZigBee模块配置23-17.bmp" index="0" />
+        <picture name="6_2_3通信与网络-ZigBee无线通信-ZigBee模块配置23-18.bmp" index="0" />
+        <picture name="6_2_3通信与网络-ZigBee无线通信-ZigBee模块配置23-19.bmp" index="0" />
+        <picture name="6_2_3通信与网络-ZigBee无线通信-ZigBee模块配置23-20.bmp" index="0" />
+        <picture name="6_2_3通信与网络-ZigBee无线通信-ZigBee模块配置23-21.bmp" index="0" />
+        <picture name="6_2_3通信与网络-ZigBee无线通信-ZigBee模块配置23-22.bmp" index="0" />
+        <picture name="6_2_3通信与网络-ZigBee无线通信-ZigBee模块配置23-23.bmp" index="0" />
+        <linktitle name="网络连线" />
+    </cmd>
+    <cmd priority="6_2_5">
+        <title name="教学文档" />
+        <backpicture name="01.bmp" />
+        <picture name="6_2_5通信与网络-ZigBee无线通信-环境采集子系统33-1.bmp" index="0" />
+        <picture name="6_2_5通信与网络-ZigBee无线通信-环境采集子系统33-2.bmp" index="0" />
+        <picture name="6_2_5通信与网络-ZigBee无线通信-环境采集子系统33-3.bmp" index="0" />
+        <picture name="6_2_5通信与网络-ZigBee无线通信-环境采集子系统33-4.bmp" index="0" />
+        <picture name="6_2_5通信与网络-ZigBee无线通信-环境采集子系统33-5.bmp" index="0" />
+        <picture name="6_2_5通信与网络-ZigBee无线通信-环境采集子系统33-6.bmp" index="0" />
+        <picture name="6_2_5通信与网络-ZigBee无线通信-环境采集子系统33-7.bmp" index="0" />
+        <picture name="6_2_5通信与网络-ZigBee无线通信-环境采集子系统33-8.bmp" index="0" />
+        <picture name="6_2_5通信与网络-ZigBee无线通信-环境采集子系统33-9.bmp" index="0" />
+        <picture name="6_2_5通信与网络-ZigBee无线通信-环境采集子系统33-10.bmp" index="0" />
+        <picture name="6_2_5通信与网络-ZigBee无线通信-环境采集子系统33-11.bmp" index="0" />
+        <picture name="6_2_5通信与网络-ZigBee无线通信-环境采集子系统33-12.bmp" index="0" />
+        <picture name="6_2_5通信与网络-ZigBee无线通信-环境采集子系统33-13.bmp" index="0" />
+        <picture name="6_2_5通信与网络-ZigBee无线通信-环境采集子系统33-14.bmp" index="0" />
+        <picture name="6_2_5通信与网络-ZigBee无线通信-环境采集子系统33-15.bmp" index="0" />
+        <picture name="6_2_5通信与网络-ZigBee无线通信-环境采集子系统33-16.bmp" index="0" />
+        <picture name="6_2_5通信与网络-ZigBee无线通信-环境采集子系统33-17.bmp" index="0" />
+        <picture name="6_2_5通信与网络-ZigBee无线通信-环境采集子系统33-18.bmp" index="0" />
+        <picture name="6_2_5通信与网络-ZigBee无线通信-环境采集子系统33-19.bmp" index="0" />
+        <picture name="6_2_5通信与网络-ZigBee无线通信-环境采集子系统33-20.bmp" index="0" />
+        <picture name="6_2_5通信与网络-ZigBee无线通信-环境采集子系统33-21.bmp" index="0" />
+        <picture name="6_2_5通信与网络-ZigBee无线通信-环境采集子系统33-22.bmp" index="0" />
+        <picture name="6_2_5通信与网络-ZigBee无线通信-环境采集子系统33-23.bmp" index="0" />
+        <picture name="6_2_5通信与网络-ZigBee无线通信-环境采集子系统33-24.bmp" index="0" />
+        <picture name="6_2_5通信与网络-ZigBee无线通信-环境采集子系统33-25.bmp" index="0" />
+        <picture name="6_2_5通信与网络-ZigBee无线通信-环境采集子系统33-26.bmp" index="0" />
+        <picture name="6_2_5通信与网络-ZigBee无线通信-环境采集子系统33-27.bmp" index="0" />
+        <picture name="6_2_5通信与网络-ZigBee无线通信-环境采集子系统33-28.bmp" index="0" />
+        <picture name="6_2_5通信与网络-ZigBee无线通信-环境采集子系统33-29.bmp" index="0" />
+        <picture name="6_2_5通信与网络-ZigBee无线通信-环境采集子系统33-30.bmp" index="0" />
+        <picture name="6_2_5通信与网络-ZigBee无线通信-环境采集子系统33-31.bmp" index="0" />
+        <picture name="6_2_5通信与网络-ZigBee无线通信-环境采集子系统33-32.bmp" index="0" />
+        <picture name="6_2_5通信与网络-ZigBee无线通信-环境采集子系统33-33.bmp" index="0" />
+        <linktitle name="网络连线" />
+    </cmd>
+    <cmd priority="6_2_6">
+        <title name="教学文档" />
+        <backpicture name="01.bmp" />
+        <picture name="6_2_6通信与网络-ZigBee无线通信-家居安防子系统33-1.bmp" index="0" />
+        <picture name="6_2_6通信与网络-ZigBee无线通信-家居安防子系统33-2.bmp" index="0" />
+        <picture name="6_2_6通信与网络-ZigBee无线通信-家居安防子系统33-3.bmp" index="0" />
+        <picture name="6_2_6通信与网络-ZigBee无线通信-家居安防子系统33-4.bmp" index="0" />
+        <picture name="6_2_6通信与网络-ZigBee无线通信-家居安防子系统33-5.bmp" index="0" />
+        <picture name="6_2_6通信与网络-ZigBee无线通信-家居安防子系统33-6.bmp" index="0" />
+        <picture name="6_2_6通信与网络-ZigBee无线通信-家居安防子系统33-7.bmp" index="0" />
+        <picture name="6_2_6通信与网络-ZigBee无线通信-家居安防子系统33-8.bmp" index="0" />
+        <picture name="6_2_6通信与网络-ZigBee无线通信-家居安防子系统33-9.bmp" index="0" />
+        <picture name="6_2_6通信与网络-ZigBee无线通信-家居安防子系统33-10.bmp" index="0" />
+        <picture name="6_2_6通信与网络-ZigBee无线通信-家居安防子系统33-11.bmp" index="0" />
+        <picture name="6_2_6通信与网络-ZigBee无线通信-家居安防子系统33-12.bmp" index="0" />
+        <picture name="6_2_6通信与网络-ZigBee无线通信-家居安防子系统33-13.bmp" index="0" />
+        <picture name="6_2_6通信与网络-ZigBee无线通信-家居安防子系统33-14.bmp" index="0" />
+        <picture name="6_2_6通信与网络-ZigBee无线通信-家居安防子系统33-15.bmp" index="0" />
+        <picture name="6_2_6通信与网络-ZigBee无线通信-家居安防子系统33-16.bmp" index="0" />
+        <picture name="6_2_6通信与网络-ZigBee无线通信-家居安防子系统33-17.bmp" index="0" />
+        <picture name="6_2_6通信与网络-ZigBee无线通信-家居安防子系统33-18.bmp" index="0" />
+        <picture name="6_2_6通信与网络-ZigBee无线通信-家居安防子系统33-19.bmp" index="0" />
+        <picture name="6_2_6通信与网络-ZigBee无线通信-家居安防子系统33-20.bmp" index="0" />
+        <picture name="6_2_6通信与网络-ZigBee无线通信-家居安防子系统33-21.bmp" index="0" />
+        <picture name="6_2_6通信与网络-ZigBee无线通信-家居安防子系统33-22.bmp" index="0" />
+        <picture name="6_2_6通信与网络-ZigBee无线通信-家居安防子系统33-23.bmp" index="0" />
+        <picture name="6_2_6通信与网络-ZigBee无线通信-家居安防子系统33-24.bmp" index="0" />
+        <picture name="6_2_6通信与网络-ZigBee无线通信-家居安防子系统33-25.bmp" index="0" />
+        <picture name="6_2_6通信与网络-ZigBee无线通信-家居安防子系统33-26.bmp" index="0" />
+        <picture name="6_2_6通信与网络-ZigBee无线通信-家居安防子系统33-27.bmp" index="0" />
+        <picture name="6_2_6通信与网络-ZigBee无线通信-家居安防子系统33-28.bmp" index="0" />
+        <picture name="6_2_6通信与网络-ZigBee无线通信-家居安防子系统33-29.bmp" index="0" />
+        <picture name="6_2_6通信与网络-ZigBee无线通信-家居安防子系统33-30.bmp" index="0" />
+        <picture name="6_2_6通信与网络-ZigBee无线通信-家居安防子系统33-31.bmp" index="0" />
+        <picture name="6_2_6通信与网络-ZigBee无线通信-家居安防子系统33-32.bmp" index="0" />
+        <picture name="6_2_6通信与网络-ZigBee无线通信-家居安防子系统33-33.bmp" index="0" />
+        <linktitle name="网络连线" />
+    </cmd>
+    <cmd priority="3_6">
+        <title name="教学文档" />
+        <backpicture name="01.bmp" />
+        <picture name="3_6施工图设计-RS485通信子系统5-1.bmp" index="0" />
+        <picture name="3_6施工图设计-RS485通信子系统5-2.bmp" index="0" />
+        <picture name="3_6施工图设计-RS485通信子系统5-3.bmp" index="0" />
+        <picture name="3_6施工图设计-RS485通信子系统5-4.bmp" index="0" />
+        <picture name="3_6施工图设计-RS485通信子系统5-5.bmp" index="0" />
+        <linktitle name="网络连线" />
+    </cmd>
+    <cmd priority="5_1_7">
+        <title name="施工与检测-施工基础知识-线标打印机的使用" />
+        <backpicture name="01.bmp" />
+        <picture name="5_1_7施工与检测-施工基础知识-线标打印机的使用39-1.bmp" index="0" />
+        <picture name="5_1_7施工与检测-施工基础知识-线标打印机的使用39-2.bmp" index="0" />
+        <picture name="5_1_7施工与检测-施工基础知识-线标打印机的使用39-3.bmp" index="0" />
+        <picture name="5_1_7施工与检测-施工基础知识-线标打印机的使用39-4.bmp" index="0" />
+        <picture name="5_1_7施工与检测-施工基础知识-线标打印机的使用39-5.bmp" index="0" />
+        <picture name="5_1_7施工与检测-施工基础知识-线标打印机的使用39-6.bmp" index="0" />
+        <picture name="5_1_7施工与检测-施工基础知识-线标打印机的使用39-7.bmp" index="0" />
+        <picture name="5_1_7施工与检测-施工基础知识-线标打印机的使用39-8.bmp" index="0" />
+        <picture name="5_1_7施工与检测-施工基础知识-线标打印机的使用39-9.bmp" index="0" />
+        <picture name="5_1_7施工与检测-施工基础知识-线标打印机的使用39-10.bmp" index="0" />
+        <picture name="5_1_7施工与检测-施工基础知识-线标打印机的使用39-11.bmp" index="0" />
+        <picture name="5_1_7施工与检测-施工基础知识-线标打印机的使用39-12.bmp" index="0" />
+        <picture name="5_1_7施工与检测-施工基础知识-线标打印机的使用39-13.bmp" index="0" />
+        <picture name="5_1_7施工与检测-施工基础知识-线标打印机的使用39-14.bmp" index="0" />
+        <picture name="5_1_7施工与检测-施工基础知识-线标打印机的使用39-15.bmp" index="0" />
+        <picture name="5_1_7施工与检测-施工基础知识-线标打印机的使用39-16.bmp" index="0" />
+        <picture name="5_1_7施工与检测-施工基础知识-线标打印机的使用39-17.bmp" index="0" />
+        <picture name="5_1_7施工与检测-施工基础知识-线标打印机的使用39-18.bmp" index="0" />
+        <picture name="5_1_7施工与检测-施工基础知识-线标打印机的使用39-19.bmp" index="0" />
+        <picture name="5_1_7施工与检测-施工基础知识-线标打印机的使用39-20.bmp" index="0" />
+        <picture name="5_1_7施工与检测-施工基础知识-线标打印机的使用39-21.bmp" index="0" />
+        <picture name="5_1_7施工与检测-施工基础知识-线标打印机的使用39-22.bmp" index="0" />
+        <picture name="5_1_7施工与检测-施工基础知识-线标打印机的使用39-23.bmp" index="0" />
+        <picture name="5_1_7施工与检测-施工基础知识-线标打印机的使用39-24.bmp" index="0" />
+        <picture name="5_1_7施工与检测-施工基础知识-线标打印机的使用39-25.bmp" index="0" />
+        <picture name="5_1_7施工与检测-施工基础知识-线标打印机的使用39-26.bmp" index="0" />
+        <picture name="5_1_7施工与检测-施工基础知识-线标打印机的使用39-27.bmp" index="0" />
+        <picture name="5_1_7施工与检测-施工基础知识-线标打印机的使用39-28.bmp" index="0" />
+        <picture name="5_1_7施工与检测-施工基础知识-线标打印机的使用39-29.bmp" index="0" />
+        <picture name="5_1_7施工与检测-施工基础知识-线标打印机的使用39-30.bmp" index="0" />
+        <picture name="5_1_7施工与检测-施工基础知识-线标打印机的使用39-31.bmp" index="0" />
+        <picture name="5_1_7施工与检测-施工基础知识-线标打印机的使用39-32.bmp" index="0" />
+        <picture name="5_1_7施工与检测-施工基础知识-线标打印机的使用39-33.bmp" index="0" />
+        <picture name="5_1_7施工与检测-施工基础知识-线标打印机的使用39-34.bmp" index="0" />
+        <picture name="5_1_7施工与检测-施工基础知识-线标打印机的使用39-35.bmp" index="0" />
+        <picture name="5_1_7施工与检测-施工基础知识-线标打印机的使用39-36.bmp" index="0" />
+        <picture name="5_1_7施工与检测-施工基础知识-线标打印机的使用39-37.bmp" index="0" />
+        <picture name="5_1_7施工与检测-施工基础知识-线标打印机的使用39-38.bmp" index="0" />
+        <picture name="5_1_7施工与检测-施工基础知识-线标打印机的使用39-39.bmp" index="0" />
+        <linktitle name="网络连线" />
+    </cmd>
+    <cmd priority="6_2_8">
+        <title name="通信与网络-ZigBee无线通信-红外编码控制" />
+        <backpicture name="01.bmp" />
+        <picture name="6_2_8通信与网络-ZigBee无线通信-红外编码控制51-1.bmp" index="0" />
+        <picture name="6_2_8通信与网络-ZigBee无线通信-红外编码控制51-2.bmp" index="0" />
+        <picture name="6_2_8通信与网络-ZigBee无线通信-红外编码控制51-3.bmp" index="0" />
+        <picture name="6_2_8通信与网络-ZigBee无线通信-红外编码控制51-4.bmp" index="0" />
+        <picture name="6_2_8通信与网络-ZigBee无线通信-红外编码控制51-5.bmp" index="0" />
+        <picture name="6_2_8通信与网络-ZigBee无线通信-红外编码控制51-6.bmp" index="0" />
+        <picture name="6_2_8通信与网络-ZigBee无线通信-红外编码控制51-7.bmp" index="0" />
+        <picture name="6_2_8通信与网络-ZigBee无线通信-红外编码控制51-8.bmp" index="0" />
+        <picture name="6_2_8通信与网络-ZigBee无线通信-红外编码控制51-9.bmp" index="0" />
+        <picture name="6_2_8通信与网络-ZigBee无线通信-红外编码控制51-10.bmp" index="0" />
+        <picture name="6_2_8通信与网络-ZigBee无线通信-红外编码控制51-11.bmp" index="0" />
+        <picture name="6_2_8通信与网络-ZigBee无线通信-红外编码控制51-12.bmp" index="0" />
+        <picture name="6_2_8通信与网络-ZigBee无线通信-红外编码控制51-13.bmp" index="0" />
+        <picture name="6_2_8通信与网络-ZigBee无线通信-红外编码控制51-14.bmp" index="0" />
+        <picture name="6_2_8通信与网络-ZigBee无线通信-红外编码控制51-15.bmp" index="0" />
+        <picture name="6_2_8通信与网络-ZigBee无线通信-红外编码控制51-16.bmp" index="0" />
+        <picture name="6_2_8通信与网络-ZigBee无线通信-红外编码控制51-17.bmp" index="0" />
+        <picture name="6_2_8通信与网络-ZigBee无线通信-红外编码控制51-18.bmp" index="0" />
+        <picture name="6_2_8通信与网络-ZigBee无线通信-红外编码控制51-19.bmp" index="0" />
+        <picture name="6_2_8通信与网络-ZigBee无线通信-红外编码控制51-20.bmp" index="0" />
+        <picture name="6_2_8通信与网络-ZigBee无线通信-红外编码控制51-21.bmp" index="0" />
+        <picture name="6_2_8通信与网络-ZigBee无线通信-红外编码控制51-22.bmp" index="0" />
+        <picture name="6_2_8通信与网络-ZigBee无线通信-红外编码控制51-23.bmp" index="0" />
+        <picture name="6_2_8通信与网络-ZigBee无线通信-红外编码控制51-24.bmp" index="0" />
+        <picture name="6_2_8通信与网络-ZigBee无线通信-红外编码控制51-25.bmp" index="0" />
+        <picture name="6_2_8通信与网络-ZigBee无线通信-红外编码控制51-26.bmp" index="0" />
+        <picture name="6_2_8通信与网络-ZigBee无线通信-红外编码控制51-27.bmp" index="0" />
+        <picture name="6_2_8通信与网络-ZigBee无线通信-红外编码控制51-28.bmp" index="0" />
+        <picture name="6_2_8通信与网络-ZigBee无线通信-红外编码控制51-29.bmp" index="0" />
+        <picture name="6_2_8通信与网络-ZigBee无线通信-红外编码控制51-30.bmp" index="0" />
+        <picture name="6_2_8通信与网络-ZigBee无线通信-红外编码控制51-31.bmp" index="0" />
+        <picture name="6_2_8通信与网络-ZigBee无线通信-红外编码控制51-32.bmp" index="0" />
+        <picture name="6_2_8通信与网络-ZigBee无线通信-红外编码控制51-33.bmp" index="0" />
+        <picture name="6_2_8通信与网络-ZigBee无线通信-红外编码控制51-34.bmp" index="0" />
+        <picture name="6_2_8通信与网络-ZigBee无线通信-红外编码控制51-35.bmp" index="0" />
+        <picture name="6_2_8通信与网络-ZigBee无线通信-红外编码控制51-36.bmp" index="0" />
+        <picture name="6_2_8通信与网络-ZigBee无线通信-红外编码控制51-37.bmp" index="0" />
+        <picture name="6_2_8通信与网络-ZigBee无线通信-红外编码控制51-38.bmp" index="0" />
+        <picture name="6_2_8通信与网络-ZigBee无线通信-红外编码控制51-39.bmp" index="0" />
+        <picture name="6_2_8通信与网络-ZigBee无线通信-红外编码控制51-40.bmp" index="0" />
+        <picture name="6_2_8通信与网络-ZigBee无线通信-红外编码控制51-41.bmp" index="0" />
+        <picture name="6_2_8通信与网络-ZigBee无线通信-红外编码控制51-42.bmp" index="0" />
+        <picture name="6_2_8通信与网络-ZigBee无线通信-红外编码控制51-43.bmp" index="0" />
+        <picture name="6_2_8通信与网络-ZigBee无线通信-红外编码控制51-44.bmp" index="0" />
+        <picture name="6_2_8通信与网络-ZigBee无线通信-红外编码控制51-45.bmp" index="0" />
+        <picture name="6_2_8通信与网络-ZigBee无线通信-红外编码控制51-46.bmp" index="0" />
+        <picture name="6_2_8通信与网络-ZigBee无线通信-红外编码控制51-47.bmp" index="0" />
+        <picture name="6_2_8通信与网络-ZigBee无线通信-红外编码控制51-48.bmp" index="0" />
+        <picture name="6_2_8通信与网络-ZigBee无线通信-红外编码控制51-49.bmp" index="0" />
+        <picture name="6_2_8通信与网络-ZigBee无线通信-红外编码控制51-50.bmp" index="0" />
+        <picture name="6_2_8通信与网络-ZigBee无线通信-红外编码控制51-51.bmp" index="0" />
+        <linktitle name="网络连线" />
+    </cmd>
+    <cmd priority="5_3_7">
+        <title name="施工与检测-安防报警子系统-门禁单元设置" />
+        <backpicture name="01.bmp" />
+        <picture name="5_3_7施工与检测-安防报警子系统-门禁单元设置13-1.bmp" index="0" />
+        <picture name="5_3_7施工与检测-安防报警子系统-门禁单元设置13-2.bmp" index="0" />
+        <linktitle name="网络连线" />
+    </cmd>
+</root>
